@@ -7,7 +7,6 @@ title: Contact
 <li><strong>Phone:</strong> 020-39380281</li>
 <li><strong>Email</strong>: csyhquan@scut.edu.cn</li>
 <li><strong>Office</strong>: B3, 203-01</li>
-<li><strong>CN Page</strong>: <a href="http://www.scholat.com/csyhquan.cn">csyhquan</a></li>
 <li><strong>Mailing address</strong>:<br />
 School of Computer Science and Engineering<br />
 South China University of Technology<br />
