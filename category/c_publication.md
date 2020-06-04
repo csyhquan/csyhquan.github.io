@@ -199,7 +199,7 @@ title: Publication
 
 
 <details>
-<summary><span style="font-size: 105%;"><strong><small>2013 and before</small></strong></span></summary>
+<summary><span style="font-size: 105%;"><strong><small>2013 and Before</small></strong></span></summary>
 <small>
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>Contour-based recognition</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/12-cvpr-Contour-Based%20Recognition.pdf" download="github33">manuscript</a>]</span><br />
