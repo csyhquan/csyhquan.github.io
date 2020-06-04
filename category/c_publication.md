@@ -10,7 +10,7 @@ title: Publication
 <span style="font-size: 95%;"> Y. Quan, M. Chen, T. Pang and H. Ji,<br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Seattle, 2020</span></li>
 <li><span style="font-size: 95%;"><strong>Variational-EM-based deep learning for noise-blind image deblurring</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Variational-EM-based%20Deep%20Learning%20for%20Noise-blind%20Image%20Deblurring.pdf">manuscript</a>]</span><br />
-<span style="font-size: 95%;"> Y. Nan, Y. Quan, and H. Ji, <br />
+<span style="font-size: 95%;"> Y. Nan, Y. Quan and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Seattle, 2020</span></li>
 <li><span style="font-size: 95%;"><strong>Cartoon-texture image decomposition using orientation characteristics in patch recurrence</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> R. Xu, Y. xu, Y. Quan and H. Ji<br />
@@ -19,7 +19,7 @@ title: Publication
 <span style="font-size: 95%;">Y. Quan, J. Yang, Y. Chen, Y. Xu and H. Ji, <br />
 <em>IEEE Transactions on Computational Imaging, </em>xx(x), xxx–xxx. xxx 2020</span></li>
 <li><span style="font-size: 95%;"><strong>Factorized tensor dictionary learning for visual tensor data completion</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">manuscript</a>]</span><br />
-<span style="font-size: 95%;">R. Xu, Y. xu and Y. Quan, <br />
+<span style="font-size: 95%;">R. Xu, Y. Xu and Y. Quan, <br />
 <em>IEEE Transactions on Multimedia, </em>xx(x), xxx–xxx. xxx 2020</span></li>
 <li><span style="font-size: 95%;"><strong>Image quality assessment using kernel sparse coding</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>] [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>]</span><br />
 <span style="font-size: 95%;"> Z. Zhou, J. Li, Y. Quan and R. Xu, <br />
@@ -200,7 +200,7 @@ title: Publication
 <span style="font-size: 95%;">Y. Xu, Y. Quan, H. Ling and H. Ji,<br />
 <em>  IEEE International Conference on Computer Vision (ICCV),</em> 2011</span></li>
 <li><span style="font-size: 95%;"><strong>Contour-based recognition</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/12-cvpr-Contour-Based%20Recognition.pdf" download="github33">manuscript</a>]</span><br />
-<span style="font-size: 95%;">Y. Xu; Y. Quan, Z. Zhang, H. Ji and C. Fermüller, M. Nishigaki, D. Dementhon,<br />
+<span style="font-size: 95%;">Y. Xu; Y. Quan, Z. Zhang, H. Ji, C. Fermüller, M. Nishigaki and D. Dementhon,<br />
 <em>  IEEE Conference on Computer Vision and Pattern Recognition (CVPR),</em> 2012</span></li>
 </ul>
 </small>
