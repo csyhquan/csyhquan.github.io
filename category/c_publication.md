@@ -82,7 +82,7 @@ title: Publication
 <span style="font-size: 95%;"> Y. Xu, C. Zheng, R. Xu, Y. Quan,<br />
 <em> IEEE Access, </em>7, 111678-111691, Aug 2019</span></li>
 <li><span style="font-size: 95%;"><strong>Exploiting global low-rank structure and local sparsity nature for tensor completion</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-tcyb-Exploiting%20Global%20Low-rank%20Structure%20and%20Local%20Sparsity%20Nature%20for%20Tensor%20Completion.pdf" download="github10">manuscript</a>]</span><br />
-<span style="font-size: 95%;"> Y. Du; G. Han, Y. Quan, Z. Yu, H. Wong, C. Chen, J. Zhang,<br />
+<span style="font-size: 95%;"> Y. Du, G. Han, Y. Quan, Z. Yu, H. Wong, C. Chen, J. Zhang,<br />
 <em> IEEE Transactions on Cybernetics,</em> 49(11), 3898-3910, Nov 2019</span></li>
 </ul>
 </small>
