@@ -13,7 +13,7 @@ title: Publication
 <span style="font-size: 95%;"> Y. Nan, Y. Quan and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Seattle, 2020</span></li>
 <li><span style="font-size: 95%;"><strong>Cartoon-texture image decomposition using orientation characteristics in patch recurrence</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">manuscript</a>]</span><br />
-<span style="font-size: 95%;"> R. Xu, Y. xu, Y. Quan and H. Ji<br />
+<span style="font-size: 95%;"> R. Xu, Y. Xu, Y. Quan and H. Ji<br />
 <em>SIAM Journal on Imaging Sciences, </em>xx(x), xxx–xxx. xxx 2020</span></li>
 <li><span style="font-size: 95%;"><strong>Collaborative deep learning for super-resolving blurry text images</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">manuscript</a>]</span><br />
 <span style="font-size: 95%;">Y. Quan, J. Yang, Y. Chen, Y. Xu and H. Ji, <br />
