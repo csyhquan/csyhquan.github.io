@@ -162,7 +162,7 @@ title: Publication
 <em>  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em><!--Columbus, Jun -->2014</span></li>
 <li><span style="font-size: 95%;"><strong>Reduced reference image quality assessment using regularity of phase congruency</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-spic-Reduced%20Reference%20Image%20Quality%20Assessment%20Using%20Regularity%20of%20Phase%20Congruency.pdf" download="github30">manuscript</a>]</span><br />
 <span style="font-size: 95%;">D. Liu, Y. Xu, Y. Quan and P. Callet,<br />
-<em> Signal Processing: Image Communication,</em> 29(8), 844-855, sep 2014</span></li>
+<em> Signal Processing: Image Communication,</em> 29(8), 844-855, Sep 2014</span></li>
 <li><span style="font-size: 95%;"><strong>A distinct and compact texture descriptor</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-ivc-A%20distinct%20and%20compact%20texture%20descriptor.pdf" download="github31">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/14-ivc-A%20distinct%20and%20compact%20texture%20descriptor/pfs_v1.rar" download="code3">code</a>]</span><br />
 <span style="font-size: 95%;"> Y. Quan, Y. Xu and Y. Sun,<br />
 <em> Image and Vision Computing,</em> 32(4), 250-259, Apr 2014</span></li>
