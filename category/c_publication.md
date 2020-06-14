@@ -14,7 +14,7 @@ title: Publication
  <em> IEEE Signal Processing Letters, </em>27(1), 116-120, Dec 2020</span></li>
  <li><span style="font-size: 95%;"><strong>Image denoising via sequential ensemble learning</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf" download="github4">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning/ensemble-denoiser.rar" download="code9">code</a>]</span><br />
 <span style="font-size: 95%;"> X. Yang, Y. Xu, Y. Quan and H. Ji,<br />
- <em> IEEE Signal Processing Letters, </em>29(1), 5038-5049, Dec 2020</span></li>
+ <em> IEEE Transactions on Image Processing, </em>29(1), 5038-5049, Dec 2020</span></li>
  <li><span style="font-size: 95%;"><strong>Self2self with dropout: learning self-supervised denoising from single image</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image%20(SUPP).pdf">supp</a>]</span><br />
 <span style="font-size: 95%;"> Y. Quan, M. Chen, T. Pang and H. Ji,<br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Seattle, 2020</span></li>
