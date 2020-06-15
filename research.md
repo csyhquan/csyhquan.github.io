@@ -129,6 +129,71 @@ sidebar_link: true
 
 
 
+<!---------------------------------4-------------------------------------------------->
+<!---------------------------------4-------------------------------------------------->
+<!---------------------------------4-------------------------------------------------->
+<details open="">
+<summary><strong>Exploiting Patch Recurrence for Image Processing</strong></summary>
+<ul>
+<!--4-1-->
+<details>
+<summary><strong><small><font color="#004D86">Data-driven Multi-scale Non-local Wavelet Frame Construction and Image Recovery</font> </small></strong></summary>
+<table>
+<tbody>
+<tr>
+ <th>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_1_1.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_1_2.png" alt="" height="130"/>
+<ul>
+<small>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-josc-Data-driven%20multi-scale%20non-local%20wavelet%20frame%20construction%20and%20image%20recovery.pdf">Data-driven multi-scale non-local wavelet frame construction and image recovery </a></strong>, JOSC, 2015.</li>
+</small>
+</ul>
+ </th>
+</tr>
+</tbody>
+</table>
+</details>
+<!--4-2-->
+<details>
+<summary><strong><small><font color="#004D86">Cartoon-Texture Decomposition via Discriminative Patch Recurrence </font></small></strong></summary>
+<table>
+<tbody>
+<tr>
+ <th>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_2_1.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_2_2.png" alt="" height="130"/>
+<ul>
+<small>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">Cartoon-texture image decomposition using orientation characteristics in  patch recurrence</a></strong>, SIIMS, 2020.</li>
+</small>
+</ul>
+ </th>
+</tr>
+</tbody>
+</table>
+</details>
+<!--4-3-->
+<details>
+<summary><strong><small><font color="#004D86">Removing Ghosting Reflections from Single Image </font></small></strong></summary>
+<table>
+<tbody>
+<tr>
+ <th>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_3_1.png" alt="" height="130"/>
+<ul>
+<small>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tci-Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect.pdf">Removing reflection from a single image with ghosting effect</a></strong>, TCI, 2020.</li>
+</small>
+</ul>
+ </th>
+</tr>
+</tbody>
+</table>
+</details>
+</ul>
+</details>
+
 <!---------------------------------3-------------------------------------------------->
 <!---------------------------------3-------------------------------------------------->
 <!---------------------------------3-------------------------------------------------->
@@ -237,70 +302,7 @@ sidebar_link: true
 </ul>
 </details>
 
-<!---------------------------------4-------------------------------------------------->
-<!---------------------------------4-------------------------------------------------->
-<!---------------------------------4-------------------------------------------------->
-<details open="">
-<summary><strong>Exploiting Patch Recurrence for Image Processing</strong></summary>
-<ul>
-<!--4-1-->
-<details>
-<summary><strong><small><font color="#004D86">Data-driven Multi-scale Non-local Wavelet Frame Construction and Image Recovery</font> </small></strong></summary>
-<table>
-<tbody>
-<tr>
- <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_1_1.png" alt="" height="130"/>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_1_2.png" alt="" height="130"/>
-<ul>
-<small>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-josc-Data-driven%20multi-scale%20non-local%20wavelet%20frame%20construction%20and%20image%20recovery.pdf">Data-driven multi-scale non-local wavelet frame construction and image recovery </a></strong>, JOSC, 2015.</li>
-</small>
-</ul>
- </th>
-</tr>
-</tbody>
-</table>
-</details>
-<!--4-2-->
-<details>
-<summary><strong><small><font color="#004D86">Cartoon-Texture Decomposition via Discriminative Patch Recurrence </font></small></strong></summary>
-<table>
-<tbody>
-<tr>
- <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_2_1.png" alt="" height="130"/>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_2_2.png" alt="" height="130"/>
-<ul>
-<small>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">Cartoon-texture image decomposition using orientation characteristics in  patch recurrence</a></strong>, SIIMS, 2020.</li>
-</small>
-</ul>
- </th>
-</tr>
-</tbody>
-</table>
-</details>
-<!--4-3-->
-<details>
-<summary><strong><small><font color="#004D86">Removing Ghosting Reflections from Single Image </font></small></strong></summary>
-<table>
-<tbody>
-<tr>
- <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_3_1.png" alt="" height="130"/>
-<ul>
-<small>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tci-Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect.pdf">Removing reflection from a single image with ghosting effect</a></strong>, TCI, 2020.</li>
-</small>
-</ul>
- </th>
-</tr>
-</tbody>
-</table>
-</details>
-</ul>
-</details>
+
 
 <!---------------------------------5-------------------------------------------------->
 <!---------------------------------5-------------------------------------------------->
