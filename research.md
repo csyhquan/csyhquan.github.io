@@ -41,7 +41,7 @@ sidebar_link: true
 <ul>
 <!--2-1-->
 <details>
-<summary><strong><small><font color="#004D86">Sequential Ensemble Learning for Image Denoising</font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Image Denoising via Sequential Ensemble Learning</font></small></strong></summary>
 
 <table>
 <tbody>
@@ -61,7 +61,7 @@ sidebar_link: true
 
 <!--2-2-->
 <details>
-<summary><strong><small><font color="#004D86">Variational-EM-based Deep Learning for Noise-blind Image Deblurring</font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Non-Blind Image Deblurring via Variational-EM-Based Deep Learning</font></small></strong></summary>
 
 <table>
 <tbody>
@@ -81,7 +81,7 @@ sidebar_link: true
 
 <!--2-3-->
 <details>
-<summary><strong><small><font color="#004D86">Collaborative Deep Learning for Super-resolving Blurry Text Images</font></small></strong></summary>
+<summary><strong><small><font color="#004D86"> Super-resolving Blurry Text Images via Collaborative Deep Learning</font></small></strong></summary>
 
 <table>
 <tbody>
@@ -103,7 +103,7 @@ sidebar_link: true
 
 <!--2-4-->
 <details>
-<summary><strong><small><font color="#004D86">Shape Attention for Image Raindrop Removal</font></small></strong></summary>
+<summary><strong><small><font color="#004D86"> Image Raindrop Removal via Shape Attention</font></small></strong></summary>
 
 <table>
 <tbody>
