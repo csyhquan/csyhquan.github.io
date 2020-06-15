@@ -16,7 +16,7 @@ sidebar_link: true
 <summary><strong><small><font color="#004D86">Self2Self: Self-Supervised Image Denoising</font></small></strong></summary>
 
 <table  style="background-color: #fff;">
-<tbody>
+<tbody  style="background-color: #fff;">
 <tr>
  <th>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im1.png" alt="" height="130" />
