@@ -81,7 +81,7 @@ sidebar_link: true
 
 <!--2-3-->
 <details>
-<summary><strong><small><font color="#004D86"> Super-resolving Blurry Text Images via Collaborative Deep Learning</font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Super-resolving Blurry Text Images via Collaborative Deep Learning</font></small></strong></summary>
 
 <table>
 <tbody>
@@ -103,7 +103,7 @@ sidebar_link: true
 
 <!--2-4-->
 <details>
-<summary><strong><small><font color="#004D86"> Image Raindrop Removal via Shape Attention</font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Image Raindrop Removal via Shape Attention</font></small></strong></summary>
 
 <table>
 <tbody>
