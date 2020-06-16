@@ -293,8 +293,8 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_4_1.png" alt="" height="130"/>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_4_2.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_5_1.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_5_2.png" alt="" height="130"/>
 <ul>
 <small>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-tpami-Dictionary%20learning%20for%20sparse%20coding_Algorithms%20and%20convergence%20analysis.pdf">Dictionary learning for sparse coding：Algorithms and convergence analysis </a></strong>, TPAMI, 2016.</li>
