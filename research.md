@@ -451,7 +451,9 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_2_1.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_2_1.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_2_2.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_2_3.png" alt="" height="130"/>
 <ul>
 <small>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">Watermarking deep neural networks in image processing </a></strong>, TNNLS, 2020.</li>
