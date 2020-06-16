@@ -472,7 +472,8 @@ sidebar_link: true
 <tr>
  <th>
  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_2_1.png" alt="" height="130"/>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_2_2.png" alt="" height="130"/>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_2_3.png" alt="" height="130"/>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_2_4.png" alt="" height="130"/>
 <ul>
 <small>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/12-cvpr-Contour-Based%20Recognition.pdf">Contour-based recognition </a></strong>, CVPR, 2012.</li>
