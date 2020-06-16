@@ -233,6 +233,7 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_2_1.png" alt="" height="130"/>
 <ul>
 <small>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">Factorized tensor dictionary learning for visual tensor data completion </a></strong>, TMM, 2020.</li>
