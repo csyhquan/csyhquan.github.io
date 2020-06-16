@@ -345,12 +345,7 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_5_2_1.png" alt="" height="130"/>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_5_2_2.png" alt="" height="130"/>
-  <br />
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_5_2_3.png" alt="" height="130"/>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_5_2_4.png" alt="" height="130"/>
- 
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_5_2_0.png" alt="" height="130"/> 
 <ul>
 <small>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-tip-Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf">Fractal analysis for reduced reference image quality assessment </a></strong>, TIP, 2015.</li>
