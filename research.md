@@ -183,6 +183,7 @@ sidebar_link: true
 <tr>
  <th>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_3_1.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_3_2.png" alt="" height="130"/>
 <ul>
 <small>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tci-Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect.pdf">Removing reflection from a single image with ghosting effect</a></strong>, TCI, 2020.</li>
