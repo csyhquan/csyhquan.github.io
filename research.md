@@ -368,6 +368,7 @@ sidebar_link: true
 <tr>
  <th>
  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_1_1.png" alt="" height="130" />
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_1_2.png" alt="" height="130" />
 <ul>
 <small>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches.pdf">Estimating defocus blur via rank of local patches </a></strong>, ICCV, 2017.</li>
