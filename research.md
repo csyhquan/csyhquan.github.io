@@ -48,7 +48,7 @@ sidebar_link: true
 <tr>
  <th>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im3.png" alt="" height="130"/>
-  <a>&nbsp</a>
+  <a>&nbsp;</a>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_2_1_2.png" alt="" height="130"/>
 <ul>
 <small>
@@ -90,7 +90,7 @@ sidebar_link: true
 <tr>
  <th>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im5.png" alt="" height="130" />
-  <a>&nbsp</a>
+  <a>&nbsp;</a>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im6.png" alt="" height="130"  />
 <ul>
 <small>
@@ -145,9 +145,9 @@ sidebar_link: true
 <tr>
  <th>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_1_1.png" alt="" height="130"/>
-  <a>&nbsp</a>
+  <a>&nbsp;</a>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_1_2.png" alt="" height="130"/>
-  <a>&nbsp</a>
+  <a>&nbsp;</a>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_1_3.png" alt="" height="130"/>
 <ul>
 <small>
@@ -167,7 +167,7 @@ sidebar_link: true
 <tr>
  <th>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_2_1.png" alt="" height="130"/>
-  <a>&nbsp</a>
+  <a>&nbsp;</a>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_2_2.png" alt="" height="130"/>
 <ul>
 <small>
@@ -187,7 +187,7 @@ sidebar_link: true
 <tr>
  <th>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_3_1.png" alt="" height="130"/>
-  <a>&nbsp</a>
+  <a>&nbsp;</a>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_3_2.png" alt="" height="130"/>
 <ul>
 <small>
@@ -279,7 +279,7 @@ sidebar_link: true
 <tr>
  <th>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_4_1.png" alt="" height="130"/>
-  <a>&nbsp</a>
+  <a>&nbsp;</a>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_4_2.png" alt="" height="130"/>
 <ul>
 <small>
@@ -300,7 +300,7 @@ sidebar_link: true
 <tr>
  <th>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_5_1.png" alt="" height="130"/>
-  <a>&nbsp</a>
+  <a>&nbsp;</a>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_5_2.png" alt="" height="130"/>
 <ul>
 <small>
@@ -375,7 +375,7 @@ sidebar_link: true
 <tr>
  <th>
  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_1_1.png" alt="" height="130" />
- <a>&nbsp</a>
+ <a>&nbsp;</a>
  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_1_2.png" alt="" height="130" />
 <ul>
 <small>
