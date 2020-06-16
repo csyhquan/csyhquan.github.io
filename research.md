@@ -211,6 +211,7 @@ sidebar_link: true
 <tr>
  <th>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_1_1.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_1_2.png" alt="" height="130"/>
 <ul>
 <small>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-spl-Supervised%20Sparse%20Coding%20With%20Decision%20Forest.pdf">Supervised sparse coding with decision forest</a></strong>, SPL, 2019.</li>
