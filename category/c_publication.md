@@ -7,10 +7,11 @@ title: Publication
 <summary><span style="font-size: 105%;"><strong><small>Upcoming</small></strong></span></summary>
 <small>
 <ul style="background-color: #f2f2f2;">
+<!--
 <li><span style="font-size: 95%;"><strong>Cartoon-texture image decomposition using orientation characteristics in patch recurrence</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> R. Xu, Y. Xu, Y. Quan and H. Ji<br />
-<em>SIAM Journal on Imaging Sciences, </em>xx(x), xxx–xxx. xxx 2020</span></li>
-<li><span style="font-size: 95%;"><strong>Collaborative deep learning for super-resolving blurry text images</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">manuscript</a>]</span><br />
+<em>SIAM Journal on Imaging Sciences, </em>xx(x), xxx–xxx. xxx 2020</span></li>-->
+<li><span style="font-size: 95%;"><strong>Collaborative deep learning for super-resolving blurry text images</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">manuscript</a>][<a href="https://github.com/csjietingyang/ImplementationOfOurAcceptedPaper"><font color="#F75000">github</font></a>]</span><br />
 <span style="font-size: 95%;">Y. Quan, J. Yang, Y. Chen, Y. Xu and H. Ji, <br />
 <em>IEEE Transactions on Computational Imaging, </em>xx(x), xxx–xxx. xxx 2020</span></li>
 <li><span style="font-size: 95%;"><strong>Factorized tensor dictionary learning for visual tensor data completion</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">manuscript</a>]</span><br />
