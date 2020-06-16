@@ -273,6 +273,8 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_4_1.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_4_2.png" alt="" height="130"/>
 <ul>
 <small>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">Image quality assessment using kernel sparse coding</a></strong>, TMM, 2020.</li>
