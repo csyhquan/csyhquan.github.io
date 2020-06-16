@@ -187,7 +187,7 @@ sidebar_link: true
 <tr>
  <th>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_3_1.png" alt="" height="130"/>
-  <a>&nbsp;</a>
+  <a>&nbsp;&nbsp;</a>
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_3_2.png" alt="" height="130"/>
 <ul>
 <small>
