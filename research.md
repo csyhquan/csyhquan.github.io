@@ -9,7 +9,7 @@ sidebar_link: true
 </p>
 -->
 <details open="">
-<summary><strong>Unsupervised Deep Learning for Image Recovery</strong></summary>
+<summary><strong>Unsupervised Deep Learning for Computational Photography and Imaging</strong></summary>
 <ul>
 <!--1-1-->
 <details open="">
@@ -38,7 +38,7 @@ sidebar_link: true
 
 <!--2-->
 <details open="">
-<summary><strong>Supervised Learning for Computational Photography and Imaging</strong></summary>
+<summary><strong>Supervised Learning for Image Recovery</strong></summary>
 <ul>
 <!--2-1-->
 <details>
