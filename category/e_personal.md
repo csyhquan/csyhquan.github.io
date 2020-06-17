@@ -10,7 +10,7 @@ title: <font color="#fff",size="1">Personal</font>
 <br>
 
 <h4>Writing</h4>
-<p>One of my favorite hobbies is writing ancient Chinese poems. Some of my works can be found <a href="">here</a>.</p>
+<p>One of my favorite hobbies is writing ancient Chinese poems. Some of my works can be found <a href="https://csyhquan.github.io/category/poem/poem.html">here</a>.</p>
 <br>
 
 <h4>Just for Fun</h4>
