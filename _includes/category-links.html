@@ -4,13 +4,9 @@
 {% assign pages_list = site.pages|sort:"sidebar_sort_order" %}
 {% for node in pages_list %}
   {% if node.title != null %}
-    {% if node.layout == "category" and node.title!= "Personal" %}
+    {% if node.layout == "category" %}
       <a class="category-link {% if page.url == node.url %} active{% endif %}"
           href="{{ node.url | relative_url }}">{{ node.title }}</a>
-    {% endif %}
-	 {% if node.layout == "category" and node.title== "Personal" %}
-      <a class="category-link {% if page.url == node.url %} active{% endif %}"
-          href="{{ node.url | relative_url }}"><font size="1">{{ node.title }}</font></a>
     {% endif %}
   {% endif %}
 {% endfor %}
