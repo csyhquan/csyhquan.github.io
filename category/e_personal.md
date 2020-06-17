@@ -21,8 +21,8 @@ title: Personal
 </p>
 <br>
 <h7><strong>Toys</strong></h7>
-<p>
 Texture removal on my son’s baby play mat, based on our upcoming work.<br />
-<small>&nbsp;                                    <font color="#fff">test</font></small>    
+<small>&nbsp;                                    <font color="#fff">test</font></small>  
+<p>
 <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_3.png" alt="" height="390"/>
 </p>
