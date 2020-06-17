@@ -6,6 +6,7 @@ title: Personal
 <br>
 <h7><strong>Memory</strong></h7>
 <p><small>Could u recognize me from the photos?</small><br>
+<small>&nbsp; </small><br>
 <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_1.png" alt="" height="260"/>
 <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_2.png" alt="" height="260"/>
 </p>
@@ -22,5 +23,6 @@ title: Personal
 <h7><strong>Toys</strong></h7>
 <p>
 <small>Texture removal on my son’s baby play mat, based on our upcoming work.</small><br>
+<small>&nbsp; </small><br>
 <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_3.png" alt="" height="390"/>
 </p>
