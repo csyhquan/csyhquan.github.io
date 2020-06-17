@@ -152,7 +152,7 @@ sidebar_link: true
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_1_3.png" alt="" height="130"/>
 <ul>
 <small>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-josc-Data-driven%20multi-scale%20non-local%20wavelet%20frame%20construction%20and%20image%20recovery.pdf">Data-driven multi-scale non-local wavelet frame construction and image recovery </a></strong>, JOSC, 2015.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-josc-Data-driven%20multi-scale%20non-local%20wavelet%20frame%20construction%20and%20image%20recovery.pdf">Data-driven multi-scale non-local wavelet frame construction and image recovery </a></strong>, JoSC, 2015.</li>
 </small>
 </ul>
  </th>
