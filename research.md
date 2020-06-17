@@ -84,7 +84,7 @@ sidebar_link: true
 
 <!--2-3-->
 <details>
-<summary><strong><small><font color="#004D86">Super-resolving Blurry Text Images via Collaborative Deep Learning</font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Super-Resolving Blurry Text Images via Collaborative Deep Learning</font></small></strong></summary>
 
 <table>
 <tbody>
@@ -140,7 +140,7 @@ sidebar_link: true
 <ul>
 <!--4-1-->
 <details>
-<summary><strong><small><font color="#004D86">Data-driven Multi-scale Non-local Wavelet Frame Construction and Image Recovery</font> </small></strong></summary>
+<summary><strong><small><font color="#004D86">Data-Driven Multi-Scale Non-local Wavelet Frame Construction and Image Recovery</font> </small></strong></summary>
 <table>
 <tbody>
 <tr>
