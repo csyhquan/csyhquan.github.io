@@ -21,7 +21,6 @@ title: Personal
 <br>
 <h7><strong>Toys</strong></h7>
 Texture removal on my son’s baby play mat, based on our upcoming work.
-<br />
 <p>
 <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_3.png" alt="" height="390"/>
 </p>
