@@ -1,6 +1,6 @@
 ---
 layout: category
-title: <font color="#fff",size="1">Personal</font>
+title:  
 ---
 <h4>Memory</h4>
 <p>Could u recognize me from the photos?</p>
