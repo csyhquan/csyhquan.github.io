@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: <font color="#fff",size="1">Poem</font>
 ---
 <h4>Memory</h4>
