@@ -24,9 +24,8 @@ p.ex1 {margin-bottom:0.3cm}
 </small></p>
 <br>
 <h7><strong>Toys</strong></h7>
-<p>
+<p class="ex1">
 <small>Texture removal on my son’s baby play mat, based on our upcoming work.</small></p>
 <p>
-<small>&nbsp; </small><br>
 <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_3.png" alt="" height="390"/>
 </p>
