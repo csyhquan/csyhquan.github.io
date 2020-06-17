@@ -1,7 +1,9 @@
 ---
 layout: category
-title: <font color="#fff">Personal</font>
+title: Personal
 ---
+<p>You may find something interesting in this page.</p>
+<br>
 <h4>Memory</h4>
 <p>Could u recognize me from the photos?</p>
 <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_1.png" alt="" height="260"/>
