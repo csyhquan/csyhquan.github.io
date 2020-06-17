@@ -2,7 +2,6 @@
 layout: category
 title: Personal
 ---
-<h4>Memory</h4>
 <p>Could u recognize me from the photos?</p>
 <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_1.png" alt="" height="260"/>
 <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_2.png" alt="" height="260"/>
