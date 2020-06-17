@@ -10,7 +10,6 @@ layout: category
 
 <h4>Writing</h4>
 <p>One of my favorite hobbies is writing ancient Chinese poems. Some of my works can be found <a href="https://csyhquan.github.io/category/poem.html">here</a>.</p>
-<br>
 
 <h4>Just for Fun</h4>
 <p>I made some mini games when I was a student. Sometimes I use them to relax myself when the research is stuck. Hope they can serve you as well. I was too lazy to write readme files for the games. You may have to explore the rules by yourself.</p>
