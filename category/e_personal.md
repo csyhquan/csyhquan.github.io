@@ -3,7 +3,6 @@ layout: category
 title: Personal
 ---
 <p>You may find something interesting in this page.</p>
-<br>
 <h7><strong>Memory</strong></h7>
 <p>Could u recognize me from the photos?</p>
 <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_1.png" alt="" height="260"/>
