@@ -427,7 +427,7 @@ sidebar_link: true
 <ul>
 <!--6-1-->
 <details>
-<summary><strong><small><font color="#004D86">Lacunarity/Fractal Feature for Texture Recognition</font> </small></strong></summary>
+<summary><strong><small><font color="#004D86">Lacunarity/Fractal Statistics for Texture Recognition</font> </small></strong></summary>
 <table>
 <tbody>
 <tr>
