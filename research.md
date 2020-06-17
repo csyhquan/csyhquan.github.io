@@ -19,7 +19,7 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im1.png" alt="" height="130" />
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/teaser_1.png" alt="" height="130" />
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im2.png" alt="" height="130" />
   <ul>
   <small>
