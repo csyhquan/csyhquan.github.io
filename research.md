@@ -124,8 +124,32 @@ sidebar_link: true
 </tr>
 </tbody>
 </table>
-
 </details>
+
+
+<!--7-1-->
+<details>
+<summary><strong><small><font color="#004D86">Intellectual Property Protection of Supervised Learning Systems in Image Recovery</font> </small></strong></summary>
+<table>
+<tbody>
+<tr>
+ <th>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_2_1.png" alt="" height="130"/>
+  <a>&nbsp;</a>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_2_4.png" alt="" height="130"/>
+<ul>
+<small>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">Watermarking deep neural networks in image processing </a></strong>, TNNLS, 2020.</li>
+</small>
+</ul>
+</th>
+</tr>
+</tbody>
+</table>
+</details>
+
+
+
 
 </ul>
 </details>
@@ -403,18 +427,26 @@ sidebar_link: true
 <ul>
 <!--6-1-->
 <details>
-<summary><strong><small><font color="#004D86">Lacunarity Spetrum Analysis</font> </small></strong></summary>
+<summary><strong><small><font color="#004D86">Lacunarity/Fractal Feature for Texture Recognition</font> </small></strong></summary>
 <table>
 <tbody>
 <tr>
  <th>
  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/laun.png" alt="" height="130"/>
  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/laun1.png" alt="" height="130"/>
+ <br>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_1_1.png" alt="" height="130" />
+ <a>&nbsp;</a>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_1_2.png" alt="" height="130" />
 <ul>
 <small>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-cviu-Spatiotemporal%20lacunarity%20spectrum%20for%20dynamic%20texture%20classification.pdf">Spatiotemporal lacunarity spectrum for dynamic texture classification</a></strong>, CVIU, 2017.</li>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-icme-CHARACTERIZING%20DYNAMIC%20TEXTURES%20WITH%20SPACE-TIME%20LACUNARITY%20ANALYSIS.pdf">Characterizing dynamic textures with space-time lacunarity analysis </a></strong>, ICME, 2015.</li>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-Lacunarity%20Analysis%20on%20Image%20Patterns%20for%20Texture%20Classification.pdf">Lacunarity analysis on image patterns for texture classification </a></strong>, CVPR, 2014.</li>
+
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-pr-Classifying%20dynamic%20textures%20via%20spatiotemporal%20fractal%20analysis.pdf">Classifying dynamic textures via spatiotemporal fractal analysis </a></strong>, PR, 2015.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-ivc-A%20distinct%20and%20compact%20texture%20descriptor.pdf">A distinct and compact texture descriptor </a></strong>, IVC, 2014.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/11-iccv-Dynamic%20Texture%20Classification%20Using%20Dynamic%20Fractal%20Analysis.pdf">Dynamic texture classification using dynamic fractal analysis </a></strong>, ICCV, 2011.</li>
 </small>
 </ul>
 </th>
@@ -423,6 +455,7 @@ sidebar_link: true
 </table>
 </details>
 <!--6-2-->
+<!--
 <details>
 <summary><strong><small><font color="#004D86">Fractal Spetrum Analysis </font></small></strong></summary>
 <table>
@@ -443,39 +476,8 @@ sidebar_link: true
 </tr>
 </tbody>
 </table>
-</details>
+</details>-->
 
-
-</ul>
-</details>
-
-<!---------------------------------7-------------------------------------------------->
-<!---------------------------------7-------------------------------------------------->
-<!---------------------------------7-------------------------------------------------->
-
-<details open="">
-<summary><strong>Misc.</strong></summary>
-<ul>
-<!--7-1-->
-<details>
-<summary><strong><small><font color="#004D86">Watermarking Deep Neural Networks in Image Processing</font> </small></strong></summary>
-<table>
-<tbody>
-<tr>
- <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_2_1.png" alt="" height="130"/>
-  <a>&nbsp;</a>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_2_4.png" alt="" height="130"/>
-<ul>
-<small>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">Watermarking deep neural networks in image processing </a></strong>, TNNLS, 2020.</li>
-</small>
-</ul>
-</th>
-</tr>
-</tbody>
-</table>
-</details>
 <!--7-2-->
 <details>
 <summary><strong><small><font color="#004D86">Maximum-Torque Contour Descriptor </font></small></strong></summary>
@@ -503,6 +505,12 @@ sidebar_link: true
 
 </ul>
 </details>
+
+<!---------------------------------7-------------------------------------------------->
+<!---------------------------------7-------------------------------------------------->
+<!---------------------------------7-------------------------------------------------->
+
+
 
 
 
