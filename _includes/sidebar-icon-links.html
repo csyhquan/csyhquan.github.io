@@ -11,12 +11,12 @@
       {% include svg/download.svg %}
     </a>
   {% endif %}
-
+<!--
   <a id="subscribe-link"
      class="icon" title="SCUT" aria-label="Subscribe"
      href="https://www.scut.edu.cn/">
     {% include svg/feed.svg %}
-  </a>
+  </a>-->
 
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
@@ -31,14 +31,14 @@
     {% endif %}
   {% endfor %}
 
-  {% if tags_page %}
+ <!-- {% if tags_page %}
     <a id="tags-link"
        class="icon{% if page.url == '/tags' %} active{% endif %}"
        title="School" aria-label="Tags"
        href="http://www2.scut.edu.cn/cs/">
       {% include svg/tags.svg %}
     </a>
-  {% endif %}
+  {% endif %}-->
 
   {% if search_page %}
     <a id="search-link"
