@@ -399,7 +399,7 @@ sidebar_link: true
 <!---------------------------------6-------------------------------------------------->
 <!---------------------------------6-------------------------------------------------->
 <details open="">
-<summary><strong>Self-Simiarlity Statstics for Static/Dynamic Texture Recognition</strong></summary>
+<summary><strong>Invariant Features for Visual Recognition</strong></summary>
 <ul>
 <!--6-1-->
 <details>
