@@ -56,10 +56,10 @@ title: Publication
  <li><span style="font-size: 95%;"><strong>Barzilai-Borwein-based adaptive learning rate for deep learning</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-pr-Barzilai%E2%80%93Borwein-based%20adaptive%20learning%20rate%20for%20deep%20learning.pdf" download="github6">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> J. Liang, Y. Xu, C. Bao, Y. Quan* and H. Ji,<br />
  <em> Pattern Recognition Letters, </em>128(1): 197-203, Dec 2019</span></li>
- <li><span style="font-size: 95%;"><strong>Exploiting global low-rank structure and local sparsity nature for tensor completion</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-tcyb-Exploiting%20Global%20Low-rank%20Structure%20and%20Local%20Sparsity%20Nature%20for%20Tensor%20Completion.pdf" download="github10">manuscript</a>]</span><br />
+ <li><span style="font-size: 95%;"><strong>Exploiting global low-rank structure and local sparsity nature for tensor completion</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-tcyb-Exploiting%20Global%20Low-rank%20Structure%20and%20Local%20Sparsity%20Nature%20for%20Tensor%20Completion.pdf" download="github10">manuscript</a>][<a href="https://github.com/csyongdu/Exploiting-Global-Low-Rank-Structure-and-Local-Sparsity-Nature-for-Tensor-Completion"><font color="#F75000">github</font></a>] </span><br />
 <span style="font-size: 95%;"> Y. Du, G. Han, Y. Quan, Z. Yu, H. Wong, C. Chen and J. Zhang,<br />
 <em> IEEE Transactions on Cybernetics,</em> 49(11): 3898-3910, Nov 2019</span></li>
-<li><span style="font-size: 95%;"><strong>Exploiting label consistency in structured sparse representation for classification</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-nca-Exploiting%20label%20consistency%20in%20structured%20sparse%20representation%20for%20classification.pdf" download="github7">manuscript</a>][<a href="https://github.com/csyongdu/Exploiting-Global-Low-Rank-Structure-and-Local-Sparsity-Nature-for-Tensor-Completion"><font color="#F75000">github</font></a>] </span><br />
+<li><span style="font-size: 95%;"><strong>Exploiting label consistency in structured sparse representation for classification</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-nca-Exploiting%20label%20consistency%20in%20structured%20sparse%20representation%20for%20classification.pdf" download="github7">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> Y. Huang, Y. Quan*, T. Liu and Y. Xu,<br />
 <em> Neural Computing and Applications, </em>31(10): 6509-6520, Oct 2019</span></li>
 <li><span style="font-size: 95%;"><strong>Attention with structure regularization for action recognition</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-cviu-Attention%20with%20structure%20regularization%20for%20action%20recognition.pdf" download="github8">manuscript</a>]</span><br />
@@ -115,7 +115,7 @@ title: Publication
 <span style="font-size: 95%;"> C. Bao, H. Ji, Y. Quan and Z. Shen,<br />
 <em> IEEE Transactions on Patter Analysis and Machine Intelligence,</em> 38(7): 1356-1369, Jul 2016</span></li>
 <li><span style="font-size: 95%;"><strong>Supervised dictionary learning with multiple classifier integration</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-pr-Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration.pdf" download="github18">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/16-pr-Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration/MCDLv7_pcode.rar" download="code7"><font color="#1F75000">code</font></a>] </span><br />
-<span style="font-size: 95%;">Y. Quan*, Y. Xu, Y. Sun and Y. Huang,<br />
+<span style="font-size: 95%;">Y. Quan, Y. Xu, Y. Sun and Y. Huang,<br />
 <em> Pattern Recognition,</em> 55: 247-260, Jul 2016</span></li>
 
 
@@ -129,7 +129,7 @@ title: Publication
 <span style="font-size: 95%;">Y. Sun, Y. Xu and Y. Quan,<br />
 <em> IEEE International Conference on Multimedia and Expo (ICME), </em>Oral, <!--Torino, Jun, -->2015</span></li>
 <li><span style="font-size: 95%;"><strong>Classifying dynamic textures via spatiotemporal fractal analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-pr-Classifying%20dynamic%20textures%20via%20spatiotemporal%20fractal%20analysis.pdf" download="github24">manuscript</a>] </span><br />
-<span style="font-size: 95%;">Y. Xu, Y. Quan, Z. Zhang, H. Ling and H. Ji,<br />
+<span style="font-size: 95%;">Y. Xu, Y. Quan*, Z. Zhang, H. Ling and H. Ji,<br />
 <em> Pattern Recognition,</em> 48(10): 3239-3248, Oct 2015</span></li>
 <li><span style="font-size: 95%;"><strong>Fractal analysis for reduced reference image quality assessment</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-tip-Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf" download="github22">manuscript</a>] </span><br />
 <span style="font-size: 95%;"> Y. Xu, D. Liu, Y. Quan and P. Callet,<br />
