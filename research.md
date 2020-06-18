@@ -106,7 +106,7 @@ sidebar_link: true
 
 <!--2-4-->
 <details>
-<summary><strong><small><font color="#004DA6">Image Raindrop Removal via Shape Attention</font></small></strong></summary>
+<summary><strong><small><font color="#004D86">Image Raindrop Removal via Shape Attention</font></small></strong></summary>
 
 <table>
 <tbody>
@@ -129,7 +129,7 @@ sidebar_link: true
 
 <!--7-1-->
 <details>
-<summary><strong><small><font color="#004DD6">Intellectual Property Protection of Supervised Learning Systems in Image Recovery</font> </small></strong></summary>
+<summary><strong><small><font color="#004DA6">Intellectual Property Protection of Supervised Learning Systems in Image Recovery</font> </small></strong></summary>
 <table>
 <tbody>
 <tr>
