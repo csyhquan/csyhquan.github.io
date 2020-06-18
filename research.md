@@ -106,7 +106,7 @@ sidebar_link: true
 
 <!--2-4-->
 <details>
-<summary><strong><small><font color="#004D86">Image Raindrop Removal via Shape Attention</font></small></strong></summary>
+<summary><strong><small><font color="#004DA6">Image Raindrop Removal via Shape Attention</font></small></strong></summary>
 
 <table>
 <tbody>
