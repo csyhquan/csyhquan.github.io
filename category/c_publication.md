@@ -60,7 +60,7 @@ title: Publication
 <span style="font-size: 95%;"> Y. Du, G. Han, Y. Quan, Z. Yu, H. Wong, C. Chen and J. Zhang,<br />
 <em> IEEE Transactions on Cybernetics,</em> 49(11): 3898-3910, Nov 2019</span></li>
 <li><span style="font-size: 95%;"><strong>Exploiting label consistency in structured sparse representation for classification</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-nca-Exploiting%20label%20consistency%20in%20structured%20sparse%20representation%20for%20classification.pdf" download="github7">manuscript</a>][<a href="https://github.com/csyongdu/Exploiting-Global-Low-Rank-Structure-and-Local-Sparsity-Nature-for-Tensor-Completion"><font color="#F75000">github</font></a>] </span><br />
-<span style="font-size: 95%;"> Y. Huang, Y. Quan, T. Liu and H. Ji,<br />
+<span style="font-size: 95%;"> Y. Huang, Y. Quan, T. Liu and Y. Xu,<br />
 <em> Neural Computing and Applications, </em>31(10): 6509-6520, Oct 2019</span></li>
 <li><span style="font-size: 95%;"><strong>Attention with structure regularization for action recognition</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-cviu-Attention%20with%20structure%20regularization%20for%20action%20recognition.pdf" download="github8">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> Y. Quan, Y. Chen, R. Xu and H. Ji,<br />
