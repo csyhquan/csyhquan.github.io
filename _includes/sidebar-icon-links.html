@@ -30,7 +30,7 @@
       {% assign search_page = node %}
     {% endif %}
   {% endfor %}
-  <small><a href="http://www.scholat.com/csyhquan.cn" target="_blank">&nbsp;中文主页</a></small>
+  <small><a href="http://www.scholat.com/csyhquan.cn" target="_blank">&nbsp;中文主页&nbsp;</a></small>
   {% if tags_page %}
     <small><a id="tags-link"
        class="icon{% if page.url == '/tags' %} active{% endif %}"
@@ -40,7 +40,7 @@
     </a></small>
 	
   {% endif %}
-
+<!--
   {% if search_page %}
     <small><a id="search-link"
        class="icon{% if page.url == '/search' %} active{% endif %}"
@@ -48,7 +48,7 @@
        href="{{ search_page.url | relative_url }}">
       {% include svg/search.svg %}
     </a></small>
-  {% endif %}
+  {% endif %}-->
   
   {% include custom-icon-links.html %}
 </nav>
