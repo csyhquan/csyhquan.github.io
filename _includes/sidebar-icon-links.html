@@ -38,17 +38,17 @@
        href="http://www2.scut.edu.cn/cs/">
       {% include svg/tags.svg %}
     </a></small>
-	<small><a href="http://www.scholat.com/csyhquan.cn" target="_blank">中文主页</a></small>
+	
   {% endif %}
 
-  <!--{% if search_page %}
-    <a id="search-link"
+  {% if search_page %}
+    <small><a id="search-link"
        class="icon{% if page.url == '/search' %} active{% endif %}"
        title="Search" aria-label="Search"
        href="{{ search_page.url | relative_url }}">
       {% include svg/search.svg %}
-    </a>
-  {% endif %}-->
-  
+    </a></small>
+  {% endif %}
+  <small><a href="http://www.scholat.com/csyhquan.cn" target="_blank">中文主页</a></small>
   {% include custom-icon-links.html %}
 </nav>
