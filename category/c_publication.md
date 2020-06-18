@@ -68,7 +68,7 @@ title: Publication
 <li><span style="font-size: 95%;"><strong>Deeply exploiting long-term view dependency for 3D shape recognition</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-access-Deeply%20Exploiting%20Long-Term%20View%20Dependency%20for%203D%20Shape%20Recognition.pdf" download="github9">manuscript</a>] </span><br />
 <span style="font-size: 95%;"> Y. Xu, C. Zheng, R. Xu and Y. Quan*,<br />
 <em> IEEE Access, </em>7: 111678-111691, Aug 2019</span></li>
- <li><span style="font-size: 95%;"><strong>Supervised sparse coding with decision forest</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-spl-Supervised%20Sparse%20Coding%20With%20Decision%20Forest.pdf" download="github5">manuscript</a>]</span><br />
+ <li><span style="font-size: 95%;"><strong>Supervised sparse coding with decision forest</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-spl-Supervised%20Sparse%20Coding%20With%20Decision%20Forest.pdf" download="github5">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/code-SCDF.rar" ><font color="#1F75000">code</font></a>] </span><br />
 <span style="font-size: 95%;"> Y. Huang, Y. Quan* and T. Liu,<br />
  <em> IEEE Signal Processing Letters, </em>26(2): 327-331, Feb 2019</span></li>
 </ul>
@@ -111,7 +111,7 @@ title: Publication
 <li><span style="font-size: 95%;"><strong>Sparse coding for classification via discrimination ensemble</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-cvpr-Sparse%20Coding%20for%20Classification%20via%20Discrimination%20Ensemble.pdf" download="github16">manuscript</a>]</span><br />
 <span style="font-size: 95%;">Y. Quan, Y. Xu, Y. Sun, Y. Huang and H. Ji,<br />
 <em> IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em><!--Las Vegas, Jun, -->2016</span></li>
-<li><span style="font-size: 95%;"><strong>Dictionary learning for sparse coding: Algorithms and convergence analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-tpami-Dictionary%20learning%20for%20sparse%20coding_Algorithms%20and%20convergence%20analysis.pdf" download="github17">manuscript</a>] </span><br />
+<li><span style="font-size: 95%;"><strong>Dictionary learning for sparse coding: Algorithms and convergence analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-tpami-Dictionary%20learning%20for%20sparse%20coding_Algorithms%20and%20convergence%20analysis.pdf" download="github17">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/l0dl_int.rar" ><font color="#1F75000">code</font></a>] </span><br />
 <span style="font-size: 95%;"> C. Bao, H. Ji, Y. Quan and Z. Shen,<br />
 <em> IEEE Transactions on Patter Analysis and Machine Intelligence,</em> 38(7): 1356-1369, Jul 2016</span></li>
 <li><span style="font-size: 95%;"><strong>Supervised dictionary learning with multiple classifier integration</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-pr-Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration.pdf" download="github18">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/16-pr-Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration/MCDLv7_pcode.rar" download="code7"><font color="#1F75000">code</font></a>] </span><br />

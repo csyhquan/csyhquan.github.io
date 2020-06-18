@@ -5,7 +5,7 @@ title: Personal
 <style>
 p.ex1 {margin-bottom:0.3cm}
 </style>
-<p><small>You may find something interesting in this page.</small></p>
+<p><small> You may find something interesting about me in this page.</small></p>
 <br>
 <h7><strong>Memory</strong></h7>
 <p class="ex1"><small>Could u recognize me from the photos?</small></p>
