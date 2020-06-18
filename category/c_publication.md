@@ -70,7 +70,7 @@ title: Publication
 <li><span style="font-size: 95%;"><strong>Deeply exploiting long-term view dependency for 3D shape recognition</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-access-Deeply%20Exploiting%20Long-Term%20View%20Dependency%20for%203D%20Shape%20Recognition.pdf" download="github9">manuscript</a>] </span><br />
 <span style="font-size: 95%;"> Y. Xu, C. Zheng, R. Xu and Y. Quan*,<br />
 <em> IEEE Access (ACCESS), </em>7: 111678-111691, Aug 2019</span></li>
- <li><span style="font-size: 95%;"><strong>Supervised sparse coding with decision forest</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-spl-Supervised%20Sparse%20Coding%20With%20Decision%20Forest.pdf" download="github5">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/code-SCDF.rar" ><font color="#1F75000">code</font></a>] </span><br />
+ <li><span style="font-size: 95%;"><strong>Supervised sparse coding with decision forest</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-spl-Supervised%20Sparse%20Coding%20With%20Decision%20Forest.pdf" download="github5">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/code-SCDF.rar" ><font color="#F75000">code</font></a>] </span><br />
 <span style="font-size: 95%;"> Y. Huang, Y. Quan* and T. Liu,<br />
  <em> IEEE Signal Processing Letters (SPL), </em>26(2): 327-331, Feb 2019</span></li>
 </ul>
