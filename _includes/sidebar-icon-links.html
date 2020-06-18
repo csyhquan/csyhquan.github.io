@@ -31,7 +31,7 @@
     {% endif %}
   {% endfor %}
 
- <!-- {% if tags_page %}
+  {% if tags_page %}
     <a id="tags-link"
        class="icon{% if page.url == '/tags' %} active{% endif %}"
        title="School" aria-label="Tags"
@@ -47,7 +47,7 @@
        href="{{ search_page.url | relative_url }}">
       {% include svg/search.svg %}
     </a>
-  {% endif %}-->
+  {% endif %}
   <small><a href="http://www.scholat.com/csyhquan.cn">&nbsp;中文主页</a></small>
   {% include custom-icon-links.html %}
 </nav>
