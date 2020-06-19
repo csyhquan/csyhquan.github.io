@@ -61,15 +61,17 @@ title: Publication
 <li><span style="font-size: 95%;"><strong>Deep learning for seeing through window with raindrops</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops.pdf" download="github1">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops%20(SUPP).pdf" download="sup2">supp</a>][<a href="https://github.com/jackiesdd/raindropAttention"><font color="#F75000">github</font></a>]</span><br />
 <span style="font-size: 95%;"> Y. Quan, S. Deng, Y. Chen and H. Ji,<br />
  <em> IEEE International Conference on Computer Vision (ICCV), </em>Oct 2019</span></li><!--Seoul, Oct -->
+ <!--
 <li><span style="font-size: 95%;"><strong>Exploiting label consistency in structured sparse representation for classification</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-nca-Exploiting%20label%20consistency%20in%20structured%20sparse%20representation%20for%20classification.pdf" download="github7">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> Y. Huang, Y. Quan*, T. Liu and Y. Xu,<br />
-<em> Neural Computing and Applications (NCA), </em>31(10): 6509-6520, Oct 2019</span></li>
+<em> Neural Computing and Applications (NCA), </em>31(10): 6509-6520, Oct 2019</span></li>-->
 <li><span style="font-size: 95%;"><strong>Attention with structure regularization for action recognition</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-cviu-Attention%20with%20structure%20regularization%20for%20action%20recognition.pdf" download="github8">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> Y. Quan, Y. Chen, R. Xu and H. Ji,<br />
 <em> Computer Vision and Image Understanding (CVIU), </em>187, Oct 2019</span></li>
+<!--
 <li><span style="font-size: 95%;"><strong>Deeply exploiting long-term view dependency for 3D shape recognition</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-access-Deeply%20Exploiting%20Long-Term%20View%20Dependency%20for%203D%20Shape%20Recognition.pdf" download="github9">manuscript</a>] </span><br />
 <span style="font-size: 95%;"> Y. Xu, C. Zheng, R. Xu and Y. Quan*,<br />
-<em> IEEE Access (ACCESS), </em>7: 111678-111691, Aug 2019</span></li>
+<em> IEEE Access (ACCESS), </em>7: 111678-111691, Aug 2019</span></li>-->
  <li><span style="font-size: 95%;"><strong>Supervised sparse coding with decision forest</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-spl-Supervised%20Sparse%20Coding%20With%20Decision%20Forest.pdf" download="github5">manuscript</a>][<a href="https://github.com/csyanhuang/SCDF" ><font color="#F75000">github</font></a>] </span><br />
 <span style="font-size: 95%;"> Y. Huang, Y. Quan* and T. Liu,<br />
  <em> IEEE Signal Processing Letters (SPL), </em>26(2): 327-331, Feb 2019</span></li>
@@ -83,9 +85,10 @@ title: Publication
 <summary><span style="font-size: 105%;"><strong><small>2017 - 2018</small></strong></span></summary>
 <small>
 <ul style="background-color: #f2f2f2;">
+<!--
 <li><span style="font-size: 95%;"><strong>Sparse coding and dictionary learning with class-speciﬁc group sparsity</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/18-nca-Sparse%20coding%20and%20dictionary%20learning%20with%20class-speci%EF%AC%81c%20group%20sparsity.pdf" download="github11">manuscript</a>] </span><br />
 <span style="font-size: 95%;"> Y. Sun, Y. Quan and J. Fu,<br />
-<em> Neural Computing and Applications (NCA),</em> 30(4): 1265-1275, Aug 2018</span></li>
+<em> Neural Computing and Applications (NCA),</em> 30(4): 1265-1275, Aug 2018</span></li>-->
 
 
 <li><span style="font-size: 95%;"><strong>Image-based action recognition using hint-enhanced deep neural network</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-nc-Image-based%20action%20recognition%20using%20hint-enhanced%20deep%20neural%20network.pdf" download="github13">manuscript</a>] </span><br />
