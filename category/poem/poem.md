@@ -66,10 +66,10 @@ title:
 <br>
 
 <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&#8197;<strong>千秋岁 观雨</strong></p>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;&ensp;天沉断翼，蓦黯云河溢。晨露碎，城烟沥。一出风雨秀，几段潇湘</p>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;&ensp;意。来时路，点滴淡却辕蹄迹。</p>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;&ensp;零泪频频寄，泓汛迟迟起。泥塘淖，花扉闭。珠摇稠瓣坠，玉滚疏</p>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;&ensp;竹细。停不住，人间已落糊图里。</p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;&ensp;天沉断翼，蓦黯云河溢。晨露碎，城烟沥。一出风雨秀，几段潇</p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;&ensp;湘意。来时路，点滴淡却辕蹄迹。</p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;&ensp;零泪频频寄，泓汛迟迟起。泥塘淖，花扉闭。珠摇稠瓣坠，玉滚</p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;&ensp;疏竹细。停不住，人间已落糊图里。</p>
 
 <br>
 <br>
