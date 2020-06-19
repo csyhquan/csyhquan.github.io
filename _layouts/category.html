@@ -10,12 +10,12 @@ layout: page
   {% assign category = page.category | default: page.title %}
   {% for post in site.categories[category] %}
     <li>
-      <h3>
+      <h1>
         <a href="{{ post.url | relative_url }}">
           {{ post.title }}
-          <small>{{ post.date | date_to_string }}</small>
+          {{ post.date | date_to_string }}
         </a>
-      </h3>
+      </h1>
     </li>
   {% endfor %}
 </ul>
