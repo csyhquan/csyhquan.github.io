@@ -19,7 +19,7 @@ p.ex1 {margin-bottom:0.3cm}
 <br>
 
 <h7><strong>Just for Fun</strong></h7>
-<p><small>I made some mini games when I was a student. Sometimes I use them to relax myself when the research is stuck. Hope they can serve you as well. I was too lazy to write readme files for the games. You may have to explore the rules by yourself.<br>
+<p><small>I made some mini games when I was a student. Sometimes I use them to relax myself when the research is stuck. Hope they can serve you as well. Unluckily, no readme files could be provided currently for the games. You may have to explore the rules and runtime installations by yourself.<br>
 [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/games/War%20of%20Tank.rar">War of Tanks</a>] [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/games/EndlessMaze.rar">Endless Maze</a>] [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/games/SuperCards_HvsH.rar">Super Cards (Human VS Human)</a>] [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/games/SuperCards_HvsC.rar">Super Cards (Human VS COM)</a>] [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/games/Bricks.rar">Bricks</a>] [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/games/Helicopter.rar">Helicopter</a>] [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/games/Phoenix.rar">Phoenix</a>].
 </small></p>
 <br>

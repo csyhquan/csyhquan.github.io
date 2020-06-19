@@ -196,7 +196,7 @@ sidebar_link: true
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_2_2.png" alt="" height="130"/>
 <ul>
 <small>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">Cartoon-texture image decomposition using orientation characteristics in  patch recurrence</a></strong>, SIIMS, 2020.</li>
+<li type="disc"><strong><!--<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">-->Cartoon-texture image decomposition using orientation characteristics in  patch recurrence<!--</a>--></strong>, SIIMS, 2020.</li>
 </small>
 </ul>
  </th>
