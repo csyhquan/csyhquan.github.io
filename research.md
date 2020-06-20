@@ -349,7 +349,7 @@ sidebar_link: true
 <!---------------------------------5-------------------------------------------------->
 <!---------------------------------5-------------------------------------------------->
 <details open="">
-<summary><t-half><strong>Visual Quality Assessment: From Global Statistics to Local Features</strong></t-half></summary>
+<summary><t-half><strong>Visual Quality Assessment:  Local Measurements and Global Statistics</strong></t-half></summary>
 <ul>
 <!--5-1-->
 <details>
@@ -374,26 +374,7 @@ sidebar_link: true
 </tbody>
 </table>
 </details>
-<!--5-2-->
-<details>
-<summary><strong><t1><font color="#004D86">Spatial-Distribution-Aware Image Quality Assessment </font></t1></strong></summary>
-<table>
-<tbody>
-<tr>
- <th>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_5_2_0.png" alt="" height="130"/> 
-<ul>
-<t2>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-tip-Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf">Fractal analysis for reduced reference image quality assessment </a></strong>, TIP, 2015.</li>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-sp-Directional%20regularity%20for%20visual%20quality%20estimation.pdf">Directional regularity for visual quality estimation </a></strong>, SP, 2015.</li>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-spic-Reduced%20Reference%20Image%20Quality%20Assessment%20Using%20Regularity%20of%20Phase%20Congruency.pdf">Reduced reference image quality assessment using regularity of phase congruency </a></strong>, SPIC, 2014.</li>
-</t2>
-</ul>
- </th>
-</tr>
-</tbody>
-</table>
-</details>
+
 <!--5-3-->
 <details>
 <summary><strong><t1><font color="#004D86">Measurring Local Image Distortions </font></t1></strong></summary>
@@ -414,6 +395,31 @@ sidebar_link: true
 </tbody>
 </table>
 </details>
+
+<!--5-2-->
+<details>
+<summary><strong><t1><font color="#004D86">Spatial-Distribution-Aware Image Quality Assessment </font></t1></strong></summary>
+<table>
+<tbody>
+<tr>
+ <th>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_5_2_0.png" alt="" height="130"/> 
+<ul>
+<t2>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-tip-Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf">Fractal analysis for reduced reference image quality assessment </a></strong>, TIP, 2015.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-sp-Directional%20regularity%20for%20visual%20quality%20estimation.pdf">Directional regularity for visual quality estimation </a></strong>, SP, 2015.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-spic-Reduced%20Reference%20Image%20Quality%20Assessment%20Using%20Regularity%20of%20Phase%20Congruency.pdf">Reduced reference image quality assessment using regularity of phase congruency </a></strong>, SPIC, 2014.</li>
+</t2>
+</ul>
+ </th>
+</tr>
+</tbody>
+</table>
+</details>
+
+
+
+
 </ul>
 </details>
 
@@ -425,6 +431,34 @@ sidebar_link: true
 <details open="">
 <summary><t-half><strong>Invariant Features for Visual Recognition</strong></t-half></summary>
 <ul>
+
+
+
+<!--7-2-->
+<details>
+<summary><strong><t1><font color="#004D86">Maximum-Torque Contour Descriptor </font></t1></strong></summary>
+<table>
+<tbody>
+<tr>
+ <th>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_2_1.png" alt="" height="130"/>
+ <a>&nbsp;&nbsp;</a>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_2_3.png" alt="" height="130"/>
+ <a>&nbsp;&nbsp;</a>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_2_4.png" alt="" height="130"/>
+<ul>
+<t2>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/12-cvpr-Contour-Based%20Recognition.pdf">Contour-based recognition </a></strong>, CVPR, 2012.</li>
+</t2>
+</ul>
+</th>
+</tr>
+</tbody>
+</table>
+</details>
+
+
+
 <!--6-1-->
 <details>
 <summary><strong><t1><font color="#004D86">Lacunarity/Fractal Statistics for Texture Recognition</font> </t1></strong></summary>
@@ -478,28 +512,7 @@ sidebar_link: true
 </table>
 </details>-->
 
-<!--7-2-->
-<details>
-<summary><strong><t1><font color="#004D86">Maximum-Torque Contour Descriptor </font></t1></strong></summary>
-<table>
-<tbody>
-<tr>
- <th>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_2_1.png" alt="" height="130"/>
- <a>&nbsp;&nbsp;</a>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_2_3.png" alt="" height="130"/>
- <a>&nbsp;&nbsp;</a>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_2_4.png" alt="" height="130"/>
-<ul>
-<t2>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/12-cvpr-Contour-Based%20Recognition.pdf">Contour-based recognition </a></strong>, CVPR, 2012.</li>
-</t2>
-</ul>
-</th>
-</tr>
-</tbody>
-</table>
-</details>
+
 
 
 
