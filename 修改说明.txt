@@ -20,7 +20,7 @@ Publication和Teaching，contact页面的代码分别在category目录下的c.md
 
 修改Homepage中显示的sider右边的title大小：修改_sass/hydeout/_posts中的font-size
 
-修改各级字体大小：修改_sass/hydeout/_types.scss中的t-half到t2，h1,其中，h1是大标题0级目录，t-half是0.5级，t1是1级，t2是2级
+修改各级字体大小：修改_sass/hydeout/_types.scss中的t-half到t2，h1,其中，h1是大标题0级目录，t-half是0.5级，t1是1级，t2是2级，需要注意的是aboutme 那里的名字对应的是t0
 
 修改标签的样式：修改_sass/hydeout/_base.scss的对应标签
 
