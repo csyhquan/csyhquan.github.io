@@ -21,7 +21,7 @@
 
 h2.post-title,
 h2.page-title {
-  font-size: 1.2rem;
+  font-size: 1.125rem; //1.25*0.8此处控制about me 界面的标题大小
 }
 
 .post-tags a {
@@ -65,8 +65,8 @@ h2.page-title {
 article + *,
 .post-body ~ section {
   border-top: 1px solid $border-color;
-  margin-top: $section-spacing;
-  padding-top: $section-spacing;
+  margin-top: $section-spacing*0.5;
+  padding-top: $section-spacing*0.5;
 
   > h2:first-child,
   > h3:first-child {
@@ -77,7 +77,7 @@ article + *,
 // Meta data line below post title
 .post-meta {
   color: $body-muted;
-  margin-bottom: 1rem;
+  margin-bottom: 1rem; //此处控制about me界面标题离下面内容的距离
   margin-top: -0.5rem;
 }
 

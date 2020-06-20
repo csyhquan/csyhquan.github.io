@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Research Interest
+title: Research Interests
 ---
 
 <ul>
-<li><span style="font-size: 100%;">Computational photography and imaging</span></li>
-<li><span style="font-size: 100%;">Deep learning and Sparse coding</span></li>
-<li><span style="font-size: 100%;">Image analysis and Vision computing</span></li>
-<li><span style="font-size: 100%;">Visual quality assessment for image processing</span></li>
+<li><t1><span>Computational photography and imaging</span></t1></li>
+<li><t1><span>Deep learning and Sparse coding</span></t1></li>
+<li><t1><span>Image analysis and Vision computing</span></t1></li>
+<li><t1><span>Visual quality assessment for image processing</span></t1></li>
 </ul>

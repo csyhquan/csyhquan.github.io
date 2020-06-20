@@ -1,11 +1,11 @@
 ---
 layout: category
-title: Publication
+title: Publications
 ---
 
 <details open="">
-<summary><span style="font-size: 105%;"><strong><small>Upcoming</small></strong></span></summary>
-<small>
+<summary><t-half><span><strong>Upcoming</strong></span></t-half></summary>
+<t1>
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>Image quality assessment using kernel sparse coding</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/TMM-kernel/TMM-KSC_IQA-FinalCode.rar"><font color="#F75000">code</font></a>]</span><br />
 <span style="font-size: 95%;"> Z. Zhou, J. Li, Y. Quan* and R. Xu, <br />
@@ -23,13 +23,13 @@ title: Publication
 <span style="font-size: 95%;"> Y. Quan, H. Teng, Y. Chen and H. Ji, <br />
 <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>xx(x): xxx–xxx. xxx 2020</span></li>
 </ul>
-</small>
+</t1>
 </details>
 
 
 <details open="">
-<summary><span style="font-size: 105%;"><strong><small>2019 - 2020</small></strong></span></summary>
-<small>
+<summary><span><strong><t-half>2019 - 2020</t-half></strong></span></summary>
+<t1>
 <ul style="background-color: #f2f2f2;">
  
 <li><span style="font-size: 95%;"><strong>Removing reflection from a single image with ghosting effect</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tci-Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect.pdf" download="github3">manuscript</a>]</span><br />
@@ -76,14 +76,14 @@ title: Publication
 <span style="font-size: 95%;"> Y. Huang, Y. Quan* and T. Liu,<br />
  <em> IEEE Signal Processing Letters (SPL), </em>26(2): 327-331, Feb 2019</span></li>
 </ul>
-</small>
+</t1>
 </details>
 
 
 
 <details>
-<summary><span style="font-size: 105%;"><strong><small>2017 - 2018</small></strong></span></summary>
-<small>
+<summary><span><strong><t-half>2017 - 2018</t-half></strong></span></summary>
+<t1>
 <ul style="background-color: #f2f2f2;">
 <!--
 <li><span style="font-size: 95%;"><strong>Sparse coding and dictionary learning with class-speciﬁc group sparsity</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/18-nca-Sparse%20coding%20and%20dictionary%20learning%20with%20class-speci%EF%AC%81c%20group%20sparsity.pdf" download="github11">manuscript</a>] </span><br />
@@ -101,15 +101,15 @@ title: Publication
 <span style="font-size: 95%;"> G. Xu, Y. Quan and H. Ji,<br />
 <em> IEEE International Conference on Computer Vision (ICCV), </em>Oct 2017</span></li><!--Venice, Oct -->
 </ul>
-</small>
+</t1>
 </details>
 
 
 
 
 <details>
-<summary><span style="font-size: 105%;"><strong><small>2015 - 2016</small></strong></span></summary>
-<small>
+<summary><span><strong><t-half>2015 - 2016</t-half></strong></span></summary>
+<t1>
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>Dictionary learning for sparse coding: Algorithms and convergence analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-tpami-Dictionary%20learning%20for%20sparse%20coding_Algorithms%20and%20convergence%20analysis.pdf" download="github17">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/l0dl_int.rar" ><font color="#F75000">code</font></a>] </span><br />
 <span style="font-size: 95%;"> C. Bao, H. Ji, Y. Quan and Z. Shen,<br />
@@ -150,7 +150,7 @@ title: Publication
 <span style="font-size: 95%;">Y. Quan, H. Ji and Z. Shen,<br />
 <em> Journal of Scientific Computing (JoSC),</em> 63(2): 307-329, May 2015</span></li>
 </ul>
-</small>
+</t1>
 </details>
 
 
@@ -158,8 +158,8 @@ title: Publication
 
 
 <details>
-<summary><span style="font-size: 105%;"><strong><small>2013 - 2014</small></strong></span></summary>
-<small>
+<summary><span><strong><t-half>2013 - 2014</t-half></strong></span></summary>
+<t1>
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>A convergent incoherent dictionary learning algorithm for sparse coding</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-eccv-A%20Convergent%20Incoherent%20Dictionary%20Learning%20Algorithm%20for%20Sparse%20Coding.pdf" download="github27">manuscript</a>]</span><br />
 <span style="font-size: 95%;">C. Bao, Y. Quan and H. Ji,<br />
@@ -177,13 +177,13 @@ title: Publication
 <span style="font-size: 95%;"> Y. Quan, Y. Xu and Y. Sun,<br />
 <em> Image and Vision Computing (IVC),</em> 32(4): 250-259, Apr 2014</span></li>
 </ul>
-</small>
+</t1>
 </details>
 
 
 <details>
-<summary><span style="font-size: 105%;"><strong><small>2011 - 2012</small></strong></span></summary>
-<small>
+<summary><span><strong><t-half>2011 - 2012</t-half></strong></span></summary>
+<t1>
 <ul style="background-color: #f2f2f2;">
 <li><span style="font-size: 95%;"><strong>Contour-based recognition</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/12-cvpr-Contour-Based%20Recognition.pdf" download="github33">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/12-cvpr-Contour-Based%20Recognition/mtp_demo_v3.rar" download="code2"><font color="#F75000">code</font></a>]</span><br />
 <span style="font-size: 95%;">Y. Xu; Y. Quan, Z. Zhang, H. Ji, C. Fermüller, M. Nishigaki and D. Dementhon,<br />
@@ -192,5 +192,5 @@ title: Publication
 <span style="font-size: 95%;">Y. Xu, Y. Quan, H. Ling and H. Ji,<br />
 <em>  IEEE International Conference on Computer Vision (ICCV), </em>Nov 2011</span></li><!--Barcelona, Nov -->
 </ul>
-</small>
+</t1>
 </details>

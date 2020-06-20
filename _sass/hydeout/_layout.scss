@@ -38,7 +38,7 @@ body {
 
   .site-title {
     font-family: 'Abril Fatface', serif;
-    font-size: $large-font-size;
+    font-size: 1.125rem; //$large-font-size*0.9
     font-weight: normal;
     margin-bottom: $heading-spacing;
     margin-top: 0;
@@ -84,9 +84,9 @@ body {
   background: transparent;
   color: $sidebar-title-color;
   margin:
-    ($heading-spacing - $section-spacing)
-    $section-spacing
-    $section-spacing;
+    ($heading-spacing - $section-spacing*2)
+    $section-spacing*2
+    $section-spacing*2;
 
   h1,
   h2 {
@@ -110,7 +110,7 @@ body {
 
   // Bigger title
   .site-title {
-    font-size: 2.25rem;
+    font-size: 2.025rem; //2.25*0.9
   }
 
   // Show secondary nav content + lead
@@ -181,7 +181,7 @@ body {
     }
 
     .site-title {
-      font-size: 2.25rem;
+      font-size: 2.025rem;//2.25*0.9
       .back-arrow { display: none; }
     }
 
@@ -203,8 +203,8 @@ body {
     color: $body-color;
     min-height: 100vh;
     padding:
-      $section-spacing * 1
-      $section-spacing * 1
+      $section-spacing
+      $section-spacing 
       0;
 
     @if $layout-reverse {

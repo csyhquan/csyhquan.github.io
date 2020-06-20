@@ -1,5 +1,4 @@
 
-添加research在主目录的research添加即可。
 
 修改About me的主页内容在_posts文件夹中，其中About Me对应 2020-5-30-resume.md文件
 
@@ -15,11 +14,25 @@ Publication和Teaching，contact页面的代码分别在category目录下的c.md
 
 修改TITLE的字体大小： _sass/hydeout/_types.scss修改h1的font-size或者在_layouts下对应的post，page，以及category的html文件中修改h的属性。
 其中，post对应_posts目录下的几个文件，显示在About Me那一页。，page对应Research.md，category对应_category下的三个文件，即Publicaton,Teaching,Contact
-
-修改sider右边区域到sider的距离： 修改 _sass/hydeout/l_variables.scss中的$section-spacing一项
-
 修改sider右边区域长度：修改 _sass/hydeout/_layout.scss中的max-width一项
 
 修改Homepage中显示的sider中的title大小：修改_sass/hydeout/_layout.scss中两个font-size的值
 
 修改Homepage中显示的sider右边的title大小：修改_sass/hydeout/_posts中的font-size
+
+修改各级字体大小：修改_sass/hydeout/_types.scss中的t-half到t2，h1,其中，h1是大标题0级目录，t-half是0.5级，t1是1级，t2是2级
+
+修改标签的样式：修改_sass/hydeout/_base.scss的对应标签
+
+personal中加入了<p>标签的距离控制样式，在<style>中
+
+relate post大小为h4，relate post包含的内容size=4，在_include/relate_post.html中
+
+修改about me主界面的title大小在_post.scss中的h2.title中的font-size，修改其中数值大小即可
+
+_post.scss的.post-meta控制about me界面下面内容距离标题的距离
+
+修改sidebar到左侧的距离：r修改layout.scss中#sidebar中的padding值调整sider中内容到左侧的距离
+
+修改education和aboutme的上下距离，_post.scss中修改section-spacing
+
