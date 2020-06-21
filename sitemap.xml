@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>https://csyhquan.github.io/category/c_publication.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-06-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://csyhquan.github.io/2020/05/30/a_ainterest.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-06-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://csyhquan.github.io/research.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-06-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://csyhquan.github.io/2020/05/30/a_experience.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-06-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://csyhquan.github.io/2020/05/30/resume.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-06-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://csyhquan.github.io/category/d_teaching.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-06-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://csyhquan.github.io/category/e_personal.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-06-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://csyhquan.github.io/</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-06-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://csyhquan.github.io/2020/05/30/a_award.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-06-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://csyhquan.github.io/2020/05/30/education.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-06-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+</urlset>
