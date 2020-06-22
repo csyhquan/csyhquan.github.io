@@ -180,7 +180,7 @@ p.ex2 {margin-bottom: 0cm}
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/陈铭钦.png" alt="" height="136" align="left" /></p>
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/陈铭钦.jpg" alt="" height="136" align="left" /></p>
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Mingqin Chen</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(陈铭钦)</span></g1></p>
