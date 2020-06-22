@@ -7,73 +7,81 @@
 >
 
 <url>
- <loc>https://csyhquan.github.io/category/c_publication.html</loc>
- <priority>0.3</priority>
- <lastmod>2020-06-20</lastmod>
+ <loc>https://csyhquan.github.io/</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-6-22</lastmod>
  <changefreq>weekly</changefreq>
 </url>
-
-<url>
- <loc>https://csyhquan.github.io/2020/05/30/a_ainterest.html</loc>
- <priority>0.3</priority>
- <lastmod>2020-06-20</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://csyhquan.github.io/research.html</loc>
- <priority>0.3</priority>
- <lastmod>2020-06-20</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://csyhquan.github.io/2020/05/30/a_experience.html</loc>
- <priority>0.3</priority>
- <lastmod>2020-06-20</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://csyhquan.github.io/2020/05/30/resume.html</loc>
- <priority>0.3</priority>
- <lastmod>2020-06-20</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://csyhquan.github.io/category/d_teaching.html</loc>
- <priority>0.3</priority>
- <lastmod>2020-06-20</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://csyhquan.github.io/category/e_personal.html</loc>
- <priority>0.3</priority>
- <lastmod>2020-06-20</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
 <url>
  <loc>https://csyhquan.github.io/</loc>
- <priority>0.3</priority>
- <lastmod>2020-06-20</lastmod>
+ <priority>0.5</priority>
+ <lastmod>2020-6-22</lastmod>
  <changefreq>weekly</changefreq>
 </url>
-
 <url>
- <loc>https://csyhquan.github.io/2020/05/30/a_award.html</loc>
- <priority>0.3</priority>
- <lastmod>2020-06-20</lastmod>
+ <loc>https://csyhquan.github.io/research.html</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-6-22</lastmod>
  <changefreq>weekly</changefreq>
 </url>
-
+<url>
+ <loc>https://csyhquan.github.io/category/c_publication.html</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-6-22</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://csyhquan.github.io/category/d_teaching.html</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-6-22</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://csyhquan.github.io/category/group.html</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-6-22</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://csyhquan.github.io/category/personal.html</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-6-22</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://csyhquan.github.io/search.html</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-6-22</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://csyhquan.github.io/2020/05/30/resume.html</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-6-22</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
 <url>
  <loc>https://csyhquan.github.io/2020/05/30/education.html</loc>
- <priority>0.3</priority>
- <lastmod>2020-06-20</lastmod>
+ <priority>0.5</priority>
+ <lastmod>2020-6-22</lastmod>
  <changefreq>weekly</changefreq>
 </url>
-
+<url>
+ <loc>https://csyhquan.github.io/2020/05/29/experience.html</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-6-22</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://csyhquan.github.io/2020/05/28/award.html</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-6-22</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://csyhquan.github.io/2020/05/27/interest.html</loc>
+ <priority>0.5</priority>
+ <lastmod>2020-6-22</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
 </urlset>
