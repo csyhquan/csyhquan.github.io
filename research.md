@@ -231,7 +231,7 @@ sidebar_link: true
 <!---------------------------------3-------------------------------------------------->
 <!---------------------------------3-------------------------------------------------->
 <details open="">
-<summary><t-half><strong> Sparse Representation for Computer Vision and Image Processing</strong></t-half></summary>
+<summary><t-half><strong>Sparse Representation for Computer Vision and Image Processing</strong></t-half></summary>
 <ul>
 <!--3-1-->
 <details>
