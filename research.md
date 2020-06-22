@@ -15,7 +15,7 @@ sidebar_link: true
 <details open="">
 <summary><strong><t1><font color="#004D86">Self2Self: Self-Supervised Image Denoising</font></t1></strong></summary>
 
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -44,7 +44,7 @@ sidebar_link: true
 <details>
 <summary><strong><t1><font color="#004D86">Image Denoising via Sequential Ensemble Learning</font></t1></strong></summary>
 
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -66,7 +66,7 @@ sidebar_link: true
 <details>
 <summary><strong><t1><font color="#004D86">Non-Blind Image Deblurring via Variational-EM-Based Deep Learning</font></t1></strong></summary>
 
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -86,7 +86,7 @@ sidebar_link: true
 <details>
 <summary><strong><t1><font color="#004D86">Super-Resolving Blurry Text Images via Collaborative Deep Learning</font></t1></strong></summary>
 
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -108,7 +108,7 @@ sidebar_link: true
 <details>
 <summary><strong><t1><font color="#004D86">Image Raindrop Removal via Shape Attention</font></t1></strong></summary>
 
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -130,7 +130,7 @@ sidebar_link: true
 <!--7-1-->
 <details>
 <summary><strong><t1><font color="#004DB6">Intellectual Property Protection of Supervised Learning Systems in Image Recovery</font> </t1></strong></summary>
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -165,7 +165,7 @@ sidebar_link: true
 <!--4-1-->
 <details>
 <summary><strong><t1><font color="#004D86">Data-Driven Multi-Scale Non-local Wavelet Frame Construction and Image Recovery</font> </t1></strong></summary>
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -187,7 +187,7 @@ sidebar_link: true
 <!--4-2-->
 <details>
 <summary><strong><t1><font color="#004D86">Cartoon-Texture Decomposition via Discriminative Patch Recurrence </font></t1></strong></summary>
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -207,7 +207,7 @@ sidebar_link: true
 <!--4-3-->
 <details>
 <summary><strong><t1><font color="#004D86">Removing Ghosting Reflections from Single Image </font></t1></strong></summary>
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -236,7 +236,7 @@ sidebar_link: true
 <!--3-1-->
 <details>
 <summary><strong><t1><font color="#004D86">Sparse Coding for Classification: Improving Discrimination</font></t1></strong></summary>
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -259,7 +259,7 @@ sidebar_link: true
 <!--3-2-->
 <details>
 <summary><strong><t1><font color="#004D86">Sparse Coding and Dictionary Learning on Tensors </font></t1></strong></summary>
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -279,7 +279,7 @@ sidebar_link: true
 <!--3-3-->
 <details>
 <summary><strong><t1><font color="#004D86">Sparse Coding for Texture Analysis</font></t1></strong></summary>
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -299,7 +299,7 @@ sidebar_link: true
 <!--3-4-->
 <details>
 <summary><strong><t1><font color="#004D86">Sparse Coding for Image Quality Assessment </font></t1></strong></summary>
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -320,7 +320,7 @@ sidebar_link: true
 <!--3-5-->
 <details>
 <summary><strong><t1><font color="#004D86">Sparse Coding: Algorithms and Convergence Analysis</font> </t1></strong></summary>
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -354,7 +354,7 @@ sidebar_link: true
 <!--5-1-->
 <details>
 <summary><strong><t1><font color="#004D86">Visual Quality Assessment: Sparse Coding Approach</font></t1></strong></summary>
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -378,7 +378,7 @@ sidebar_link: true
 <!--5-3-->
 <details>
 <summary><strong><t1><font color="#004D86">Measurring Local Image Distortions </font></t1></strong></summary>
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -399,7 +399,7 @@ sidebar_link: true
 <!--5-2-->
 <details>
 <summary><strong><t1><font color="#004D86">Spatial-Distribution-Aware Image Quality Assessment </font></t1></strong></summary>
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -437,7 +437,7 @@ sidebar_link: true
 <!--7-2-->
 <details>
 <summary><strong><t1><font color="#004D86">Maximum-Torque Contour Descriptor </font></t1></strong></summary>
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
@@ -462,7 +462,7 @@ sidebar_link: true
 <!--6-1-->
 <details>
 <summary><strong><t1><font color="#004D86">Lacunarity/Fractal Statistics for Texture Recognition</font> </t1></strong></summary>
-<table>
+<table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
  <th>
