@@ -432,7 +432,35 @@ sidebar_link: true
 <summary><t-half><strong>Invariant Features for Visual Recognition</strong></t-half></summary>
 <ul>
 
+<!--6-1-->
+<details>
+<summary><strong><t1><font color="#004D86">Lacunarity/Fractal Statistics for Texture Recognition</font> </t1></strong></summary>
+<table width="100%" border="1" bordercolor="#e5e5e5">
+<tbody>
+<tr>
+ <th>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/laun.png" alt="" height="130"/>
+ <div>&nbsp;</div>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/laun1.png" alt="" height="130"/>
+ <!--<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_1_1.png" alt="" height="130" />-->
+ <!--<a>&nbsp;</a>-->
+  <!--<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_1_2.png" alt="" height="130" />-->
+<ul>
+<t2>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-cviu-Spatiotemporal%20lacunarity%20spectrum%20for%20dynamic%20texture%20classification.pdf">Spatiotemporal lacunarity spectrum for dynamic texture classification</a></strong>, CVIU, 2017.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-icme-CHARACTERIZING%20DYNAMIC%20TEXTURES%20WITH%20SPACE-TIME%20LACUNARITY%20ANALYSIS.pdf">Characterizing dynamic textures with space-time lacunarity analysis </a></strong>, ICME, 2015.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-Lacunarity%20Analysis%20on%20Image%20Patterns%20for%20Texture%20Classification.pdf">Lacunarity analysis on image patterns for texture classification </a></strong>, CVPR, 2014.</li>
 
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-pr-Classifying%20dynamic%20textures%20via%20spatiotemporal%20fractal%20analysis.pdf">Classifying dynamic textures via spatiotemporal fractal analysis </a></strong>, PR, 2015.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-ivc-A%20distinct%20and%20compact%20texture%20descriptor.pdf">A distinct and compact texture descriptor </a></strong>, IVC, 2014.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/11-iccv-Dynamic%20Texture%20Classification%20Using%20Dynamic%20Fractal%20Analysis.pdf">Dynamic texture classification using dynamic fractal analysis </a></strong>, ICCV, 2011.</li>
+</t2>
+</ul>
+</th>
+</tr>
+</tbody>
+</table>
+</details>
 
 <!--7-2-->
 <details>
@@ -459,34 +487,7 @@ sidebar_link: true
 
 
 
-<!--6-1-->
-<details>
-<summary><strong><t1><font color="#004D86">Lacunarity/Fractal Statistics for Texture Recognition</font> </t1></strong></summary>
-<table width="100%" border="1" bordercolor="#e5e5e5">
-<tbody>
-<tr>
- <th>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/laun.png" alt="" height="130"/>
- <!--<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/laun1.png" alt="" height="130"/>-->
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_1_1.png" alt="" height="130" />
- <!--<a>&nbsp;</a>-->
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_1_2.png" alt="" height="130" />
-<ul>
-<t2>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-cviu-Spatiotemporal%20lacunarity%20spectrum%20for%20dynamic%20texture%20classification.pdf">Spatiotemporal lacunarity spectrum for dynamic texture classification</a></strong>, CVIU, 2017.</li>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-icme-CHARACTERIZING%20DYNAMIC%20TEXTURES%20WITH%20SPACE-TIME%20LACUNARITY%20ANALYSIS.pdf">Characterizing dynamic textures with space-time lacunarity analysis </a></strong>, ICME, 2015.</li>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-Lacunarity%20Analysis%20on%20Image%20Patterns%20for%20Texture%20Classification.pdf">Lacunarity analysis on image patterns for texture classification </a></strong>, CVPR, 2014.</li>
 
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-pr-Classifying%20dynamic%20textures%20via%20spatiotemporal%20fractal%20analysis.pdf">Classifying dynamic textures via spatiotemporal fractal analysis </a></strong>, PR, 2015.</li>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-ivc-A%20distinct%20and%20compact%20texture%20descriptor.pdf">A distinct and compact texture descriptor </a></strong>, IVC, 2014.</li>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/11-iccv-Dynamic%20Texture%20Classification%20Using%20Dynamic%20Fractal%20Analysis.pdf">Dynamic texture classification using dynamic fractal analysis </a></strong>, ICCV, 2011.</li>
-</t2>
-</ul>
-</th>
-</tr>
-</tbody>
-</table>
-</details>
 <!--6-2-->
 <!--
 <details>
