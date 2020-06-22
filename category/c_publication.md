@@ -7,20 +7,20 @@ title: Publications
 <summary><t-half><span><strong>Upcoming</strong></span></t-half></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>Image quality assessment using kernel sparse coding</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/TMM-kernel/TMM-KSC_IQA-FinalCode.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/JoanneZZH/KSC-IQA" ><font color="#F75000">github</font></a>] </span><br />
-<span style="font-size: 95%;"> Z. Zhou, J. Li, Y. Quan* and R. Xu, <br />
+<li><span><strong>Image quality assessment using kernel sparse coding</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/TMM-kernel/TMM-KSC_IQA-FinalCode.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/JoanneZZH/KSC-IQA" ><font color="#F75000">github</font></a>] </span><br />
+<span> Z. Zhou, J. Li, Y. Quan* and R. Xu, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>xx(x): xxx–xxx. xxx 2020</span></li>
-<li><span style="font-size: 95%;"><strong>Cartoon-texture image decomposition using orientation characteristics in patch recurrence</strong><!--[<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">manuscript</a>]--> </span><br />
-<span style="font-size: 95%;"> R. Xu, Y. Xu, Y. Quan* and H. Ji<br />
+<li><span><strong>Cartoon-texture image decomposition using orientation characteristics in patch recurrence</strong><!--[<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">manuscript</a>]--> </span><br />
+<span> R. Xu, Y. Xu, Y. Quan* and H. Ji<br />
 <em>SIAM Journal on Imaging Sciences (SIIMS), </em>xx(x): xxx–xxx. xxx 2020</span></li>
-<li><span style="font-size: 95%;"><strong>Collaborative deep learning for super-resolving blurry text images</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">manuscript</a>][<a href="https://github.com/csjietingyang/ImplementationOfOurAcceptedPaper"><font color="#F75000">github</font></a>]</span><br />
-<span style="font-size: 95%;">Y. Quan, J. Yang, Y. Chen, Y. Xu and H. Ji, <br />
+<li><span><strong>Collaborative deep learning for super-resolving blurry text images</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">manuscript</a>][<a href="https://github.com/csjietingyang/ImplementationOfOurAcceptedPaper"><font color="#F75000">github</font></a>]</span><br />
+<span>Y. Quan, J. Yang, Y. Chen, Y. Xu and H. Ji, <br />
 <em>IEEE Transactions on Computational Imaging (TCI), </em>xx(x): xxx–xxx. xxx 2020</span></li>
-<li><span style="font-size: 95%;"><strong>Factorized tensor dictionary learning for visual tensor data completion</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/tensor_completion.rar"><font color="#F75000">code</font></a>]</span><br />
-<span style="font-size: 95%;">R. Xu, Y. Xu and Y. Quan*, <br />
+<li><span><strong>Factorized tensor dictionary learning for visual tensor data completion</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/tensor_completion.rar"><font color="#F75000">code</font></a>]</span><br />
+<span>R. Xu, Y. Xu and Y. Quan*, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>xx(x): xxx–xxx. xxx 2020</span></li>
-<li><span style="font-size: 95%;"><strong>Watermarking deep neural networks in image processing</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">manuscript</a>]</span><br />
-<span style="font-size: 95%;"> Y. Quan, H. Teng, Y. Chen and H. Ji, <br />
+<li><span><strong>Watermarking deep neural networks in image processing</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">manuscript</a>]</span><br />
+<span> Y. Quan, H. Teng, Y. Chen and H. Ji, <br />
 <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>xx(x): xxx–xxx. xxx 2020</span></li>
 </ul>
 </t1>
@@ -32,48 +32,48 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
  
-<li><span style="font-size: 95%;"><strong>Removing reflection from a single image with ghosting effect</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tci-Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect.pdf" download="github3">manuscript</a>]</span><br />
-<span style="font-size: 95%;"> Y. Huang, Y. Quan*, Y. Xu, R. Xu and H. Ji,<br />
+<li><span><strong>Removing reflection from a single image with ghosting effect</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tci-Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect.pdf" download="github3">manuscript</a>]</span><br />
+<span> Y. Huang, Y. Quan*, Y. Xu, R. Xu and H. Ji,<br />
  <em> IEEE Transactions on Computational Imaging (TCI), </em>6(1): 34-45, Dec 2020</span></li>
- <li><span style="font-size: 95%;"><strong>Weakly-supervised sparse coding with geometric prior for interactive texture segmentation</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf" download="github4">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation%20(SUPP).pdf" download="sup3">supp</a>][<a href="https://github.com/csyanhuang/texSeg"><font color="#F75000">github</font></a>]</span><br />
-<span style="font-size: 95%;"> Y. Quan, H. Teng, T. Liu and Y. Huang,<br />
+ <li><span><strong>Weakly-supervised sparse coding with geometric prior for interactive texture segmentation</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf" download="github4">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation%20(SUPP).pdf" download="sup3">supp</a>][<a href="https://github.com/csyanhuang/texSeg"><font color="#F75000">github</font></a>]</span><br />
+<span> Y. Quan, H. Teng, T. Liu and Y. Huang,<br />
  <em> IEEE Signal Processing Letters (SPL), </em>27(1): 116-120, Dec 2020</span></li>
- <li><span style="font-size: 95%;"><strong>Image denoising via sequential ensemble learning</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf" download="github4">manuscript</a>][<a href="https://github.com/cs-rukawa/NLED_Code" download="code9"><font color="#F75000">github</font></a>]</span><br />
-<span style="font-size: 95%;"> X. Yang, Y. Xu, Y. Quan* and H. Ji,<br />
+ <li><span><strong>Image denoising via sequential ensemble learning</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf" download="github4">manuscript</a>][<a href="https://github.com/cs-rukawa/NLED_Code" download="code9"><font color="#F75000">github</font></a>]</span><br />
+<span> X. Yang, Y. Xu, Y. Quan* and H. Ji,<br />
  <em> IEEE Transactions on Image Processing (TIP), </em>29(1): 5038-5049, Dec 2020</span></li>
- <li><span style="font-size: 95%;"><strong>Self2Self with dropout: Learning self-supervised denoising from single image</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image%20(SUPP).pdf">supp</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/Self2Self/Self2Self.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/scut-mingqinchen/self2self"><font color="#F75000">github</font></a>]</span><br />
-<span style="font-size: 95%;"> Y. Quan, M. Chen, T. Pang and H. Ji,<br />
+ <li><span><strong>Self2Self with dropout: Learning self-supervised denoising from single image</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image%20(SUPP).pdf">supp</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/Self2Self/Self2Self.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/scut-mingqinchen/self2self"><font color="#F75000">github</font></a>]</span><br />
+<span> Y. Quan, M. Chen, T. Pang and H. Ji,<br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2020</span></li><!--Seattle(virtual），Jun-->
-<li><span style="font-size: 95%;"><strong>Variational-EM-based deep learning for noise-blind image deblurring</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-cvpr-Variational-EM-based%20Deep%20Learning%20for%20Noise-blind%20Image%20Deblurring.pdf">manuscript</a>]</span><br />
-<span style="font-size: 95%;"> Y. Nan, Y. Quan and H. Ji, <br />
+<li><span><strong>Variational-EM-based deep learning for noise-blind image deblurring</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-cvpr-Variational-EM-based%20Deep%20Learning%20for%20Noise-blind%20Image%20Deblurring.pdf">manuscript</a>]</span><br />
+<span> Y. Nan, Y. Quan and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2020</span></li><!--Seattle(virtual），Jun-->
- <li><span style="font-size: 95%;"><strong>Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-nca-Full-reference%20image%20quality%20metric%20for%20blurry%20images%20and%20compressed%20images%20using%20hybrid%20dictionary%20learning.pdf" download="github">manuscript</a>][<a href="https://github.com/JoanneZZH/HDL-IQA/" ><font color="#F75000">github</font></a>] </span><br />
-<span style="font-size: 95%;"> Z. Zhou, J. Li, Y. Xu and Y. Quan*,<br />
+ <li><span><strong>Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-nca-Full-reference%20image%20quality%20metric%20for%20blurry%20images%20and%20compressed%20images%20using%20hybrid%20dictionary%20learning.pdf" download="github">manuscript</a>][<a href="https://github.com/JoanneZZH/HDL-IQA/" ><font color="#F75000">github</font></a>] </span><br />
+<span> Z. Zhou, J. Li, Y. Xu and Y. Quan*,<br />
 <em> Neural Computing and Applications (NCA), </em>Jan 2020</span></li>
 
 
- <li><span style="font-size: 95%;"><strong>Barzilai-Borwein-based adaptive learning rate for deep learning</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-pr-Barzilai%E2%80%93Borwein-based%20adaptive%20learning%20rate%20for%20deep%20learning.pdf" download="github6">manuscript</a>]</span><br />
-<span style="font-size: 95%;"> J. Liang, Y. Xu, C. Bao, Y. Quan* and H. Ji,<br />
+ <li><span><strong>Barzilai-Borwein-based adaptive learning rate for deep learning</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-pr-Barzilai%E2%80%93Borwein-based%20adaptive%20learning%20rate%20for%20deep%20learning.pdf" download="github6">manuscript</a>]</span><br />
+<span> J. Liang, Y. Xu, C. Bao, Y. Quan* and H. Ji,<br />
  <em> Pattern Recognition Letters (PRL), </em>128(1): 197-203, Dec 2019</span></li>
- <li><span style="font-size: 95%;"><strong>Exploiting global low-rank structure and local sparsity nature for tensor completion</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-tcyb-Exploiting%20Global%20Low-rank%20Structure%20and%20Local%20Sparsity%20Nature%20for%20Tensor%20Completion.pdf" download="github10">manuscript</a>][<a href="https://github.com/csyongdu/Exploiting-Global-Low-Rank-Structure-and-Local-Sparsity-Nature-for-Tensor-Completion"><font color="#F75000">github</font></a>] </span><br />
-<span style="font-size: 95%;"> Y. Du, G. Han, Y. Quan, Z. Yu, H. Wong, C. Chen and J. Zhang,<br />
+ <li><span><strong>Exploiting global low-rank structure and local sparsity nature for tensor completion</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-tcyb-Exploiting%20Global%20Low-rank%20Structure%20and%20Local%20Sparsity%20Nature%20for%20Tensor%20Completion.pdf" download="github10">manuscript</a>][<a href="https://github.com/csyongdu/Exploiting-Global-Low-Rank-Structure-and-Local-Sparsity-Nature-for-Tensor-Completion"><font color="#F75000">github</font></a>] </span><br />
+<span> Y. Du, G. Han, Y. Quan, Z. Yu, H. Wong, C. Chen and J. Zhang,<br />
 <em> IEEE Transactions on Cybernetics (TCYB),</em> 49(11): 3898-3910, Nov 2019</span></li>
-<li><span style="font-size: 95%;"><strong>Deep learning for seeing through window with raindrops</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops.pdf" download="github1">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops%20(SUPP).pdf" download="sup2">supp</a>][<a href="https://github.com/jackiesdd/raindropAttention"><font color="#F75000">github</font></a>]</span><br />
-<span style="font-size: 95%;"> Y. Quan, S. Deng, Y. Chen and H. Ji,<br />
+<li><span><strong>Deep learning for seeing through window with raindrops</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops.pdf" download="github1">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops%20(SUPP).pdf" download="sup2">supp</a>][<a href="https://github.com/jackiesdd/raindropAttention"><font color="#F75000">github</font></a>]</span><br />
+<span> Y. Quan, S. Deng, Y. Chen and H. Ji,<br />
  <em> IEEE International Conference on Computer Vision (ICCV), </em>Oct 2019</span></li><!--Seoul, Oct -->
  <!--
 <li><span style="font-size: 95%;"><strong>Exploiting label consistency in structured sparse representation for classification</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-nca-Exploiting%20label%20consistency%20in%20structured%20sparse%20representation%20for%20classification.pdf" download="github7">manuscript</a>]</span><br />
 <span style="font-size: 95%;"> Y. Huang, Y. Quan*, T. Liu and Y. Xu,<br />
 <em> Neural Computing and Applications (NCA), </em>31(10): 6509-6520, Oct 2019</span></li>-->
-<li><span style="font-size: 95%;"><strong>Attention with structure regularization for action recognition</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-cviu-Attention%20with%20structure%20regularization%20for%20action%20recognition.pdf" download="github8">manuscript</a>]</span><br />
-<span style="font-size: 95%;"> Y. Quan, Y. Chen, R. Xu and H. Ji,<br />
+<li><span><strong>Attention with structure regularization for action recognition</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-cviu-Attention%20with%20structure%20regularization%20for%20action%20recognition.pdf" download="github8">manuscript</a>]</span><br />
+<span> Y. Quan, Y. Chen, R. Xu and H. Ji,<br />
 <em> Computer Vision and Image Understanding (CVIU), </em>187, Oct 2019</span></li>
 <!--
 <li><span style="font-size: 95%;"><strong>Deeply exploiting long-term view dependency for 3D shape recognition</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-access-Deeply%20Exploiting%20Long-Term%20View%20Dependency%20for%203D%20Shape%20Recognition.pdf" download="github9">manuscript</a>] </span><br />
 <span style="font-size: 95%;"> Y. Xu, C. Zheng, R. Xu and Y. Quan*,<br />
 <em> IEEE Access (ACCESS), </em>7: 111678-111691, Aug 2019</span></li>-->
- <li><span style="font-size: 95%;"><strong>Supervised sparse coding with decision forest</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-spl-Supervised%20Sparse%20Coding%20With%20Decision%20Forest.pdf" download="github5">manuscript</a>][<a href="https://github.com/csyanhuang/SCDF" ><font color="#F75000">github</font></a>] </span><br />
-<span style="font-size: 95%;"> Y. Huang, Y. Quan* and T. Liu,<br />
+ <li><span><strong>Supervised sparse coding with decision forest</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-spl-Supervised%20Sparse%20Coding%20With%20Decision%20Forest.pdf" download="github5">manuscript</a>][<a href="https://github.com/csyanhuang/SCDF" ><font color="#F75000">github</font></a>] </span><br />
+<span> Y. Huang, Y. Quan* and T. Liu,<br />
  <em> IEEE Signal Processing Letters (SPL), </em>26(2): 327-331, Feb 2019</span></li>
 </ul>
 </t1>
