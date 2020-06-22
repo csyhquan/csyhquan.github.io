@@ -91,14 +91,14 @@ title: Publications
 <em> Neural Computing and Applications (NCA),</em> 30(4): 1265-1275, Aug 2018</span></li>-->
 
 
-<li><span style="font-size: 95%;"><strong>Image-based action recognition using hint-enhanced deep neural network</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-nc-Image-based%20action%20recognition%20using%20hint-enhanced%20deep%20neural%20network.pdf" download="github13">manuscript</a>] </span><br />
-<span style="font-size: 95%;"> T. Qi, Y. Xu, Y. Quan, Y. Wang and H. Ling,<br />
+<li><span><strong>Image-based action recognition using hint-enhanced deep neural network</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-nc-Image-based%20action%20recognition%20using%20hint-enhanced%20deep%20neural%20network.pdf" download="github13">manuscript</a>] </span><br />
+<span> T. Qi, Y. Xu, Y. Quan, Y. Wang and H. Ling,<br />
 <em>Neurocomputing (NC), </em>267: 475-488, Dec 2017</span></li>
-<li><span style="font-size: 95%;"><strong>Spatiotemporal lacunarity spectrum for dynamic texture classification</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-cviu-Spatiotemporal%20lacunarity%20spectrum%20for%20dynamic%20texture%20classification.pdf" download="github14">manuscript</a>] </span><br />
-<span style="font-size: 95%;"> Y. Quan, Y. Sun and Y. Xu,<br />
+<li><span><strong>Spatiotemporal lacunarity spectrum for dynamic texture classification</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-cviu-Spatiotemporal%20lacunarity%20spectrum%20for%20dynamic%20texture%20classification.pdf" download="github14">manuscript</a>] </span><br />
+<span> Y. Quan, Y. Sun and Y. Xu,<br />
 <em>Computer Vision and Image Understanding (CVIU), </em>165: 85-96, Dec 2017</span></li>
-<li><span style="font-size: 95%;"><strong>Estimating defocus blur via rank of local patches</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches.pdf" download="github12">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches%20(SUPP).pdf" download="supp">supp</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches/Defocus_estimator_v1.0.rar" download="code8"><font color="#F75000">code</font></a>]</span><br />
-<span style="font-size: 95%;"> G. Xu, Y. Quan and H. Ji,<br />
+<li><span><strong>Estimating defocus blur via rank of local patches</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches.pdf" download="github12">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches%20(SUPP).pdf" download="supp">supp</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches/Defocus_estimator_v1.0.rar" download="code8"><font color="#F75000">code</font></a>]</span><br />
+<span> G. Xu, Y. Quan and H. Ji,<br />
 <em> IEEE International Conference on Computer Vision (ICCV), </em>Oct 2017</span></li><!--Venice, Oct -->
 </ul>
 </t1>
@@ -111,43 +111,43 @@ title: Publications
 <summary><span><strong><t-half>2015 - 2016</t-half></strong></span></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>Dictionary learning for sparse coding: Algorithms and convergence analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-tpami-Dictionary%20learning%20for%20sparse%20coding_Algorithms%20and%20convergence%20analysis.pdf" download="github17">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/l0dl_int.rar" ><font color="#F75000">code</font></a>] </span><br />
-<span style="font-size: 95%;"> C. Bao, H. Ji, Y. Quan and Z. Shen,<br />
+<li><span><strong>Dictionary learning for sparse coding: Algorithms and convergence analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-tpami-Dictionary%20learning%20for%20sparse%20coding_Algorithms%20and%20convergence%20analysis.pdf" download="github17">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/l0dl_int.rar" ><font color="#F75000">code</font></a>] </span><br />
+<span> C. Bao, H. Ji, Y. Quan and Z. Shen,<br />
 <em> IEEE Transactions on Patter Analysis and Machine Intelligence (TPAMI),</em> 38(7): 1356-1369, Jul 2016</span></li>
-<li><span style="font-size: 95%;"><strong>Supervised dictionary learning with multiple classifier integration</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-pr-Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration.pdf" download="github18">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/16-pr-Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration/MCDLv7_pcode.rar" download="code7"><font color="#F75000">code</font></a>] </span><br />
-<span style="font-size: 95%;">Y. Quan, Y. Xu, Y. Sun and Y. Huang,<br />
+<li><span><strong>Supervised dictionary learning with multiple classifier integration</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-pr-Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration.pdf" download="github18">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/16-pr-Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration/MCDLv7_pcode.rar" download="code7"><font color="#F75000">code</font></a>] </span><br />
+<span>Y. Quan, Y. Xu, Y. Sun and Y. Huang,<br />
 <em> Pattern Recognition (PR),</em> 55: 247-260, Jul 2016</span></li>
-<li><span style="font-size: 95%;"><strong>Equiangular kernel dictionary learning with applications to dynamic texture analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-cvpr-Equiangular%20Kernel%20Dictionary%20Learning%20with%20Applications%20to%20Dynamic%20Texture%20Analysis.pdf" download="github15">manuscript</a>]</span><br />
-<span style="font-size: 95%;">Y. Quan, C. Bao and H. Ji,<br />
+<li><span><strong>Equiangular kernel dictionary learning with applications to dynamic texture analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-cvpr-Equiangular%20Kernel%20Dictionary%20Learning%20with%20Applications%20to%20Dynamic%20Texture%20Analysis.pdf" download="github15">manuscript</a>]</span><br />
+<span>Y. Quan, C. Bao and H. Ji,<br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2016</span></li><!--Las Vegas, Jun, -->
-<li><span style="font-size: 95%;"><strong>Sparse coding for classification via discrimination ensemble</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-cvpr-Sparse%20Coding%20for%20Classification%20via%20Discrimination%20Ensemble.pdf" download="github16">manuscript</a>]</span><br />
-<span style="font-size: 95%;">Y. Quan, Y. Xu, Y. Sun, Y. Huang and H. Ji,<br />
+<li><span><strong>Sparse coding for classification via discrimination ensemble</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-cvpr-Sparse%20Coding%20for%20Classification%20via%20Discrimination%20Ensemble.pdf" download="github16">manuscript</a>]</span><br />
+<span>Y. Quan, Y. Xu, Y. Sun, Y. Huang and H. Ji,<br />
 <em> IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2016</span></li> <!--Las Vegas, Jun, -->
 
 
-<li><span style="font-size: 95%;"><strong>Dynamic texture recognition via orthogonal tensor dictionary learning</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-iccv-Dynamic%20Texture%20Recognition%20via%20Orthogonal%20Tensor%20Dictionary%20Learning.pdf" download="github20">manuscript</a>]</span><br />
-<span style="font-size: 95%;">Y. Quan, Y. Huang and H. Ji,<br />
+<li><span><strong>Dynamic texture recognition via orthogonal tensor dictionary learning</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-iccv-Dynamic%20Texture%20Recognition%20via%20Orthogonal%20Tensor%20Dictionary%20Learning.pdf" download="github20">manuscript</a>]</span><br />
+<span>Y. Quan, Y. Huang and H. Ji,<br />
 <em> IEEE International Conference on Computer Vision (ICCV), </em>Dec 2015</span></li><!--Santiago, Dec, -->
-<li><span style="font-size: 95%;"><strong>Classifying dynamic textures via spatiotemporal fractal analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-pr-Classifying%20dynamic%20textures%20via%20spatiotemporal%20fractal%20analysis.pdf" download="github24">manuscript</a>] </span><br />
-<span style="font-size: 95%;">Y. Xu, Y. Quan*, Z. Zhang, H. Ling and H. Ji,<br />
+<li><span><strong>Classifying dynamic textures via spatiotemporal fractal analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-pr-Classifying%20dynamic%20textures%20via%20spatiotemporal%20fractal%20analysis.pdf" download="github24">manuscript</a>] </span><br />
+<span>Y. Xu, Y. Quan*, Z. Zhang, H. Ling and H. Ji,<br />
 <em> Pattern Recognition (PR),</em> 48(10): 3239-3248, Oct 2015</span></li>
-<li><span style="font-size: 95%;"><strong>Structured sparse coding for classification via reweighted l<sub>1,2</sub> minimization</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-cccv-Structured%20Sparse%20Coding%20for%20Classification%20via%20Reweighted%20l12%20minimization.pdf" download="github21">manuscript</a>]</span><br />
-<span style="font-size: 95%;">Y. Xu, Y. Sun, Y. Quan and Y. Luo,<br />
+<li><span><strong>Structured sparse coding for classification via reweighted l<sub>1,2</sub> minimization</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-cccv-Structured%20Sparse%20Coding%20for%20Classification%20via%20Reweighted%20l12%20minimization.pdf" download="github21">manuscript</a>]</span><br />
+<span>Y. Xu, Y. Sun, Y. Quan and Y. Luo,<br />
 <em> The Chinese Conference on Computer Vision (CCCV), </em>Sep 2015</span></li><!--Xi'an, Sep, -->
-<li><span style="font-size: 95%;"><strong>Fractal analysis for reduced reference image quality assessment</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-tip-Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf" download="github22">manuscript</a>] </span><br />
-<span style="font-size: 95%;"> Y. Xu, D. Liu, Y. Quan and P. Callet,<br />
+<li><span><strong>Fractal analysis for reduced reference image quality assessment</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-tip-Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf" download="github22">manuscript</a>] </span><br />
+<span> Y. Xu, D. Liu, Y. Quan and P. Callet,<br />
 <em> IEEE Transactions on Image Processing (TIP),</em> 24(7): 2089-2109, Jul 2015</span></li>
-<li><span style="font-size: 95%;"><strong>Discriminative structured dictionary learning with hierarchical group sparsity</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-cviu-Discriminative%20structured%20dictionary%20learning%20with%20hierarchical%20group%20sparsity.pdf" download="github26">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/15-cviu-Discriminative%20structured%20dictionary%20learning%20with%20hierarchical%20group%20sparsity/child_dl_v2.rar" download="code6"><font color="#F75000">code</font></a>]</span><br />
-<span style="font-size: 95%;">Y. Xu, Y. Sun, Y. Quan and B. Zheng,<br />
+<li><span><strong>Discriminative structured dictionary learning with hierarchical group sparsity</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-cviu-Discriminative%20structured%20dictionary%20learning%20with%20hierarchical%20group%20sparsity.pdf" download="github26">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/15-cviu-Discriminative%20structured%20dictionary%20learning%20with%20hierarchical%20group%20sparsity/child_dl_v2.rar" download="code6"><font color="#F75000">code</font></a>]</span><br />
+<span>Y. Xu, Y. Sun, Y. Quan and B. Zheng,<br />
 <em> Computer Vision and Image Understanding (CVIU),</em> 136: 59-68, Jul 2015</span></li>
-<li><span style="font-size: 95%;"><strong>Characterizing dynamic textures with space-time lacunarity analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-icme-CHARACTERIZING%20DYNAMIC%20TEXTURES%20WITH%20SPACE-TIME%20LACUNARITY%20ANALYSIS.pdf" download="github19">manuscript</a>]</span><br />
-<span style="font-size: 95%;">Y. Sun, Y. Xu and Y. Quan,<br />
+<li><span><strong>Characterizing dynamic textures with space-time lacunarity analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-icme-CHARACTERIZING%20DYNAMIC%20TEXTURES%20WITH%20SPACE-TIME%20LACUNARITY%20ANALYSIS.pdf" download="github19">manuscript</a>]</span><br />
+<span>Y. Sun, Y. Xu and Y. Quan,<br />
 <em> IEEE International Conference on Multimedia and Expo (ICME), </em>Oral, Jun 2015</span></li><!--Torino, Jun, -->
-<li><span style="font-size: 95%;"><strong>Directional regularity for visual quality estimation</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-sp-Directional%20regularity%20for%20visual%20quality%20estimation.pdf" download="github23">manuscript</a>] </span><br />
-<span style="font-size: 95%;">D. Liu, Y. Xu, Y. Quan, Z. Yu and P. Callet,<br />
+<li><span><strong>Directional regularity for visual quality estimation</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-sp-Directional%20regularity%20for%20visual%20quality%20estimation.pdf" download="github23">manuscript</a>] </span><br />
+<span>D. Liu, Y. Xu, Y. Quan, Z. Yu and P. Callet,<br />
 <em> Signal Processing (SP),</em> 110: 211-221, May 2015</span></li>
-<li><span style="font-size: 95%;"><strong>Data-driven multi-scale non-local wavelet frame construction and image recovery</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-josc-Data-driven%20multi-scale%20non-local%20wavelet%20frame%20construction%20and%20image%20recovery.pdf" download="github25">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/15-josc-Data-driven%20multi-scale%20non-local%20wavelet%20frame%20construction%20and%20image%20recovery/NLFrame.rar" download="code5"><font color="#F75000">code</font></a>] </span><br />
-<span style="font-size: 95%;">Y. Quan, H. Ji and Z. Shen,<br />
+<li><span><strong>Data-driven multi-scale non-local wavelet frame construction and image recovery</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-josc-Data-driven%20multi-scale%20non-local%20wavelet%20frame%20construction%20and%20image%20recovery.pdf" download="github25">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/15-josc-Data-driven%20multi-scale%20non-local%20wavelet%20frame%20construction%20and%20image%20recovery/NLFrame.rar" download="code5"><font color="#F75000">code</font></a>] </span><br />
+<span>Y. Quan, H. Ji and Z. Shen,<br />
 <em> Journal of Scientific Computing (JoSC),</em> 63(2): 307-329, May 2015</span></li>
 </ul>
 </t1>
@@ -161,20 +161,20 @@ title: Publications
 <summary><span><strong><t-half>2013 - 2014</t-half></strong></span></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>A convergent incoherent dictionary learning algorithm for sparse coding</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-eccv-A%20Convergent%20Incoherent%20Dictionary%20Learning%20Algorithm%20for%20Sparse%20Coding.pdf" download="github27">manuscript</a>]</span><br />
-<span style="font-size: 95%;">C. Bao, Y. Quan and H. Ji,<br />
+<li><span><strong>A convergent incoherent dictionary learning algorithm for sparse coding</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-eccv-A%20Convergent%20Incoherent%20Dictionary%20Learning%20Algorithm%20for%20Sparse%20Coding.pdf" download="github27">manuscript</a>]</span><br />
+<span>C. Bao, Y. Quan and H. Ji,<br />
 <em> European Conference on Computer Vision (ECCV), </em>Sep 2014</span></li><!--Zurich, Sep -->
-<li><span style="font-size: 95%;"><strong>Reduced reference image quality assessment using regularity of phase congruency</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-spic-Reduced%20Reference%20Image%20Quality%20Assessment%20Using%20Regularity%20of%20Phase%20Congruency.pdf" download="github30">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/kernel-iqa.rar" ><font color="#F75000">code</font></a>] </span><br />
-<span style="font-size: 95%;">D. Liu, Y. Xu, Y. Quan and P. Callet,<br />
+<li><span><strong>Reduced reference image quality assessment using regularity of phase congruency</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-spic-Reduced%20Reference%20Image%20Quality%20Assessment%20Using%20Regularity%20of%20Phase%20Congruency.pdf" download="github30">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/kernel-iqa.rar" ><font color="#F75000">code</font></a>] </span><br />
+<span>D. Liu, Y. Xu, Y. Quan and P. Callet,<br />
 <em> Signal Processing: Image Communication (SPIC),</em> 29(8): 844-855, Sep 2014</span></li>
-<li><span style="font-size: 95%;"><strong>L<sub>0</sub> norm based dictionary learning by proximal methods with global convergence</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-l0%20norm%20based%20dictionary%20learning%20by%20proximal%20methods%20with%20global%20convergence.pdf" download="github28">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/14-cvpr-l0%20norm%20based%20dictionary%20learning%20by%20proximal%20methods%20with%20global%20convergence/l0_dicti_learning_v2.rar" download="code4"><font color="#F75000">code</font></a>]</span><br />
-<span style="font-size: 95%;">C. Bao, H. Ji, Y. Quan and Z. Shen,<br />
+<li><span><strong>L<sub>0</sub> norm based dictionary learning by proximal methods with global convergence</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-l0%20norm%20based%20dictionary%20learning%20by%20proximal%20methods%20with%20global%20convergence.pdf" download="github28">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/14-cvpr-l0%20norm%20based%20dictionary%20learning%20by%20proximal%20methods%20with%20global%20convergence/l0_dicti_learning_v2.rar" download="code4"><font color="#F75000">code</font></a>]</span><br />
+<span>C. Bao, H. Ji, Y. Quan and Z. Shen,<br />
 <em>  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>oral, Jun 2014</span></li><!--Columbus, Jun -->
-<li><span style="font-size: 95%;"><strong>Lacunarity analysis on image patterns for texture classification</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-Lacunarity%20Analysis%20on%20Image%20Patterns%20for%20Texture%20Classification.pdf" download="github29">manuscript</a>]</span><br />
-<span style="font-size: 95%;">Y. Quan, Y. Xu, Y. Sun and Y. Luo,<br />
+<li><span><strong>Lacunarity analysis on image patterns for texture classification</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-Lacunarity%20Analysis%20on%20Image%20Patterns%20for%20Texture%20Classification.pdf" download="github29">manuscript</a>]</span><br />
+<span>Y. Quan, Y. Xu, Y. Sun and Y. Luo,<br />
 <em>  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2014</span></li><!--Columbus, Jun -->
-<li><span style="font-size: 95%;"><strong>A distinct and compact texture descriptor</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-ivc-A%20distinct%20and%20compact%20texture%20descriptor.pdf" download="github31">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/14-ivc-A%20distinct%20and%20compact%20texture%20descriptor/pfs_v1.rar" download="code3"><font color="#F75000">code</font></a>]</span><br />
-<span style="font-size: 95%;"> Y. Quan, Y. Xu and Y. Sun,<br />
+<li><span><strong>A distinct and compact texture descriptor</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-ivc-A%20distinct%20and%20compact%20texture%20descriptor.pdf" download="github31">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/14-ivc-A%20distinct%20and%20compact%20texture%20descriptor/pfs_v1.rar" download="code3"><font color="#F75000">code</font></a>]</span><br />
+<span> Y. Quan, Y. Xu and Y. Sun,<br />
 <em> Image and Vision Computing (IVC),</em> 32(4): 250-259, Apr 2014</span></li>
 </ul>
 </t1>
@@ -185,11 +185,11 @@ title: Publications
 <summary><span><strong><t-half>2011 - 2012</t-half></strong></span></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
-<li><span style="font-size: 95%;"><strong>Contour-based recognition</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/12-cvpr-Contour-Based%20Recognition.pdf" download="github33">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/12-cvpr-Contour-Based%20Recognition/mtp_demo_v3.rar" download="code2"><font color="#F75000">code</font></a>]</span><br />
-<span style="font-size: 95%;">Y. Xu; Y. Quan, Z. Zhang, H. Ji, C. Fermüller, M. Nishigaki and D. Dementhon,<br />
+<li><span><strong>Contour-based recognition</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/12-cvpr-Contour-Based%20Recognition.pdf" download="github33">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/12-cvpr-Contour-Based%20Recognition/mtp_demo_v3.rar" download="code2"><font color="#F75000">code</font></a>]</span><br />
+<span>Y. Xu; Y. Quan, Z. Zhang, H. Ji, C. Fermüller, M. Nishigaki and D. Dementhon,<br />
 <em>  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2012</span></li><!--Rhode Island, Jun -->
-<li><span style="font-size: 95%;"><strong>Dynamic texture classification using dynamic fractal analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/11-iccv-Dynamic%20Texture%20Classification%20Using%20Dynamic%20Fractal%20Analysis.pdf" download="github34">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/11-iccv-Dynamic%20Texture%20Classification%20Using%20Dynamic%20Fractal%20Analysis/dfs_toolbox_v5.rar" download="code1"><font color="#F75000">code</font></a>]</span><br />
-<span style="font-size: 95%;">Y. Xu, Y. Quan, H. Ling and H. Ji,<br />
+<li><span ><strong>Dynamic texture classification using dynamic fractal analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/11-iccv-Dynamic%20Texture%20Classification%20Using%20Dynamic%20Fractal%20Analysis.pdf" download="github34">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/11-iccv-Dynamic%20Texture%20Classification%20Using%20Dynamic%20Fractal%20Analysis/dfs_toolbox_v5.rar" download="code1"><font color="#F75000">code</font></a>]</span><br />
+<span>Y. Xu, Y. Quan, H. Ling and H. Ji,<br />
 <em>  IEEE International Conference on Computer Vision (ICCV), </em>Nov 2011</span></li><!--Barcelona, Nov -->
 </ul>
 </t1>
