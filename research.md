@@ -49,9 +49,9 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im3.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im3.png" alt="" height="130" class="pimg"/>
   <a>&nbsp;</a>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_2_1_2.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_2_1_2.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image denoising via sequential ensemble learning</a></strong>, TIP, 2020.</li>
@@ -71,7 +71,7 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im4.png" alt="" height="130" />
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im4.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-cvpr-Variational-EM-based%20Deep%20Learning%20for%20Noise-blind%20Image%20Deblurring.pdf">Variational-EM-based deep learning for noise-blind image deblurring</a></strong>, CVPR, 2020.</li>
@@ -91,9 +91,9 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im5.png" alt="" height="130" />
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im5.png" alt="" height="130" class="pimg"/>
   <a>&nbsp;</a>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im6.png" alt="" height="130"  />
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im6.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">Collaborative deep learning for super-resolving blurry text images</a></strong>, TCI, 2020.</li>
@@ -113,9 +113,9 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im7.png" alt="" height="130" />
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im8.png" alt="" height="130" />
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_2_4_3.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im7.png" alt="" height="130"  class="pimg"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im8.png" alt="" height="130"  class="pimg"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_2_4_3.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-iccv-Deep%20Learning%20for%20Seeing%20Through%20Window%20With%20Raindrops.pdf">Deep learning for seeing through window with raindrops</a></strong>, ICCV, 2019.</li>
@@ -135,9 +135,9 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_2_1.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_2_1.png" alt="" height="130" class="pimg"/>
   <a>&nbsp;</a>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_2_4.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_2_4.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">Watermarking deep neural networks in image processing</a></strong>, TNNLS, 2020.</li>
@@ -170,11 +170,11 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_1_1.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_1_1.png" alt="" height="130" class="pimg"/>
   <a>&nbsp;</a>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_1_2.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_1_2.png" alt="" height="130" class="pimg"/>
   <a>&nbsp;</a>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_1_3.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_1_3.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-josc-Data-driven%20multi-scale%20non-local%20wavelet%20frame%20construction%20and%20image%20recovery.pdf">Data-driven multi-scale non-local wavelet frame construction and image recovery</a></strong>, JoSC, 2015.</li>
@@ -192,9 +192,9 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_2_1.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_2_1.png" alt="" height="130" class="pimg"/>
   <a>&nbsp;</a>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_2_2.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_2_2.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><!--<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">-->Cartoon-texture image decomposition using orientation characteristics in  patch recurrence<!--</a>--></strong>, SIIMS, 2020.</li>
@@ -212,9 +212,9 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_3_1.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_3_1.png" alt="" height="130" class="pimg"/>
   <a>&nbsp;&nbsp;</a>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_3_2.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_3_2.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tci-Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect.pdf">Removing reflection from a single image with ghosting effect</a></strong>, TCI, 2020.</li>
@@ -241,8 +241,8 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_1_1.png" alt="" height="130"/>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_1_2.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_1_1.png" alt="" height="130" class="pimg"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_1_2.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-spl-Supervised%20Sparse%20Coding%20With%20Decision%20Forest.pdf">Supervised sparse coding with decision forest</a></strong>, SPL, 2019.</li>
@@ -264,7 +264,7 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_2_1.png" alt="" height="130"/>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_2_1.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">Factorized tensor dictionary learning for visual tensor data completion</a></strong>, TMM, 2020.</li>
@@ -284,7 +284,7 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_3_1.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_3_1.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf">Weakly-supervised sparse coding with geometric prior for interactive texture segmentation</a></strong>, SPL, 2020.</li>
@@ -304,9 +304,9 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_4_1.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_4_1.png" alt="" height="130" class="pimg"/>
   <a>&nbsp;</a>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_4_2.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_4_2.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">Image quality assessment using kernel sparse coding</a></strong>, TMM, 2020.</li>
@@ -325,9 +325,9 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_5_1.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_5_1.png" alt="" height="130" class="pimg"/>
   <a>&nbsp;</a>
-  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_5_2.png" alt="" height="130"/>
+  <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_3_5_2.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/16-tpami-Dictionary%20learning%20for%20sparse%20coding_Algorithms%20and%20convergence%20analysis.pdf">Dictionary learning for sparse coding：Algorithms and convergence analysis</a></strong>, TPAMI, 2016.</li>
@@ -359,11 +359,11 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_5_1_1.png" alt="" height="130"/>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_5_1_1.png" alt="" height="130" class="pimg"/>
  <a>&nbsp;</a>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_5_1_2.png" alt="" height="130"/>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_5_1_2.png" alt="" height="130" class="pimg"/>
  <a>&nbsp;</a>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_5_1_3.png" alt="" height="130"/>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_5_1_3.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-nca-Full-reference%20image%20quality%20metric%20for%20blurry%20images%20and%20compressed%20images%20using%20hybrid%20dictionary%20learning.pdf">Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning</a></strong>, NCA, 2020.</li>
@@ -383,9 +383,9 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_1_3.png" alt="" height="130" />
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_1_3.png" alt="" height="130"  class="pimg"/>
  <a>&nbsp;&nbsp;</a>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_1_2.png" alt="" height="130" />
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_1_2.png" alt="" height="130" class="pimg" />
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/17-iccv-Estimating%20Defocus%20Blur%20via%20Rank%20of%20Local%20Patches.pdf">Estimating defocus blur via rank of local patches</a></strong>, ICCV, 2017.</li>
@@ -404,7 +404,7 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_5_2_0.png" alt="" height="130"/> 
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_5_2_0.png" alt="" height="130" class="pimg"/> 
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-tip-Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf">Fractal analysis for reduced reference image quality assessment</a></strong>, TIP, 2015.</li>
@@ -440,9 +440,9 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/laun.png" alt="" height="130"/>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/laun.png" alt="" height="130" class="pimg"/>
  <a>&nbsp;</a>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/laun1.png" alt="" height="130"/>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/laun1.png" alt="" height="130" class="pimg"/>
  <!--<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_1_1.png" alt="" height="130" />-->
  <!--<a>&nbsp;</a>-->
   <!--<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_6_1_2.png" alt="" height="130" />-->
@@ -470,11 +470,11 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_2_1.png" alt="" height="130"/>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_2_1.png" alt="" height="130" class="pimg"/>
  <a>&nbsp;&nbsp;</a>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_2_3.png" alt="" height="130"/>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_2_3.png" alt="" height="130" class="pimg"/>
  <a>&nbsp;&nbsp;</a>
- <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_2_4.png" alt="" height="130"/>
+ <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_7_2_4.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/12-cvpr-Contour-Based%20Recognition.pdf">Contour-based recognition</a></strong>, CVPR, 2012.</li>
