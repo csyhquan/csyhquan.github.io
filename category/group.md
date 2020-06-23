@@ -24,7 +24,7 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Yan Huang</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(黄艳)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Postdoctoral</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised postdoc.</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2018-2020</span></g1></p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ p.ex2 {margin-bottom: 0cm}
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/梁锦绣.jpg" alt="" height="136" align="left" /></p>
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/梁锦秀.jpg" alt="" height="136" align="left" /></p>
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Jinxiu Liang</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(梁锦绣)</span></g1></p>
