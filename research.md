@@ -8,7 +8,7 @@ sidebar_link: true
   Carry on!
 </p>
 -->
-<script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script><!--引入Jquery，用于放大图片-->
 <details open="">
 <summary><t-half><strong>Unsupervised Deep Learning for Computational Photography and Imaging</strong></t-half></summary>
 <ul>
@@ -520,9 +520,9 @@ sidebar_link: true
 </ul>
 </details>
 
-<!---------------------------------7-------------------------------------------------->
-<!---------------------------------7-------------------------------------------------->
-<!---------------------------------7-------------------------------------------------->
+<!---------------------------------Jquery代码，用于放大图片-------------------------------------------------->
+<!---------------------------------Jquery代码，用于放大图片-------------------------------------------------->
+<!---------------------------------Jquery代码，用于放大图片-------------------------------------------------->
 <!-- 图片放大后的遮罩层 -->
 <div id="outerdiv" style="position:fixed;top:0;left:0;background:rgba(0,0,0,0.7);z-index:2000;width:100%;height:100%;display:none;">
 	<!-- 放大后的图片 -->

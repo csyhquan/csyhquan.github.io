@@ -28,9 +28,9 @@ p.ex1 {margin-bottom:0.2cm}
 <p class="ex1">
 <t1>Texture removal on my son’s baby play mat, based on our upcoming work.</t1></p>
 <p>
-<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_3.png" alt="" height="390"/>
+<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_3.png" alt="" height="390" class="pimg"/>
 </p>
-
+<!--JS代码，用于放大图片-->
 <div id="outerdiv" style="position:fixed;top:0;left:0;background:rgba(0,0,0,0.7);z-index:2000;width:100%;height:100%;display:none;">
 	<!-- 放大后的图片 -->
 	<div id="innerdiv" style="position:absolute;z-index: 2000">
