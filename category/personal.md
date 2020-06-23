@@ -2,7 +2,7 @@
 layout: category
 title: Personal
 ---
-<script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script><!--引入jquery-->
 <style>
 p.ex1 {margin-bottom:0.2cm}
 </style>
@@ -30,7 +30,7 @@ p.ex1 {margin-bottom:0.2cm}
 <p>
 <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_3.png" alt="" height="390" class="pimg"/>
 </p>
-<!--JS代码，用于放大图片-->
+<!--Jquery代码，用于放大图片-->
 <div id="outerdiv" style="position:fixed;top:0;left:0;background:rgba(0,0,0,0.7);z-index:2000;width:100%;height:100%;display:none;">
 	<!-- 放大后的图片 -->
 	<div id="innerdiv" style="position:absolute;z-index: 2000">
@@ -61,7 +61,7 @@ p.ex1 {margin-bottom:0.2cm}
 				var realWidth = this.width; //获取图片真实宽度  
 				var realHeight = this.height; //获取图片真实高度  
 				var imgWidth, imgHeight;
-				var scale = 1.2; //缩放尺寸，当图片真实宽度和高度大于窗口宽度和高度时进行缩放  
+				var scale = 0.8; //缩放尺寸，当图片真实宽度和高度大于窗口宽度和高度时进行缩放  
 
 				if (realHeight > windowH * scale) { //判断图片高度  
 					imgHeight = windowH * scale; //如大于窗口高度，图片高度进行缩放  
