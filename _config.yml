@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Yuhui Quan
 tagline:          'A theme'
-description:      ''
+description:      'Homepage'
 url:              https://csyhquan.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
