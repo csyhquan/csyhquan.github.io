@@ -378,7 +378,7 @@ sidebar_link: true
 
 <!--5-3-->
 <details>
-<summary><strong><t1><font color="#004D86">Measurring Local Image Distortions </font></t1></strong></summary>
+<summary><strong><t1><font color="#004D86">Measuring Local Image Distortions </font></t1></strong></summary>
 <table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
