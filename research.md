@@ -354,7 +354,7 @@ sidebar_link: true
 <ul>
 <!--5-1-->
 <details>
-<summary><strong><t1><font color="#004D86">Visual Quality Assessment: Sparse Coding Approaches</font></t1></strong></summary>
+<summary><strong><t1><font color="#004D86">Visual Quality Assessment: Sparse Coding Approach</font></t1></strong></summary>
 <table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
