@@ -32,9 +32,7 @@ title: Publications
 <li><span><strong>Image denoising via sequential ensemble learning</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf" download="github4">manuscript</a>][<a href="https://github.com/cs-rukawa/NLED_Code" download="code9"><font color="#F75000">github</font></a>]</span><br />
 <span> X. Yang, Y. Xu, Y. Quan* and H. Ji,<br />
 <em> IEEE Transactions on Image Processing (TIP), </em>29(1): 5038-5049, Dec 2020</span></li>
-<li><span><strong>Removing reflection from a single image with ghosting effect</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tci-Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect.pdf" download="github3">manuscript</a>]</span><br />
-<span> Y. Huang, Y. Quan*, Y. Xu, R. Xu and H. Ji,<br />
-<em> IEEE Transactions on Computational Imaging (TCI), </em>6(1): 34-45, Dec 2020</span></li>
+
 <li><span><strong>Weakly-supervised sparse coding with geometric prior for interactive texture segmentation</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf" download="github4">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation%20(SUPP).pdf" download="sup3">supp</a>][<a href="https://github.com/csyanhuang/texSeg"><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, H. Teng, T. Liu and Y. Huang,<br />
 <em> IEEE Signal Processing Letters (SPL), </em>27(1): 116-120, Dec 2020</span></li> 
@@ -77,6 +75,9 @@ title: Publications
 <li><span style="font-size: 95%;"><strong>Deeply exploiting long-term view dependency for 3D shape recognition</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-access-Deeply%20Exploiting%20Long-Term%20View%20Dependency%20for%203D%20Shape%20Recognition.pdf" download="github9">manuscript</a>] </span><br />
 <span style="font-size: 95%;"> Y. Xu, C. Zheng, R. Xu and Y. Quan*,<br />
 <em> IEEE Access (ACCESS), </em>7: 111678-111691, Aug 2019</span></li>-->
+<li><span><strong>Removing reflection from a single image with ghosting effect</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tci-Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect.pdf" download="github3">manuscript</a>]</span><br />
+<span> Y. Huang, Y. Quan*, Y. Xu, R. Xu and H. Ji,<br />
+<em> IEEE Transactions on Computational Imaging (TCI), </em>6(1): 34-45, Feb 2019</span></li>
  <li><span><strong>Supervised sparse coding with decision forest</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-spl-Supervised%20Sparse%20Coding%20With%20Decision%20Forest.pdf" download="github5">manuscript</a>][<a href="https://github.com/csyanhuang/SCDF" ><font color="#F75000">github</font></a>] </span><br />
 <span> Y. Huang, Y. Quan* and T. Liu,<br />
  <em> IEEE Signal Processing Letters (SPL), </em>26(2): 327-331, Feb 2019</span></li>
