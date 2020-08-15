@@ -41,7 +41,7 @@ title: Publications
 
 <li><span><strong>Collaborative deep learning for super-resolving blurry text images</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">manuscript</a>][<a href="https://github.com/csjietingyang/ImplementationOfOurAcceptedPaper"><font color="#F75000">github</font></a>]</span><br />
 <span>Y. Quan, J. Yang, Y. Chen, Y. Xu and H. Ji, <br />
-<em>IEEE Transactions on Computational Imaging (TCI), </em>6(1): 778 - 790, Mar 2020</span></li>
+<em>IEEE Transactions on Computational Imaging (TCI), </em>6(1): 778-790, Mar 2020</span></li>
 
 <li><span><strong>Self2Self with dropout: Learning self-supervised denoising from single image</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image%20(SUPP).pdf">supp</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/Self2Self/Self2Self.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/scut-mingqinchen/self2self"><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, M. Chen, T. Pang and H. Ji,<br />
