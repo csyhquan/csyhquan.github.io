@@ -29,13 +29,9 @@ title: Publications
 <summary><span><strong><t-half>2019 - 2020</t-half></strong></span></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
-<li><span><strong>Image denoising via sequential ensemble learning</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf" download="github4">manuscript</a>][<a href="https://github.com/cs-rukawa/NLED_Code" download="code9"><font color="#F75000">github</font></a>]</span><br />
-<span> X. Yang, Y. Xu, Y. Quan* and H. Ji,<br />
-<em> IEEE Transactions on Image Processing (TIP), </em>29(1): 5038-5049, Dec 2020</span></li>
 
-<li><span><strong>Weakly-supervised sparse coding with geometric prior for interactive texture segmentation</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf" download="github4">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation%20(SUPP).pdf" download="sup3">supp</a>][<a href="https://github.com/csyanhuang/texSeg"><font color="#F75000">github</font></a>]</span><br />
-<span> Y. Quan, H. Teng, T. Liu and Y. Huang,<br />
-<em> IEEE Signal Processing Letters (SPL), </em>27(1): 116-120, Dec 2020</span></li> 
+
+
 
 
 
@@ -46,6 +42,12 @@ title: Publications
 <span> Y. Nan, Y. Quan and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2020</span></li><!--Seattle(virtual），Jun-->
 
+
+<li><span><strong>Image denoising via sequential ensemble learning</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf" download="github4">manuscript</a>][<a href="https://github.com/cs-rukawa/NLED_Code" download="code9"><font color="#F75000">github</font></a>]</span><br />
+<span> X. Yang, Y. Xu, Y. Quan* and H. Ji,<br />
+<em> IEEE Transactions on Image Processing (TIP), </em>29(1): 5038-5049, Mar 2020</span></li>
+
+
 <li><span><strong>Collaborative deep learning for super-resolving blurry text images</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">manuscript</a>][<a href="https://github.com/csjietingyang/ImplementationOfOurAcceptedPaper"><font color="#F75000">github</font></a>]</span><br />
 <span>Y. Quan, J. Yang, Y. Chen, Y. Xu and H. Ji, <br />
 <em>IEEE Transactions on Computational Imaging (TCI), </em>6(1): 778-790, Mar 2020</span></li>
@@ -53,6 +55,11 @@ title: Publications
  <li><span><strong>Full-reference image quality metric for blurry images and compressed images using hybrid dictionary learning</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-nca-Full-reference%20image%20quality%20metric%20for%20blurry%20images%20and%20compressed%20images%20using%20hybrid%20dictionary%20learning.pdf" download="github">manuscript</a>][<a href="https://github.com/JoanneZZH/HDL-IQA/" ><font color="#F75000">github</font></a>] </span><br />
 <span> Z. Zhou, J. Li, Y. Xu and Y. Quan*,<br />
 <em> Neural Computing and Applications (NCA), </em>Jan 2020</span></li>
+
+
+<li><span><strong>Weakly-supervised sparse coding with geometric prior for interactive texture segmentation</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf" download="github4">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation%20(SUPP).pdf" download="sup3">supp</a>][<a href="https://github.com/csyanhuang/texSeg"><font color="#F75000">github</font></a>]</span><br />
+<span> Y. Quan, H. Teng, T. Liu and Y. Huang,<br />
+<em> IEEE Signal Processing Letters (SPL), </em>27(1): 116-120, Dec 2019</span></li> 
 
 
  <li><span><strong>Barzilai-Borwein-based adaptive learning rate for deep learning</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/19-pr-Barzilai%E2%80%93Borwein-based%20adaptive%20learning%20rate%20for%20deep%20learning.pdf" download="github6">manuscript</a>][<a href="https://github.com/sherrycattt/bb_dl.pytorch"><font color="#F75000">github</font></a>]</span><br />
