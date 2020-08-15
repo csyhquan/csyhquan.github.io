@@ -136,7 +136,7 @@ title: Publications
 <li><span><strong>Classifying dynamic textures via spatiotemporal fractal analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-pr-Classifying%20dynamic%20textures%20via%20spatiotemporal%20fractal%20analysis.pdf" download="github24">manuscript</a>] </span><br />
 <span>Y. Xu, Y. Quan*, Z. Zhang, H. Ling and H. Ji,<br />
 <em> Pattern Recognition (PR),</em> 48(10): 3239-3248, Oct 2015</span></li>
-<li><span><strong>Structured sparse coding for classification via reweighted l<sub>1,2</sub> minimization</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-cccv-Structured%20Sparse%20Coding%20for%20Classification%20via%20Reweighted%20l12%20minimization.pdf" download="github21">manuscript</a>]</span><br />
+<li><span><strong>Structured sparse coding for classification via reweighted l<sub>2,1</sub> minimization</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-cccv-Structured%20Sparse%20Coding%20for%20Classification%20via%20Reweighted%20l12%20minimization.pdf" download="github21">manuscript</a>]</span><br />
 <span>Y. Xu, Y. Sun, Y. Quan and Y. Luo,<br />
 <em> The Chinese Conference on Computer Vision (CCCV), </em>Sep 2015</span></li><!--Xi'an, Sep, -->
 <li><span><strong>Fractal analysis for reduced reference image quality assessment</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-tip-Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf" download="github22">manuscript</a>] </span><br />
