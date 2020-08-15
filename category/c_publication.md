@@ -10,9 +10,6 @@ title: Publications
 <li><span><strong>Image quality assessment using kernel sparse coding</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/TMM-kernel/TMM-KSC_IQA-FinalCode.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/JoanneZZH/KSC-IQA" ><font color="#F75000">github</font></a>] </span><br />
 <span> Z. Zhou, J. Li, Y. Quan* and R. Xu, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>xx(x): xxx–xxx. xxx 2020</span></li>
-<li><span><strong>Cartoon-texture image decomposition using orientation characteristics in patch recurrence</strong><!--[<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">manuscript</a>]--> </span><br />
-<span> R. Xu, Y. Xu, Y. Quan* and H. Ji<br />
-<em>SIAM Journal on Imaging Sciences (SIIMS), </em>xx(x): xxx–xxx. xxx 2020</span></li>
 <li><span><strong>Watermarking deep neural networks in image processing</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, H. Teng, Y. Chen and H. Ji, <br />
 <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>xx(x): xxx–xxx. xxx 2020</span></li>
@@ -40,6 +37,11 @@ title: Publications
 <li><span><strong>Weakly-supervised sparse coding with geometric prior for interactive texture segmentation</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf" download="github4">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation%20(SUPP).pdf" download="sup3">supp</a>][<a href="https://github.com/csyanhuang/texSeg"><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, H. Teng, T. Liu and Y. Huang,<br />
 <em> IEEE Signal Processing Letters (SPL), </em>27(1): 116-120, Dec 2020</span></li> 
+
+<li><span><strong>Cartoon-texture image decomposition using orientation characteristics in patch recurrence</strong><!--[<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">manuscript</a>]--> </span><br />
+<span> R. Xu, Y. Xu, Y. Quan* and H. Ji<br />
+<em>SIAM Journal on Imaging Sciences (SIIMS), </em>6(1): 778 - 790. Mar 2020</span></li>
+
 <li><span><strong>Self2Self with dropout: Learning self-supervised denoising from single image</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image%20(SUPP).pdf">supp</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/Self2Self/Self2Self.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/scut-mingqinchen/self2self"><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, M. Chen, T. Pang and H. Ji,<br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2020</span></li><!--Seattle(virtual），Jun-->
