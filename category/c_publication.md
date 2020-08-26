@@ -11,9 +11,8 @@ title: Publications
 <span> Z. Zhou, J. Li, Y. Quan* and R. Xu, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>xx(x): xxx–xxx, xxx 2020</span></li>
 <!--
-<li><span><strong>Cartoon-texture image decomposition using orientation characteristics in patch recurrence</strong><!--[<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">manuscript</a>]--> 
-<!--
-</span><br />
+<li><span><strong>Cartoon-texture image decomposition using orientation characteristics in patch recurrence</strong>--><!--[<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">manuscript</a>]--> 
+<!--</span><br />
 <span> R. Xu, Y. Xu, Y. Quan* and H. Ji<br />
 <em>SIAM Journal on Imaging Sciences (SIIMS), </em>xx(x): xxx–xxx, xxx 2020</span></li>-->
 <li><span><strong>Watermarking deep neural networks in image processing</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">manuscript</a>]</span><br />
