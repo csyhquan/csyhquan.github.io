@@ -41,8 +41,9 @@ p.ex2 {margin-bottom: 0cm}
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Ruotao Xu</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(许若涛)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D. Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2015-Present</span></g1></p>
+<!--<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D. Student</span></g1></p>-->
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised postdoc.</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
 </td>
 </tr>
 </tbody>
