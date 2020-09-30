@@ -329,7 +329,7 @@ p.ex2 {margin-bottom: 0cm}
 <p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/杨旭辉.jpg" alt="" height="136" align="left" /></p>
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Xuhui Yang (杨旭辉)</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;&nbsp;Ph.D., 2015-2019</span></g1></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;&nbsp;Ph.D., 2015-2020</span></g1></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Postdoc.</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Pengcheng Laboratory</span></g1></p>
 </td>
