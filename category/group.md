@@ -222,7 +222,22 @@ p.ex2 {margin-bottom: 0cm}
 <tbody>
 <tr>
 
-
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2020级硕士黄浩然.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Haoran Huang</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(黄浩然)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
 
 
 <td style="background-color: #fff;">
@@ -261,22 +276,7 @@ p.ex2 {margin-bottom: 0cm}
 </td>
 
 
-<td style="background-color: #fff;">
-<table width="340">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2020级硕士黄浩然.jpg" alt="" height="136" align="left" /></p>
-<br />
-<p class="ex1"><g0><span><strong> &ensp; Haoran Huang</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(黄浩然)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
+
 
 
 
@@ -296,17 +296,21 @@ p.ex2 {margin-bottom: 0cm}
 </table>
 
 <!-------------------------------------------fifth--------------------------------------------------------->
-<!-- <table width="70%" border="0">
+<table width="70%" border="0">
 <tbody>
 <tr>
-
-
 
 <td style="background-color: #fff;">
 <table width="340">
 <tbody>
 <tr>
-<td style="background-color: #fff;">
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/2021级硕士吴梓聪.jpg" alt="" height="136" align="left" /></p>
+<br />
+<p class="ex1"><g0><span><strong> &ensp; Zicong Wu</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(吴梓聪)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
 </td>
 </tr>
 </tbody>
@@ -324,10 +328,21 @@ p.ex2 {margin-bottom: 0cm}
 </table>
 </td>
 
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #fff;">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
 
 </tr>
 </tbody>
-</table> -->
+</table>
 <br/>
 
 <!-------------------------------------------sixth--------------------------------------------------------->
