@@ -38,7 +38,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Self-supervised Bayesian deep learning for image recovery with applications to compressed sensing</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/ECCV_2020_BNNCS.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-eccv-Self-supervised%20Bayesian%20Deep%20Learning%20for%20Image%20Recovery%20with%20Applications%20to%20Compressive%20Sensing%20(SUPP).pdf">supp</a>]</span><br />
+<li><span><strong>Self-supervised Bayesian deep learning for image recovery with applications to compressed sensing</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/ECCV_2020_BNNCS.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20-eccv-Self-supervised%20Bayesian%20Deep%20Learning%20for%20Image%20Recovery%20with%20Applications%20to%20Compressive%20Sensing%20(SUPP).pdf">supp</a>][<a href="https://github.com/PangTongyao/Self-supervised-BNN-for-image-recovery" ><font color="#F75000">github</font></a>]</span><br />
 <span> T. Pang, Y. Quan, and H. Ji,<br />
 <em>European Conference on Computer Vision (ECCV), </em>Aug 2020</span></li><!--(virtual），Aug-->
 
