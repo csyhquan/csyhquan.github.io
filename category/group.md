@@ -364,7 +364,7 @@ p.ex2 {margin-bottom: 0cm}
 <p class="ex1"><g0><span><strong> &ensp; Yan Huang (黄艳)</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D., 2018-2020</span></g1></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Visiting Scholar</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Peking Universit Institution</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Peking University Institution</span></g1></p>
 </td>
 </tr>
 </tbody>
