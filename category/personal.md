@@ -11,9 +11,9 @@ p.ex1 {margin-bottom:0.2cm}
 <t-half><strong>Memory</strong></t-half>
 <p class="ex1"><t1>Could u recognize me from the photos?</t1></p>
 <p>
+<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/Pearl_River(2020.11.19).jpg" alt="" height="260" class="pimg"/>
 <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_1.png" alt="" height="260" class="pimg"/>
 <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_2.png" alt="" height="260" class="pimg"/>
-<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/Pearl_River(2020.11.19).jpg" alt="" height="260" class="pimg"/>
 </p>
 <br>
 <t-half><strong>Writing</strong></t-half>
