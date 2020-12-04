@@ -11,7 +11,7 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
     border-bottom: 1px solid;
 }
 </style>
-<p><t1>Our group is <font color="#268bd2">LAVIE</font> (<font color="#268bd2">LA</font>b of <font color="#268bd2">VI</font>sion <font color="#268bd2">E</font>volution), which belongs to the <b><font color="#FF3232"><u class="ex1">Center of Vision Computing (CVC)</u></font></b> in SCUT.</t1></p>
+<p><t1>Our group is <font color="#268bd2">LAVIE</font> (<font color="#268bd2">LA</font>b of <font color="#268bd2">VI</font>sion <font color="#268bd2">E</font>volution), which belongs to the<font color="#FF3232"><u class="ex1">Center of Vision Computing (CVC)</u></font> in SCUT.</t1></p>
 <div style="position:absolut; left:200px;">
 <summary><t0><div><strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<font color="#268bd2">LAVIE</font> (<font color="#268bd2">LA</font>b of <font color="#268bd2">VI</font>sion <font color="#268bd2">E</font>volution)</strong></div></t0></summary>
 </div>
