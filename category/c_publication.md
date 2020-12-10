@@ -10,7 +10,7 @@ title: Publications
 
 <li><span><strong>Image denoising using complex-valued deep CNN</strong> </span><br />
 <span> Y. Quan, Y. Chen, Y. Shao, H. Teng, Y. Xu, and H. Ji, <br />
-<em>Pattern recognition (PR), </em>xx(x): xxx–xxx, xxx 2020</span></li>
+<em>Pattern recognition (PR), </em>111, Mar. 2021</span></li>
 
 
 <li><span><strong>Image quality assessment using kernel sparse coding</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/TMM-kernel/TMM-KSC_IQA-FinalCode.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/JoanneZZH/KSC-IQA" ><font color="#F75000">github</font></a>] </span><br />
