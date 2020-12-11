@@ -198,7 +198,7 @@ sidebar_link: true
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_2_2.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
-<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence.pdf">Structure-Texture Image Decomposition Using Discriminative Patch Recurrence</a></strong>, TIP, 2021.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence.pdf">Structure-texture image decomposition using discriminative patch recurrence</a></strong>, TIP, 2021.</li>
 <li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">Cartoon-texture image decomposition using orientation characteristics in  patch recurrence</a></strong>, SIIMS, 2020.</li>
 </t2>
 </ul>
