@@ -12,7 +12,7 @@ title: Publications
 <span> R. Xu, Y. Xu, and Y. Quan, <br />
 <em>IEEE Transactions on Image Processing (TIP), </em>xx(x): xxx–xxx, xxx 2021</span></li>
 
-<li><span><strong>Image denoising using complex-valued deep CNN</strong> </span><br />
+<li><span><strong>Image denoising using complex-valued deep CNN</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/PR_2021_Complex_Denoising.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, Y. Chen, Y. Shao, H. Teng, Y. Xu, and H. Ji, <br />
 <em>Pattern recognition (PR), </em>111, Mar. 2021</span></li>
 
