@@ -9,7 +9,7 @@ title: Publications
 <ul style="background-color: #f2f2f2;">
 
 <li><span><strong>Structure-texture image decomposition using discriminative patch recurrence</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence%20(SUPP).pdf">supp</a>]</span><br />
-<span> R. Xu, Y. Xu, and Y. Quan, <br />
+<span> R. Xu, Y. Xu, and Y. Quan*, <br />
 <em>IEEE Transactions on Image Processing (TIP), </em>xx(x): xxx–xxx, xxx 2021</span></li>
 
 <li><span><strong>Image denoising using complex-valued deep CNN</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/PR_2021_Complex_Denoising.pdf">manuscript</a>]</span><br />
