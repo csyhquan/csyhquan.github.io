@@ -8,7 +8,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Structure-Texture Image Decomposition Using Discriminative Patch Recurrence</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>]</span><br />
+<li><span><strong>Structure-Texture Image Decomposition Using Discriminative Patch Recurrence</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence%20(SUPP).pdf">supp</a>]</span><br />
 <span> R. Xu, Y. Xu, and Y. Quan, <br />
 <em>IEEE Transactions on Image Processing (TIP), </em>xx(x): xxx–xxx, xxx 2021</span></li>
 
