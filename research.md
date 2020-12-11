@@ -25,8 +25,8 @@ sidebar_link: true
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im2.png" alt="" height="130" class="pimg"/>
   <ul>
   <t2>
+  	<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/ECCV_2020_BNNCS.pdf">Self-supervised Bayesian deep learning for image recovery with applications to compressed sensing</a></strong>, ECCV, 2020.</li>
   	<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2Self with dropout: Learning self-supervised denoising from single image</a></strong>, CVPR, 2020.</li>
-	<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/ECCV_2020_BNNCS.pdf">Self-supervised Bayesian deep learning for image recovery with applications to compressed sensing</a></strong>, ECCV, 2020.</li>
   </t2>
   </ul>
  </th>
@@ -188,7 +188,7 @@ sidebar_link: true
 </details>
 <!--4-2-->
 <details>
-<summary><strong><t1><font color="#004D86">Cartoon-Texture Decomposition via Discriminative Patch Recurrence </font></t1></strong></summary>
+<summary><strong><t1><font color="#004D86">Image Decomposition via Discriminative Patch Recurrence</font></t1></strong></summary>
 <table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
@@ -198,7 +198,8 @@ sidebar_link: true
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/im_4_2_2.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
-<li type="disc"><strong><!--<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">-->Cartoon-texture image decomposition using orientation characteristics in  patch recurrence<!--</a>--></strong>, SIIMS, 2020.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence.pdf">Structure-Texture Image Decomposition Using Discriminative Patch Recurrence<!--</a>--></strong>, TIP, 2021.</li>
+<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">Cartoon-texture image decomposition using orientation characteristics in  patch recurrence<!--</a>--></strong>, SIIMS, 2020.</li>
 </t2>
 </ul>
  </th>
@@ -208,7 +209,7 @@ sidebar_link: true
 </details>
 <!--4-3-->
 <details>
-<summary><strong><t1><font color="#004D86">Removing Ghosting Reflections from Single Image </font></t1></strong></summary>
+<summary><strong><t1><font color="#004D86">Removing Ghosting Reflections Using Discriminative Recurrence of Patterns</font></t1></strong></summary>
 <table width="100%" border="1" bordercolor="#e5e5e5">
 <tbody>
 <tr>
