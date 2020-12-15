@@ -12,7 +12,7 @@ p.ex1 {margin-bottom:0.2cm}
 <p class="ex1"><t1>Could u recognize me from the photos?</t1></p>
 <p>
 <table border="0">
-<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/The first Guangzhou Elite Project.jpg" alt="" height="260" class="pimg"/>
+<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/The_first_Guangzhou_Elite_Project.jpg" alt="" height="260" class="pimg"/>
 </table>
 <table border="0">
 <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/Pearl_River(2020.11.19).jpg" alt="" height="260" class="pimg"/>
