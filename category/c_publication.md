@@ -171,7 +171,7 @@ title: Publications
 <em> Computer Vision and Image Understanding (CVIU),</em> 136: 59-68, Jul 2015</span></li>
 <li><span><strong>Characterizing dynamic textures with space-time lacunarity analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-icme-CHARACTERIZING%20DYNAMIC%20TEXTURES%20WITH%20SPACE-TIME%20LACUNARITY%20ANALYSIS.pdf" download="github19">manuscript</a>]</span><br />
 <span>Y. Sun, Y. Xu and Y. Quan,<br />
-<em> IEEE International Conference on Multimedia and Expo (ICME), </em>ORAL, Jun 2015</span></li><!--Torino, Jun, -->
+<em> IEEE International Conference on Multimedia and Expo (ICME), </em>Oral, Jun 2015</span></li><!--Torino, Jun, -->
 <li><span><strong>Directional regularity for visual quality estimation</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/15-sp-Directional%20regularity%20for%20visual%20quality%20estimation.pdf" download="github23">manuscript</a>] </span><br />
 <span>D. Liu, Y. Xu, Y. Quan, Z. Yu and P. Callet,<br />
 <em> Signal Processing (SP),</em> 110: 211-221, May 2015</span></li>
@@ -198,7 +198,7 @@ title: Publications
 <em> Signal Processing: Image Communication (SPIC),</em> 29(8): 844-855, Sep 2014</span></li>
 <li><span><strong>L<sub>0</sub> norm based dictionary learning by proximal methods with global convergence</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-l0%20norm%20based%20dictionary%20learning%20by%20proximal%20methods%20with%20global%20convergence.pdf" download="github28">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/14-cvpr-l0%20norm%20based%20dictionary%20learning%20by%20proximal%20methods%20with%20global%20convergence/l0_dicti_learning_v2.rar" download="code4"><font color="#F75000">code</font></a>]</span><br />
 <span>C. Bao, H. Ji, Y. Quan and Z. Shen,<br />
-<em>  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>ORAL, Jun 2014</span></li><!--Columbus, Jun -->
+<em>  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Oral, Jun 2014</span></li><!--Columbus, Jun -->
 <li><span><strong>Lacunarity analysis on image patterns for texture classification</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/14-cvpr-Lacunarity%20Analysis%20on%20Image%20Patterns%20for%20Texture%20Classification.pdf" download="github29">manuscript</a>]</span><br />
 <span>Y. Quan, Y. Xu, Y. Sun and Y. Luo,<br />
 <em>  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2014</span></li><!--Columbus, Jun -->
@@ -215,7 +215,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 <li><span><strong>Contour-based recognition</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/12-cvpr-Contour-Based%20Recognition.pdf" download="github33">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/12-cvpr-Contour-Based%20Recognition/mtp_demo_v3.rar" download="code2"><font color="#F75000">code</font></a>]</span><br />
-<span>Y. Xu, Y. Quan, Z. Zhang, H. Ji, C. Fermüller, M. Nishigaki and D. Dementhon,<br />
+<span>Y. Xu Y. Quan, Z. Zhang, H. Ji, C. Fermüller, M. Nishigaki and D. Dementhon,<br />
 <em>  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2012</span></li><!--Rhode Island, Jun -->
 <li><span ><strong>Dynamic texture classification using dynamic fractal analysis</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/11-iccv-Dynamic%20Texture%20Classification%20Using%20Dynamic%20Fractal%20Analysis.pdf" download="github34">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/11-iccv-Dynamic%20Texture%20Classification%20Using%20Dynamic%20Fractal%20Analysis/dfs_toolbox_v5.rar" download="code1"><font color="#F75000">code</font></a>]</span><br />
 <span>Y. Xu, Y. Quan, H. Ling and H. Ji,<br />
