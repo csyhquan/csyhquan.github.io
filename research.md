@@ -25,8 +25,8 @@ sidebar_link: true
   <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/r_im2.png" alt="" height="130" class="pimg"/>
   <ul>
   <t2>
-  	<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/ECCV_2020_BNNCS.pdf">Self-supervised Bayesian deep learning for image recovery with applications to compressed sensing</a></strong>, ECCV, 2020.</li>
   	<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2Self with dropout: Learning self-supervised denoising from single image</a></strong>, CVPR, 2020.</li>
+  	<li type="disc"><strong><a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/ECCV_2020_BNNCS.pdf">Self-supervised Bayesian deep learning for image recovery with applications to compressed sensing</a></strong>, ECCV, 2020.</li>
   </t2>
   </ul>
  </th>
