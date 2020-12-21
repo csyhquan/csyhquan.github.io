@@ -14,7 +14,7 @@ p.ex1 {margin-bottom:0.2cm}
 <table border="0">
 <tbody>
 <tr>
-<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/The_first_Guangzhou_Elite_Project.jpg" alt="" height="270" class="pimg"/>
+<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/The_first_Guangzhou_Elite_Project.jpg" alt="" height="265" class="pimg"/>
 </tr>
 </tbody>
 </table>
