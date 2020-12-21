@@ -6,7 +6,7 @@ title: Personal
 <style>
 p.ex1 {margin-bottom:0.2cm}
 </style>
-<p><t1> You may find something interesting about me in this page.</t1></p>
+<p><t1><big><em> You may find something interesting about me in this page.</em></big></t1></p>
 <br>
 <t-half><strong>Memory</strong></t-half>
 <p class="ex1"><t1>Could u recognize me from the photos?</t1></p>
@@ -21,7 +21,7 @@ p.ex1 {margin-bottom:0.2cm}
 <table border="0">
 <tbody>
 <tr>
-<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/Pearl_River(2020.11.19).jpg" alt="" height="260" class="pimg"/>
+<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/Pearl_River(2020.11.19).jpg" alt="" height="270" class="pimg"/>
 <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_1.png" alt="" height="260" class="pimg"/>
 <img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_2.png" alt="" height="260" class="pimg"/>
 </tr>
