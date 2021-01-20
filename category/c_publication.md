@@ -8,6 +8,9 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
+<li><span><strong>Attentive deep network for blind motion deblurring on dynamic scenes</strong>  </span><br />
+<span> Y. Xu, Y. Zhu, Y. Quan* and H. Ji, <br />
+<em>Computer Vision and Image Understanding (CVIU), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
 <li><span><strong>Image quality assessment using kernel sparse coding</strong>  [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/code/TMM-kernel/TMM-KSC_IQA-FinalCode.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/JoanneZZH/KSC-IQA" ><font color="#F75000">github</font></a>] </span><br />
 <span> Z. Zhou, J. Li, Y. Quan* and R. Xu, <br />
