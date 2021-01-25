@@ -14,16 +14,16 @@ p.ex1 {margin-bottom:0.2cm}
 <table border="0">
 <tbody>
 <tr>
-<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/The_first_Guangzhou_Elite_Project.jpg" alt="" height="265" class="pimg"/>
+<img src="https://csyhquan.github.io/images/The_first_Guangzhou_Elite_Project.jpg" alt="" height="265" class="pimg"/>
 </tr>
 </tbody>
 </table>
 <table border="0">
 <tbody>
 <tr>
-<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/Pearl_River(2020.11.19).jpg" alt="" height="260" class="pimg"/>
-<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_1.png" alt="" height="260" class="pimg"/>
-<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_2.png" alt="" height="260" class="pimg"/>
+<img src="https://csyhquan.github.io/images/Pearl_River(2020.11.19).jpg" alt="" height="260" class="pimg"/>
+<img src="https://csyhquan.github.io/images/personal_1.png" alt="" height="260" class="pimg"/>
+<img src="https://csyhquan.github.io/images/personal_2.png" alt="" height="260" class="pimg"/>
 </tr>
 </tbody>
 </table>
@@ -42,7 +42,7 @@ p.ex1 {margin-bottom:0.2cm}
 <p class="ex1">
 <t1>Texture removal on my son’s baby play mat, based on our upcoming work.</t1></p>
 <p>
-<img src="https://github.com/csyhquan/csyhquan.github.io/raw/master/images/personal_3.png" alt="" height="390" class="pimg"/>
+<img src="https://csyhquan.github.io/images/personal_3.png" alt="" height="390" class="pimg"/>
 </p>
 <!--Jquery代码，用于放大图片-->
 <div id="outerdiv" style="position:fixed;top:0;left:0;background:rgba(0,0,0,0.7);z-index:2000;width:100%;height:100%;display:none;">
