@@ -4,7 +4,7 @@ title: Publications
 ---
 
 <details open="">
-<summary><t-half><span><strong>Upcoming</strong></span></t-half></summary>
+<summary><t-half><span><strong>Preprints</strong></span></t-half></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
 
