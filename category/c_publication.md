@@ -32,7 +32,7 @@ title: Publications
 
 
 
-<li><span><strong>Attentive deep network for blind motion deblurring on dynamic scenes</strong>  </span><br />
+<li><span><strong>Attentive deep network for blind motion deblurring on dynamic scenes</strong> [<a href="https://csyhquan.github.io/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence.pdf">manuscript</a>]</span><br />
 <span> Y. Xu, Y. Zhu, Y. Quan* and H. Ji, <br />
 <em>Computer Vision and Image Understanding (CVIU), </em>205, Apr 2021</span></li>
 
@@ -55,7 +55,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Self-supervised Bayesian deep learning for image recovery with applications to compressed sensing</strong>  [<a href="https://csyhquan.github.io/manuscript/ECCV_2020_BNNCS.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/20-eccv-Self-supervised%20Bayesian%20Deep%20Learning%20for%20Image%20Recovery%20with%20Applications%20to%20Compressive%20Sensing%20(SUPP).pdf">supp</a>][<a href="https://github.com/PangTongyao/Self-supervised-BNN-for-image-recovery" ><font color="#F75000">github</font></a>]</span><br />
+<li><span><strong>Self-supervised Bayesian deep learning for image recovery with applications to compressed sensing</strong>  [<a href="https://csyhquan.github.io/manuscript/20-eccv-Self-supervised%20Bayesian%20Deep%20Learning%20for%20Image%20Recovery%20with%20Applications%20to%20Compressive%20Sensing.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/20-eccv-Self-supervised%20Bayesian%20Deep%20Learning%20for%20Image%20Recovery%20with%20Applications%20to%20Compressive%20Sensing%20(SUPP).pdf">supp</a>][<a href="https://github.com/PangTongyao/Self-supervised-BNN-for-image-recovery" ><font color="#F75000">github</font></a>]</span><br />
 <span> T. Pang, Y. Quan, and H. Ji,<br />
 <em>European Conference on Computer Vision (ECCV), </em>Aug 2020</span></li><!--(virtual），Aug-->
 
@@ -67,7 +67,7 @@ title: Publications
 <em>SIAM Journal on Imaging Sciences (SIIMS), </em>13(3): 1179–1210, July 2020</span></li>
 
 
-<li><span><strong>Self2Self with dropout: Learning self-supervised denoising from single image</strong>  [<a href="https://csyhquan.github.io/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image%20(SUPP).pdf">supp</a>][<a href="https://csyhquan.github.io/code/Self2Self/Self2Self.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/scut-mingqinchen/self2self"><font color="#F75000">github</font></a>]</span><br />
+<li><span><strong>Self2Self with dropout: Learning self-supervised denoising from single image</strong>  [<a href="https://csyhquan.github.io/manuscript/20-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/20-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image%20(SUPP).pdf">supp</a>][<a href="https://csyhquan.github.io/code/Self2Self/Self2Self.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/scut-mingqinchen/self2self"><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, M. Chen, T. Pang and H. Ji,<br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2020</span></li><!--Seattle(virtual），Jun-->
 <li><span><strong>Variational-EM-based deep learning for noise-blind image deblurring</strong>  [<a href="https://csyhquan.github.io/manuscript/20-cvpr-Variational-EM-based%20Deep%20Learning%20for%20Noise-blind%20Image%20Deblurring.pdf">manuscript</a>]</span><br />
@@ -80,7 +80,7 @@ title: Publications
 <em> IEEE Transactions on Image Processing (TIP), </em>29: 5038-5049, Mar 2020</span></li>
 
 
-<li><span><strong>Collaborative deep learning for super-resolving blurry text images</strong>  [<a href="https://csyhquan.github.io/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">manuscript</a>][<a href="https://github.com/csjietingyang/ImplementationOfOurAcceptedPaper"><font color="#F75000">github</font></a>]</span><br />
+<li><span><strong>Collaborative deep learning for super-resolving blurry text images</strong>  [<a href="https://csyhquan.github.io/manuscript/20-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">manuscript</a>][<a href="https://github.com/csjietingyang/ImplementationOfOurAcceptedPaper"><font color="#F75000">github</font></a>]</span><br />
 <span>Y. Quan, J. Yang, Y. Chen, Y. Xu and H. Ji, <br />
 <em>IEEE Transactions on Computational Imaging (TCI), </em>6: 778-790, Mar 2020</span></li>
 
