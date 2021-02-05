@@ -10,7 +10,7 @@ title: Publications
 
 <li><span><strong>Attentive deep network for blind motion deblurring on dynamic scenes</strong>  </span><br />
 <span> Y. Xu, Y. Zhu, Y. Quan* and H. Ji, <br />
-<em>Computer Vision and Image Understanding (CVIU), </em>xx(x): xxx–xxx, xxx xxx</span></li>
+<em>Computer Vision and Image Understanding (CVIU), </em>205, Apr 2021</span></li>
 
 <li><span><strong>Image quality assessment using kernel sparse coding</strong>  [<a href="https://csyhquan.github.io/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>][<a href="https://csyhquan.github.io/code/TMM-kernel/TMM-KSC_IQA-FinalCode.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/JoanneZZH/KSC-IQA" ><font color="#F75000">github</font></a>] </span><br />
 <span> Z. Zhou, J. Li, Y. Quan* and R. Xu, <br />
@@ -39,7 +39,7 @@ title: Publications
 
 <li><span><strong>Image denoising using complex-valued deep CNN</strong> [<a href="https://csyhquan.github.io/manuscript/PR_2021_Complex_Denoising.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, Y. Chen, Y. Shao, H. Teng, Y. Xu, and H. Ji, <br />
-<em>Pattern Recognition (PR), </em>111, Mar. 2021</span></li>
+<em>Pattern Recognition (PR), </em>111, Mar 2021</span></li>
 
 
 </ul>
