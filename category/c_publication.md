@@ -32,7 +32,7 @@ title: Publications
 
 
 
-<li><span><strong>Attentive deep network for blind motion deblurring on dynamic scenes</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/blob/master/manuscript/21_cviu_Attentive%20Deep%20Network%20for%20Blind%20Motion%20Deblurring%20on%20Dynamic%20Scenes.pdf">manuscript</a>]</span><br />
+<li><span><strong>Attentive deep network for blind motion deblurring on dynamic scenes</strong> [<a href="https://csyhquan.github.io/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence.pdf">manuscript</a>]</span><br />
 <span> Y. Xu, Y. Zhu, Y. Quan* and H. Ji, <br />
 <em>Computer Vision and Image Understanding (CVIU), </em>205, Apr 2021</span></li>
 
