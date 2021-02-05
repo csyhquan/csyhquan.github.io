@@ -8,9 +8,6 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Attentive deep network for blind motion deblurring on dynamic scenes</strong>  </span><br />
-<span> Y. Xu, Y. Zhu, Y. Quan* and H. Ji, <br />
-<em>Computer Vision and Image Understanding (CVIU), </em>205, Apr 2021</span></li>
 
 <li><span><strong>Image quality assessment using kernel sparse coding</strong>  [<a href="https://csyhquan.github.io/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>][<a href="https://csyhquan.github.io/code/TMM-kernel/TMM-KSC_IQA-FinalCode.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/JoanneZZH/KSC-IQA" ><font color="#F75000">github</font></a>] </span><br />
 <span> Z. Zhou, J. Li, Y. Quan* and R. Xu, <br />
@@ -32,6 +29,12 @@ title: Publications
 <summary><t-half><span><strong>2021</strong></span></t-half></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
+
+
+
+<li><span><strong>Attentive deep network for blind motion deblurring on dynamic scenes</strong>  </span><br />
+<span> Y. Xu, Y. Zhu, Y. Quan* and H. Ji, <br />
+<em>Computer Vision and Image Understanding (CVIU), </em>205, Apr 2021</span></li>
 
 <li><span><strong>Structure-texture image decomposition using discriminative patch recurrence</strong> [<a href="https://csyhquan.github.io/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence%20(SUPP).pdf">supp</a>]</span><br />
 <span> R. Xu, Y. Xu, and Y. Quan*, <br />
