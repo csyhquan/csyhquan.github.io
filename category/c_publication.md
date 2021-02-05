@@ -20,7 +20,7 @@ title: Publications
 <li><span><strong>Watermarking deep neural networks in image processing</strong>  [<a href="https://csyhquan.github.io/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">manuscript</a>][<a href="https://github.com/painfulloop/Watermark-DnCNN.git" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, H. Teng, Y. Chen and H. Ji, <br />
 <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>xx(x): xxx–xxx, xxx xxx</span></li>
-<li><span><strong>Factorized tensor dictionary learning for visual tensor data completion</strong>  [<a href="https://csyhquan.github.io/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">manuscript</a>][<a href="https://csyhquan.github.io/code/tensor_completion.rar"><font color="#F75000">code</font></a>]</span><br />
+<li><span><strong>Factorized tensor dictionary learning for visual tensor data completion</strong>  [<a href="https://csyhquan.github.io/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">manuscript</a>]<!--[<a href="https://csyhquan.github.io/code/tensor_completion.rar"><font color="#F75000">code</font></a>]--></span><br />
 <span>R. Xu, Y. Xu and Y. Quan*, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
