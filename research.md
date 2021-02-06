@@ -25,8 +25,8 @@ sidebar_link: true
   <img src="https://csyhquan.github.io/images/r_im2.png" alt="" height="130" class="pimg"/>
   <ul>
   <t2>
-  	<li type="disc"><strong><a href="https://csyhquan.github.io/manuscript/20x-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2Self with dropout: Learning self-supervised denoising from single image</a></strong>, CVPR, 2020.</li>
-  	<li type="disc"><strong><a href="https://csyhquan.github.io/manuscript/ECCV_2020_BNNCS.pdf">Self-supervised Bayesian deep learning for image recovery with applications to compressed sensing</a></strong>, ECCV, 2020.</li>
+  	<li type="disc"><strong><a href="https://csyhquan.github.io/manuscript/20-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2Self with dropout: Learning self-supervised denoising from single image</a></strong>, CVPR, 2020.</li>
+  	<li type="disc"><strong><a href="https://csyhquan.github.io/manuscript/20-eccv-Self-supervised%20Bayesian%20Deep%20Learning%20for%20Image%20Recovery%20with%20Applications%20to%20Compressive%20Sensing.pdf">Self-supervised Bayesian deep learning for image recovery with applications to compressed sensing</a></strong>, ECCV, 2020.</li>
   </t2>
   </ul>
  </th>
@@ -97,7 +97,7 @@ sidebar_link: true
   <img src="https://csyhquan.github.io/images/r_im6.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
-<li type="disc"><strong><a href="https://csyhquan.github.io/manuscript/20x-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">Collaborative deep learning for super-resolving blurry text images</a></strong>, TCI, 2020.</li>
+<li type="disc"><strong><a href="https://csyhquan.github.io/manuscript/20-tci-Collaborative%20Deep%20Learning%20for%20Super-Resolving%20Blurry%20Text%20Images.pdf">Collaborative deep learning for super-resolving blurry text images</a></strong>, TCI, 2020.</li>
 </t2>
 </ul>
  </th>
