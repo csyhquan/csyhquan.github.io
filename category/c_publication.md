@@ -8,12 +8,16 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
+<li><span><strong>Recurrent exposure generation for low-light face detection</strong></span><br />
+<span> J. Liang, J. Wang, Y. Quan, T. Chen, J. Liu, H. Ling and Y. XU, <br />
+<em>IEEE Transactions on Multimedia (TMM), </em>xx(x): xxx–xxx, xxx xxx</span></li>
+
 <li><span><strong>Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</strong></span><br />
-<span> T. Pang, H. Zheng, Y. Quan, and H. Ji, <br />
+<span> T. Pang, H. Zheng, Y. Quan and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2021</span></li>
 
 <li><span><strong>Texture recognition via exploiting cross-layer statistical self-similarity</strong></span><br />
-<span> Y. Quan, Z. Chen, F. Li, Y. Xu, and H. Ji, <br />
+<span> Y. Quan, Z. Chen, F. Li, Y. Xu and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2021</span></li>
 
 <li><span><strong>Non-blind image deblurring via deep learning in complex field</strong></span><br />
