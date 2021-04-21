@@ -9,7 +9,7 @@ title: Publications
 <ul style="background-color: #f2f2f2;">
 
 <li><span><strong>Recurrent exposure generation for low-light face detection</strong></span><br />
-<span> J. Liang, J. Wang, Y. Quan, T. Chen, J. Liu, H. Ling and Y. XU, <br />
+<span> J. Liang, J. Wang, Y. Quan, T. Chen, J. Liu, H. Ling and Y. Xu, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
 <li><span><strong>Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</strong></span><br />
