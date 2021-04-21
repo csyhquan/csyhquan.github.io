@@ -52,7 +52,7 @@ title: Publications
 <span> Y. Xu, Y. Zhu, Y. Quan* and H. Ji, <br />
 <em>Computer Vision and Image Understanding (CVIU), </em>205, Apr 2021</span></li>
 
-<li><span><strong>Structure-texture image decomposition using discriminative patch recurrence</strong> [<a href="https://csyhquan.github.io/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence%20(SUPP).pdf">supp</a>]</span><br />
+<li><span><strong>Structure-texture image decomposition using discriminative patch recurrence</strong> [<a href="https://csyhquan.github.io/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence%20(SUPP).pdf">supp</a>][<a href="https://csyhquan.github.io/code/isotropy.rar" ><font color="#F75000">code</font></a>]</span><br />
 <span> R. Xu, Y. Xu, and Y. Quan*, <br />
 <em>IEEE Transactions on Image Processing (TIP), </em>30: 1542-1555, 2021</span></li>
 
