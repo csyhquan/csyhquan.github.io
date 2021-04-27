@@ -43,7 +43,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Factorized tensor dictionary learning for visual tensor data completion</strong>  [<a href="https://csyhquan.github.io/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">manuscript</a>]<!--[<a href="https://csyhquan.github.io/code/tensor_completion.rar"><font color="#F75000">code</font></a>]--></span><br />
+<li><span><strong>Factorized tensor dictionary learning for visual tensor data completion</strong>  [<a href="https://csyhquan.github.io/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">manuscript</a>][<a href="https://csyhquan.github.io/code/tensor.rar"><font color="#F75000">code</font></a>]</span><br />
 <span>R. Xu, Y. Xu and Y. Quan*, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>23: 1225–1238, 2021</span></li>
 
