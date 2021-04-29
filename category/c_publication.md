@@ -179,7 +179,7 @@ title: Publications
 <span>Y. Quan, Y. Xu, Y. Sun and Y. Huang,<br />
 <em> Pattern Recognition (PR),</em> 55: 247-260, Jul 2016</span></li>
 
-<li><span><strong>Equiangular kernel dictionary learning with applications to dynamic texture analysis</strong> [<a href="https://csyhquan.github.io/manuscript/16-cvpr-Equiangular%20Kernel%20Dictionary%20Learning%20with%20Applications%20to%20Dynamic%20Texture%20Analysis.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/16-cvpr-Equiangular%20Kernel%20Dictionary%20Learning%20with%20Applications%20to%20Dynamic%20Texture%20Analysis(SUPP).pdf">supp</a>]</span><br />
+<li><span><strong>Equiangular kernel dictionary learning with applications to dynamic texture analysis</strong> [<a href="https://csyhquan.github.io/manuscript/16-cvpr-Equiangular%20Kernel%20Dictionary%20Learning%20with%20Applications%20to%20Dynamic%20Texture%20Analysis.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/16-cvpr-Equiangular%20Kernel%20Dictionary%20Learning%20with%20Applications%20to%20Dynamic%20Texture%20Analysis%20(SUPP).pdf">supp</a>]</span><br />
 <span>Y. Quan, C. Bao and H. Ji,<br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2016</span></li><!--Las Vegas, Jun, -->
 
