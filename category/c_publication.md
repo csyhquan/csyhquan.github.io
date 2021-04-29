@@ -178,9 +178,11 @@ title: Publications
 <li><span><strong>Supervised dictionary learning with multiple classifier integration</strong> [<a href="https://csyhquan.github.io/manuscript/16-pr-Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration.pdf">manuscript</a>][<a href="https://csyhquan.github.io/code/16-pr-Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration/MCDLv7_pcode.rar"><font color="#F75000">code</font></a>] </span><br />
 <span>Y. Quan, Y. Xu, Y. Sun and Y. Huang,<br />
 <em> Pattern Recognition (PR),</em> 55: 247-260, Jul 2016</span></li>
-<li><span><strong>Equiangular kernel dictionary learning with applications to dynamic texture analysis</strong> [<a href="https://csyhquan.github.io/manuscript/16-cvpr-Equiangular%20Kernel%20Dictionary%20Learning%20with%20Applications%20to%20Dynamic%20Texture%20Analysis.pdf">manuscript</a>]</span><br />
+
+<li><span><strong>Equiangular kernel dictionary learning with applications to dynamic texture analysis</strong> [<a href="https://csyhquan.github.io/manuscript/16-cvpr-Equiangular%20Kernel%20Dictionary%20Learning%20with%20Applications%20to%20Dynamic%20Texture%20Analysis.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/16-cvpr-Equiangular%20Kernel%20Dictionary%20Learning%20with%20Applications%20to%20Dynamic%20Texture%20Analysis(SUPP).pdf">supp</a>]</span><br />
 <span>Y. Quan, C. Bao and H. Ji,<br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2016</span></li><!--Las Vegas, Jun, -->
+
 <li><span><strong>Sparse coding for classification via discrimination ensemble</strong> [<a href="https://csyhquan.github.io/manuscript/16-cvpr-Sparse%20Coding%20for%20Classification%20via%20Discrimination%20Ensemble.pdf">manuscript</a>]</span><br />
 <span>Y. Quan, Y. Xu, Y. Sun, Y. Huang and H. Ji,<br />
 <em> IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2016</span></li> <!--Las Vegas, Jun, -->
