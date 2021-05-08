@@ -16,7 +16,7 @@ title: Publications
 <span> T. Pang, H. Zheng, Y. Quan and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2021</span></li>
 
-<li><span><strong>Deep texture recognition via exploiting cross-layer statistical self-similarity</strong></span><br />
+<li><span><strong>Deep texture recognition via exploiting cross-layer statistical self-similarity</strong> [<a href="https://csyhquan.github.io/manuscript/21-cvpr-Deep%20Texture%20Recognition%20via%20Exploiting%20Cross-Layer%20Statistical%20Self-Similarity.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, Z. Chen, F. Li, Y. Xu and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2021</span></li>
 
