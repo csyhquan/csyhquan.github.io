@@ -12,7 +12,7 @@ title: Publications
 <span> J. Liang, J. Wang, Y. Quan, T. Chen, J. Liu, H. Ling and Y. Xu, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
-<li><span><strong>Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</strong></span><br />
+<li><span><strong>Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</strong> [<a href="">manuscript</a>]</span><br />
 <span> T. Pang, H. Zheng, Y. Quan and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2021</span></li>
 
