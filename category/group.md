@@ -481,8 +481,6 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </td>
 
 
-
-
 <td style="background-color: #fff;">
 <table width="340">
 <tbody>
@@ -494,6 +492,17 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2018-2020</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Artificial Intelligence Engineer</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;HUAWEI TECHNOLOGIES</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #fff;">
 </td>
 </tr>
 </tbody>
