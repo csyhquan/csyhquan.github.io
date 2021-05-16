@@ -183,7 +183,7 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <p class="ex2"><img src="https://csyhquan.github.io/images/2019级硕士秦坤坤.jpg" alt="" height="136" align="left" /></p>
 <br />
 <p class="ex1"><g0><span><strong> &ensp; Kunkun Qin</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(秦坤坤)</span></g1></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(秦坤)</span></g1></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
 </td>
