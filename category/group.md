@@ -482,23 +482,6 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 
 
 
-<td style="background-color: #fff;">
-<table width="340">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/2017级硕士郑超达.jpg" alt="" height="136" align="left" /></p>
-<br/>
-<p class="ex1"><g0><span><strong> &ensp; ChaoDa Zheng (郑超达)</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2017-2020</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Ph.D. Candidate</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Chinese University of Hong Kong</span></g1></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-
 
 <td style="background-color: #fff;">
 <table width="340">
