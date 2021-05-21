@@ -5,7 +5,7 @@ title: Group
 <style>
 p.ex1 {margin-bottom:-0.1cm}
 p.ex2 {margin-bottom: 0cm}
-p.ex3 {margin-bottom:-0.1cm; margin-top:0.5cm}
+p.ex3 {margin-bottom:-0.1cm; margin-top:0.3cm}
 u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突*/
     text-decoration: none;
     border-bottom: 1px solid;
