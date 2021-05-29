@@ -8,6 +8,10 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
+<li><span><strong>Multi-View 3D Shape Recognition via Correspondence-Aware Deep Learning</strong></span><br />
+<span> Y. Xu, C. Zheng, R. Xu, Y. Quan* and H. Ling, <br />
+<em>IEEE Transactions on Image Processing (TIP), </em>xx(x): xxx–xxx, xxx xxx</span></li>
+
 <li><span><strong>Recurrent exposure generation for low-light face detection</strong></span><br />
 <span> J. Liang, J. Wang, Y. Quan, T. Chen, J. Liu, H. Ling and Y. Xu, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>xx(x): xxx–xxx, xxx xxx</span></li>
@@ -15,13 +19,6 @@ title: Publications
 <li><span><strong>Non-blind image deblurring via deep learning in complex field</strong></span><br />
 <span> Y. Quan, P. Lin, Y. Xu, Y. Nan and H. Ji, <br />
 <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>xx(x): xxx–xxx, xxx xxx</span></li>
-
-<li><span><strong>Image quality assessment using kernel sparse coding</strong>  [<a href="https://csyhquan.github.io/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>][<a href="https://csyhquan.github.io/code/TMM-kernel/TMM-KSC_IQA-FinalCode.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/JoanneZZH/KSC-IQA" ><font color="#F75000">github</font></a>] </span><br />
-<span> Z. Zhou, J. Li, Y. Quan* and R. Xu, <br />
-<em>IEEE Transactions on Multimedia (TMM), </em>xx(x): xxx–xxx, xxx xxx</span></li>
-
-
-
 
 
 </ul>
@@ -42,6 +39,9 @@ title: Publications
 <span> Y. Quan, Z. Chen, F. Li, Y. Xu and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2021</span></li>
 
+<li><span><strong>Image quality assessment using kernel sparse coding</strong>  [<a href="https://csyhquan.github.io/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>][<a href="https://csyhquan.github.io/code/TMM-kernel/TMM-KSC_IQA-FinalCode.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/JoanneZZH/KSC-IQA" ><font color="#F75000">github</font></a>] </span><br />
+<span> Z. Zhou, J. Li, Y. Quan* and R. Xu, <br />
+<em>IEEE Transactions on Multimedia (TMM), </em>23: 1592–1604, May 2021</span></li>
 
 <li><span><strong>Watermarking deep neural networks in image processing</strong>  [<a href="https://csyhquan.github.io/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">manuscript</a>][<a href="https://github.com/painfulloop/Watermark-DnCNN.git" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, H. Teng, Y. Chen and H. Ji, <br />
