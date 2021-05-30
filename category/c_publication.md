@@ -8,7 +8,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Multi-View 3D Shape Recognition via Correspondence-Aware Deep Learning</strong></span><br />
+<li><span><strong>Multi-view 3D shape recognition via correspondence-aware deep learning</strong></span><br />
 <span> Y. Xu, C. Zheng, R. Xu, Y. Quan* and H. Ling, <br />
 <em>IEEE Transactions on Image Processing (TIP), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
