@@ -10,7 +10,7 @@ title: Publications
 
 <li><span><strong>Multi-view 3D shape recognition via correspondence-aware deep learning</strong></span><br />
 <span> Y. Xu, C. Zheng, R. Xu, Y. Quan* and H. Ling, <br />
-<em>IEEE Transactions on Image Processing (TIP), </em>xx(x): xxx–xxx, xxx xxx</span></li>
+<em>IEEE Transactions on Image Processing (TIP), </em>xx(x): 5299–5312, xxx xxx</span></li>
 
 <li><span><strong>Recurrent exposure generation for low-light face detection</strong></span><br />
 <span> J. Liang, J. Wang, Y. Quan, T. Chen, J. Liu, H. Ling and Y. Xu, <br />
