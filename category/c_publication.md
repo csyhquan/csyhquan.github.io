@@ -8,10 +8,6 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Multi-view 3D shape recognition via correspondence-aware deep learning</strong></span><br />
-<span> Y. Xu, C. Zheng, R. Xu, Y. Quan* and H. Ling, <br />
-<em>IEEE Transactions on Image Processing (TIP), </em>xx(x): 5299–5312, xxx xxx</span></li>
-
 <li><span><strong>Recurrent exposure generation for low-light face detection</strong></span><br />
 <span> J. Liang, J. Wang, Y. Quan, T. Chen, J. Liu, H. Ling and Y. Xu, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>xx(x): xxx–xxx, xxx xxx</span></li>
@@ -35,9 +31,15 @@ title: Publications
 <span> T. Pang, H. Zheng, Y. Quan and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2021</span></li>
 
+
 <li><span><strong>Deep texture recognition via exploiting cross-layer statistical self-similarity</strong> [<a href="https://csyhquan.github.io/manuscript/21-cvpr-Deep%20Texture%20Recognition%20via%20Exploiting%20Cross-Layer%20Statistical%20Self-Similarity.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, Z. Chen, F. Li, Y. Xu and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2021</span></li>
+
+
+<li><span><strong>Multi-view 3D shape recognition via correspondence-aware deep learning</strong></span><br />
+<span> Y. Xu, C. Zheng, R. Xu, Y. Quan* and H. Ling, <br />
+<em>IEEE Transactions on Image Processing (TIP), </em>30: 5299–5312, May 2021</span></li>
 
 <li><span><strong>Image quality assessment using kernel sparse coding</strong>  [<a href="https://csyhquan.github.io/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>][<a href="https://csyhquan.github.io/code/TMM-kernel/TMM-KSC_IQA-FinalCode.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/JoanneZZH/KSC-IQA" ><font color="#F75000">github</font></a>] </span><br />
 <span> Z. Zhou, J. Li, Y. Quan* and R. Xu, <br />
