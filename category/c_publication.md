@@ -36,8 +36,8 @@ title: Publications
 <span> Y. Quan, Z. Chen, F. Li, Y. Xu and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2021</span></li>
 
-
-<li><span><strong>Multi-view 3D shape recognition via correspondence-aware deep learning</strong>[<a href="https://csyhquan.github.io/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>]</span><br />
+<li><span><strong>Multi-view 3D shape recognition via correspondence-aware deep learning</strong>[<a href="https://csyhquan.github.io/manuscript/21-tip-Multi-View%203D%20Shape%20Recognition%20via%20Correspondence-Aware%20Deep%20Learning.pdf
+">manuscript</a>]</span><br />
 <span> Y. Xu, C. Zheng, R. Xu, Y. Quan* and H. Ling, <br />
 <em>IEEE Transactions on Image Processing (TIP), </em>30: 5299–5312, May 2021</span></li>
 
