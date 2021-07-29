@@ -14,7 +14,7 @@ title: Publications
 
 <li><span><strong>Non-blind image deblurring via deep learning in complex field</strong></span><br />
 <span> Y. Quan, P. Lin, Y. Xu, Y. Nan and H. Ji, <br />
-<em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>xx(x): xxx–xxx, xxx xxx</span></li>
+<em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>33(9), 2022x</span></li>
 
 
 </ul>
@@ -33,7 +33,7 @@ title: Publications
 
 
 <li><span><strong>Deep texture recognition via exploiting cross-layer statistical self-similarity</strong> [<a href="https://csyhquan.github.io/manuscript/21-cvpr-Deep%20Texture%20Recognition%20via%20Exploiting%20Cross-Layer%20Statistical%20Self-Similarity.pdf">manuscript</a>]</span><br />
-<span> Y. Quan, Z. Chen, F. Li, Y. Xu and H. Ji, <br />
+<span> Z. Chen, F. Li, Y. Quan, Y. Xu and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2021</span></li>
 
 <li><span><strong>Multi-view 3D shape recognition via correspondence-aware deep learning</strong> [<a href="https://csyhquan.github.io/manuscript/21-tip-Multi-View%203D%20Shape%20Recognition%20via%20Correspondence-Aware%20Deep%20Learning.pdf
