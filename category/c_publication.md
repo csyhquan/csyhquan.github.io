@@ -42,7 +42,7 @@ title: Publications
 
 <li><span><strong>Multi-view 3D shape recognition via correspondence-aware deep learning</strong> [<a href="https://csyhquan.github.io/manuscript/21-tip-Multi-View%203D%20Shape%20Recognition%20via%20Correspondence-Aware%20Deep%20Learning.pdf
 ">manuscript</a>]</span><br />
-<span> Y. Xu, C. Zheng, R. Xu, Y. Quan* and H. Ling, <br />
+<span> Y. Xu, C. Zheng, R. Xu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> and H. Ling, <br />
 <em>IEEE Transactions on Image Processing (TIP), </em>30: 5299–5312, May 2021</span></li>
 
 <li><span><strong>Image quality assessment using kernel sparse coding</strong> [<a href="https://csyhquan.github.io/manuscript/21-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>][<a href="https://csyhquan.github.io/code/TMM-kernel/TMM-KSC_IQA-FinalCode.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/JoanneZZH/KSC-IQA" ><font color="#F75000">github</font></a>] </span><br />
