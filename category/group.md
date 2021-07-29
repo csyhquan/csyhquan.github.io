@@ -235,7 +235,7 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <summary><t0><span><strong>Former Graduate Students</strong></span></t0></summary>
 
 
-<table width="70%" border="0"><!----postdoctor--->
+<table width="70%" border="0"><!----postdoctor&doctor--->
 <tbody>
 <tr>
 
@@ -256,40 +256,6 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </tbody>
 </table>
 </td>
-
-<td style="background-color: #fff;">
-<table width="340">
-<tbody>
-<tr>
-<td style="background-color: #fff;">
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-
-<td style="background-color: #fff;">
-<table width="340">
-<tbody>
-<tr>
-<td style="background-color: #fff;">
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-
-
-</tr>
-</tbody>
-</table>
-
-
-
-
-<table width="70%" border="0"><!----doctor--->
-<tbody>
-<tr>
 
 
 
@@ -331,6 +297,7 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </td>
 
 
+<!--
 <td style="background-color: #fff;">
 <table width="340">
 <tbody>
@@ -342,12 +309,21 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </table>
 </td>
 
-
+<td style="background-color: #fff;">
+<table width="340">
+<tbody>
+<tr>
+<td style="background-color: #fff;">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+-->
 
 </tr>
 </tbody>
 </table>
-
 
 
 

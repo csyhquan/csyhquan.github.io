@@ -41,16 +41,16 @@ title: Publications
 <span> Y. Xu, C. Zheng, R. Xu, Y. Quan* and H. Ling, <br />
 <em>IEEE Transactions on Image Processing (TIP), </em>30: 5299–5312, May 2021</span></li>
 
-<li><span><strong>Image quality assessment using kernel sparse coding</strong> [<a href="https://csyhquan.github.io/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/20x-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>][<a href="https://csyhquan.github.io/code/TMM-kernel/TMM-KSC_IQA-FinalCode.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/JoanneZZH/KSC-IQA" ><font color="#F75000">github</font></a>] </span><br />
+<li><span><strong>Image quality assessment using kernel sparse coding</strong> [<a href="https://csyhquan.github.io/manuscript/21-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>][<a href="https://csyhquan.github.io/code/TMM-kernel/TMM-KSC_IQA-FinalCode.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/JoanneZZH/KSC-IQA" ><font color="#F75000">github</font></a>] </span><br />
 <span> Z. Zhou, J. Li, Y. Quan* and R. Xu, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>23: 1592–1604, May 2021</span></li>
 
-<li><span><strong>Watermarking deep neural networks in image processing</strong>  [<a href="https://csyhquan.github.io/manuscript/20x-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">manuscript</a>][<a href="https://github.com/painfulloop/Watermark-DnCNN.git" ><font color="#F75000">github</font></a>]</span><br />
+<li><span><strong>Watermarking deep neural networks in image processing</strong>  [<a href="https://csyhquan.github.io/manuscript/21-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">manuscript</a>][<a href="https://github.com/painfulloop/Watermark-DnCNN.git" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, H. Teng, Y. Chen and H. Ji, <br />
 <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>32(5): 1852–1865, May 2021</span></li>
 
 
-<li><span><strong>Factorized tensor dictionary learning for visual tensor data completion</strong>  [<a href="https://csyhquan.github.io/manuscript/20x-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">manuscript</a>][<a href="https://csyhquan.github.io/code/tensor.rar"><font color="#F75000">code</font></a>]</span><br />
+<li><span><strong>Factorized tensor dictionary learning for visual tensor data completion</strong>  [<a href="https://csyhquan.github.io/manuscript/21-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">manuscript</a>][<a href="https://csyhquan.github.io/code/tensor.rar"><font color="#F75000">code</font></a>]</span><br />
 <span>R. Xu, Y. Xu and Y. Quan*, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>23: 1225–1238, 2021</span></li>
 
@@ -84,7 +84,7 @@ title: Publications
 
 
 
-<li><span><strong>Cartoon-texture image decomposition using orientation characteristics in patch recurrence</strong>  [<a href="https://csyhquan.github.io/manuscript/20x-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">manuscript</a>] 
+<li><span><strong>Cartoon-texture image decomposition using orientation characteristics in patch recurrence</strong>  [<a href="https://csyhquan.github.io/manuscript/21-siam-Cartoon-Texture%20Image%20Decomposition%20using%20Orientation%20Characteristics%20in%20Patch%20Recurrence.pdf">manuscript</a>] 
 </span><br />
 <span> R. Xu, Y. Xu, Y. Quan* and H. Ji<br />
 <em>SIAM Journal on Imaging Sciences (SIIMS), </em>13(3): 1179–1210, July 2020</span></li>
