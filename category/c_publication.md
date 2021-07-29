@@ -12,7 +12,7 @@ title: Publications
 <span> J. Liang, J. Wang, Y. Quan, T. Chen, J. Liu, H. Ling and Y. Xu, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
-<li><span><strong>Non-blind image deblurring via deep learning in complex field</strong> [<a href="https://csyhquan.github.io/manuscript/22-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field%20(SUPP).pdf">supp</a>]</span><br />
+<li><span><strong>Non-blind image deblurring via deep learning in complex field</strong> [<a href="https://csyhquan.github.io/manuscript/22-tnnls-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tnnls-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field%20(SUPP).pdf">supp</a>]</span><br />
 <span> Y. Quan, P. Lin, Y. Xu✉, Y. Nan and H. Ji, <br />
 <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>33(9), 2022</span></li>
 
@@ -59,7 +59,7 @@ title: Publications
 <em>IEEE Transactions on Multimedia (TMM), </em>23: 1225–1238, 2021</span></li>
 
 
-<li><span><strong>Attentive deep network for blind motion deblurring on dynamic scenes</strong> [<a href="https://csyhquan.github.io/manuscript/21_cviu_Attentive%20Deep%20Network%20for%20Blind%20Motion%20Deblurring%20on%20Dynamic%20Scenes.pdf">manuscript</a>]</span><br />
+<li><span><strong>Attentive deep network for blind motion deblurring on dynamic scenes</strong> [<a href="https://csyhquan.github.io/manuscript/21-cviu_Attentive%20Deep%20Network%20for%20Blind%20Motion%20Deblurring%20on%20Dynamic%20Scenes.pdf">manuscript</a>]</span><br />
 <span> Y. Xu, Y. Zhu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> and H. Ji, <br />
 <em>Computer Vision and Image Understanding (CVIU), </em>205, Apr 2021</span></li>
 
@@ -67,7 +67,7 @@ title: Publications
 <span> R. Xu, Y. Xu, and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, <br />
 <em>IEEE Transactions on Image Processing (TIP), </em>30: 1542-1555, 2021</span></li>
 
-<li><span><strong>Image denoising using complex-valued deep CNN</strong> [<a href="https://csyhquan.github.io/manuscript/PR_2021_Complex_Denoising.pdf">manuscript</a>]</span><br />
+<li><span><strong>Image denoising using complex-valued deep CNN</strong> [<a href="https://csyhquan.github.io/manuscript/21-pr-Image%20Denoising%20Using%20Complex-Valued%20Deep%20CNN.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, Y. Chen, Y. Shao, H. Teng, Y. Xu✉, and H. Ji, <br />
 <em>Pattern Recognition (PR), </em>111, Mar 2021</span></li>
 
