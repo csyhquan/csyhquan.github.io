@@ -12,7 +12,7 @@ title: Publications
 <span> J. Liang, J. Wang, Y. Quan, T. Chen, J. Liu, H. Ling and Y. Xu, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
-<li><span><strong>Non-blind image deblurring via deep learning in complex field</strong></span><br />
+<li><span><strong>Non-blind image deblurring via deep learning in complex field</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/22-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/22-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field%20(SUPP).pdf">supp</a>]</span><br />
 <span> Y. Quan, P. Lin, Y. Xu, Y. Nan and H. Ji, <br />
 <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>33(9), 2022x</span></li>
 
@@ -27,9 +27,13 @@ title: Publications
 <ul style="background-color: #f2f2f2;">
 
 
-<li><span><strong>Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</strong> [<a href="">manuscript</a>]</span><br />
+<li><span><strong>Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/21-cvpr-Recorrupted-to-Recorrupted%20Unsupervised%20Deep%20Learning%20for%20Image%20Denoising.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/21-cvpr-Recorrupted-to-Recorrupted%20Unsupervised%20Deep%20Learning%20for%20Image%20Denoising%20(SUPP).pdf">supp</a>]</span><br />
 <span> T. Pang, H. Zheng, Y. Quan and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2021</span></li>
+
+
+
+
 
 
 <li><span><strong>Deep texture recognition via exploiting cross-layer statistical self-similarity</strong> [<a href="https://csyhquan.github.io/manuscript/21-cvpr-Deep%20Texture%20Recognition%20via%20Exploiting%20Cross-Layer%20Statistical%20Self-Similarity.pdf">manuscript</a>]</span><br />
