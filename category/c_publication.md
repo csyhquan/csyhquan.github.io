@@ -14,7 +14,7 @@ title: Publications
 
 <li><span><strong>Non-blind image deblurring via deep learning in complex field</strong> [<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/22-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field.pdf">manuscript</a>][<a href="https://github.com/csyhquan/csyhquan.github.io/raw/master/manuscript/22-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field%20(SUPP).pdf">supp</a>]</span><br />
 <span> Y. Quan, P. Lin, Y. Xu, Y. Nan and H. Ji, <br />
-<em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>33(9), 2022x</span></li>
+<em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>33(9), 2022</span></li>
 
 
 </ul>
