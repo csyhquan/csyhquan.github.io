@@ -184,7 +184,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 <li><span><strong>Dictionary learning for sparse coding: Algorithms and convergence analysis</strong> [<a href="https://csyhquan.github.io/manuscript/16-tpami-Dictionary%20learning%20for%20sparse%20coding_Algorithms%20and%20convergence%20analysis.pdf">manuscript</a>][<a href="https://csyhquan.github.io/code/l0dl_int.rar" ><font color="#F75000">code</font></a>] </span><br />
-<span> C. Bao, H. Ji, Y. Quan and Z. Shen,<br />
+<span> C. Bao, H. Ji✉, Y. Quan and Z. Shen,<br />
 <em> IEEE Transactions on Patter Analysis and Machine Intelligence (TPAMI),</em> 38(7): 1356-1369, Jul 2016</span></li>
 <li><span><strong>Supervised dictionary learning with multiple classifier integration</strong> [<a href="https://csyhquan.github.io/manuscript/16-pr-Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration.pdf">manuscript</a>][<a href="https://csyhquan.github.io/code/16-pr-Supervised%20dictionary%20learning%20with%20multiple%20classifier%20integration/MCDLv7_pcode.rar"><font color="#F75000">code</font></a>] </span><br />
 <span>Y. Quan, Y. Xu✉, Y. Sun and Y. Huang,<br />
