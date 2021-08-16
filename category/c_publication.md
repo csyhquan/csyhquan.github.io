@@ -27,18 +27,18 @@ title: Publications
 <ul style="background-color: #f2f2f2;">
 
 
+
+<li><span><strong>Deep texture recognition via exploiting cross-layer statistical self-similarity</strong> [<a href="https://csyhquan.github.io/manuscript/21-cvpr-Deep%20Texture%20Recognition%20via%20Exploiting%20Cross-Layer%20Statistical%20Self-Similarity.pdf">manuscript</a>]</span><br />
+<span> Z. Chen, F. Li, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, Y. Xu and H. Ji, <br />
+<em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2021</span></li>
+
+
+
 <li><span><strong>Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</strong> [<a href="https://csyhquan.github.io/manuscript/21-cvpr-Recorrupted-to-Recorrupted%20Unsupervised%20Deep%20Learning%20for%20Image%20Denoising.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-cvpr-Recorrupted-to-Recorrupted%20Unsupervised%20Deep%20Learning%20for%20Image%20Denoising%20(SUPP).pdf">supp</a>]</span><br />
 <span> T. Pang, H. Zheng, Y. Quan and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2021</span></li>
 
 
-
-
-
-
-<li><span><strong>Deep texture recognition via exploiting cross-layer statistical self-similarity</strong> [<a href="https://csyhquan.github.io/manuscript/21-cvpr-Deep%20Texture%20Recognition%20via%20Exploiting%20Cross-Layer%20Statistical%20Self-Similarity.pdf">manuscript</a>]</span><br />
-<span> Z. Chen, F. Li, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, Y. Xu and H. Ji, <br />
-<em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2021</span></li>
 
 <li><span><strong>Multi-view 3D shape recognition via correspondence-aware deep learning</strong> [<a href="https://csyhquan.github.io/manuscript/21-tip-Multi-View%203D%20Shape%20Recognition%20via%20Correspondence-Aware%20Deep%20Learning.pdf
 ">manuscript</a>]</span><br />
