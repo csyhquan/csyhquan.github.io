@@ -238,7 +238,7 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <br/>
 
 <!-------------------------------------------former--------------------------------------------------------->
-<summary><t0><span><strong>Former Graduate Students</strong></span></t0></summary>
+<summary><t0><span><strong>Alumni</strong></span></t0></summary>
 
 
 <table width="70%" border="0"><!----postdoctor&doctor--->
@@ -284,15 +284,15 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 
 
 <td style="background-color: #fff;">
-<table width="340">  <!--380,340-->
+<table width="350">  <!--380,340-->
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
 <p class="ex2"><img src="https://csyhquan.github.io/images/黄艳.jpg" alt="" height="136" align="left" /></p>
 
 <p class="ex1"><g0><span><strong> &ensp; Yan Huang (黄艳)</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D., 2018-2020</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Visiting Scholar</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D., 2013-2018</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Assistant Professor</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;South China University of Technology</span></g1></p>
 </td>
 </tr>
