@@ -264,17 +264,19 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </td>
 
 
+
+
 <td style="background-color: #fff;">
 <table width="370">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/2015级co-surprised_phd许若涛.jpg" alt="" height="136" align="left" /></p>
+<p class="ex2"><img src="https://csyhquan.github.io/images/杨婕婷.jpg" alt="" height="136" align="left" /></p>
 
-<p class="ex1"><g0><span><strong> &ensp; Ruotao Xu (许若涛)</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D., 2015-2020</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Postdoc.</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;South China University of Technology</span></g1></p>
+<p class="ex1"><g0><span><strong> &ensp; Jieting Yang (杨婕婷)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2018-2021</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Algorithm Engineer</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Huya Information Technology</span></g1></p>
 
 </td>
 </tr>
@@ -284,16 +286,15 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 
 
 <td style="background-color: #fff;">
-<table width="370">  <!--380,340-->
+<table width="370">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/黄艳.jpg" alt="" height="136" align="left" /></p>
-
-<p class="ex1"><g0><span><strong> &ensp; Yan Huang (黄艳)</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D., 2013-2018</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Assistant Professor</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;South China University of Technology</span></g1></p>
+<p class="ex2"><img src="https://csyhquan.github.io/images/林培康.jpg" alt="" height="136" align="left" /></p>
+<p class="ex1"><g0><span><strong> &ensp; Peikang Lin (林培康)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2018-2021</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Algorithm Engineer</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Southern Power Grid</span></g1></p>
 </td>
 </tr>
 </tbody>
@@ -341,76 +342,6 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 
 
 
-<td style="background-color: #fff;">
-<table width="370">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/杨旭辉.jpg" alt="" height="136" align="left" /></p>
-
-<p class="ex1"><g0><span><strong> &ensp; Xuhui Yang (杨旭辉)</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D., 2015-2020</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Postdoc.</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Pengcheng Laboratory</span></g1></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-
-
-
-<td style="background-color: #fff;">
-<table width="370">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/杨婕婷.jpg" alt="" height="136" align="left" /></p>
-
-<p class="ex1"><g0><span><strong> &ensp; Jieting Yang (杨婕婷)</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2018-2021</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Algorithm Engineer</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Huya Information Technology</span></g1></p>
-
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-
-
-<td style="background-color: #fff;">
-<table width="370">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/林培康.jpg" alt="" height="136" align="left" /></p>
-<p class="ex1"><g0><span><strong> &ensp; Peikang Lin (林培康)</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2018-2021</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Algorithm Engineer</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Southern Power Grid</span></g1></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-
-
-
-</tr>
-</tbody>
-</table>
-
-
-
-<!--master-->
-
-
-<table width="70%" border="0">
-<tbody>
-<tr>
-
-
 
 <td style="background-color: #fff;">
 <table width="370">
@@ -450,6 +381,7 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </table>
 </td>
 
+
 <td style="background-color: #fff;">
 <table width="370">
 <tbody>
@@ -475,10 +407,53 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 
 
 
+<!--master-->
 
-<table width="70%" border="0"> 
+
+<table width="70%" border="0">
 <tbody>
 <tr>
+
+
+
+
+<td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/2015级co-surprised_phd许若涛.jpg" alt="" height="136" align="left" /></p>
+
+<p class="ex1"><g0><span><strong> &ensp; Ruotao Xu (许若涛)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D., 2015-2020</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Postdoc.</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;South China University of Technology</span></g1></p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
+
+<td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/杨旭辉.jpg" alt="" height="136" align="left" /></p>
+
+<p class="ex1"><g0><span><strong> &ensp; Xuhui Yang (杨旭辉)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D., 2015-2020</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Postdoc.</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Pengcheng Laboratory</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
 
 
 <td style="background-color: #fff;">
@@ -499,6 +474,16 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </td>
 
 
+</tr>
+</tbody>
+</table>
+
+
+
+
+<table width="70%" border="0"> 
+<tbody>
+<tr>
 
 <td style="background-color: #fff;">
 <table width="370">
@@ -536,6 +521,22 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </td>
 
 
+<td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/2016级硕士刘涛.jpg" alt="" height="136" align="left" /></p>
+
+<p class="ex1"><g0><span><strong> &ensp; Tao Liu (刘涛)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2016-2019</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Data Engineer</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Penghua Fund Management</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
 
 
 <!-- <td style="background-color: #fff;">
@@ -572,17 +573,21 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <tbody>
 <tr>
 
+
+
+
+
 <td style="background-color: #fff;">
-<table width="370">
+<table width="370">  <!--380,340-->
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/2016级硕士刘涛.jpg" alt="" height="136" align="left" /></p>
+<p class="ex2"><img src="https://csyhquan.github.io/images/黄艳.jpg" alt="" height="136" align="left" /></p>
 
-<p class="ex1"><g0><span><strong> &ensp; Tao Liu (刘涛)</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2016-2019</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Data Engineer</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Penghua Fund Management</span></g1></p>
+<p class="ex1"><g0><span><strong> &ensp; Yan Huang (黄艳)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D., 2013-2018</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Assistant Professor</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;South China University of Technology</span></g1></p>
 </td>
 </tr>
 </tbody>
