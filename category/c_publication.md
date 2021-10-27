@@ -28,6 +28,20 @@ title: Publications
 
 
 
+<li><span><strong>Gaussian kernel mixture network for single image defocus deblurring</strong> [<a href="https://csyhquan.github.io/manuscript/21-cvpr-Deep%20Texture%20Recognition%20via%20Exploiting%20Cross-Layer%20Statistical%20Self-Similarity.pdf">manuscript</a>]</span><br />
+<span> Y. Quan, Z. Wu and H. Ji, <br />
+<em>Annual Conference on Neural Information Processing Systems (NeurIPS), </em>Dec 2021</span></li>
+
+
+
+
+
+<li><span><strong>Encoding spatial distribution of convolutional features for texture representation</strong> [<a href="https://csyhquan.github.io/manuscript/21-cvpr-Deep%20Texture%20Recognition%20via%20Exploiting%20Cross-Layer%20Statistical%20Self-Similarity.pdf">manuscript</a>]</span><br />
+<span> Y. Xu, F. Li, Z. Chen and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, <br />
+<em>Annual Conference on Neural Information Processing Systems (NeurIPS), </em>Dec 2021</span></li>
+
+
+
 <li><span><strong>Deep texture recognition via exploiting cross-layer statistical self-similarity</strong> [<a href="https://csyhquan.github.io/manuscript/21-cvpr-Deep%20Texture%20Recognition%20via%20Exploiting%20Cross-Layer%20Statistical%20Self-Similarity.pdf">manuscript</a>]</span><br />
 <span> Z. Chen, F. Li, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, Y. Xu and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2021</span></li>
