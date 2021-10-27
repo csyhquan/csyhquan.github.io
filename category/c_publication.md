@@ -28,13 +28,13 @@ title: Publications
 
 
 
-<li><span><strong>Gaussian kernel mixture network for single image defocus deblurring</strong> [<a href="https://csyhquan.github.io/manuscript/21-nips-Gaussian%20kernel%20mixture%20network%20for%20single%20image%20defocus%20deblurring%20.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-nips-Gaussian%20kernel%20mixture%20network%20for%20single%20image%20defocus%20deblurring%20(SUPP).pdf">supp</a>][<a href="https://github.com/csZcWu/GKMNet" ><font color="#F75000">github</font></a>]</span><br />
+<li><span><strong>Gaussian kernel mixture network for single image defocus deblurring</strong> [<a href="https://csyhquan.github.io/manuscript/21-nips-Gaussian%20kernel%20mixture%20network%20for%20single%20image%20defocus%20deblurring.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-nips-Gaussian%20kernel%20mixture%20network%20for%20single%20image%20defocus%20deblurring%20(SUPP).pdf">supp</a>][<a href="https://github.com/csZcWu/GKMNet" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, Z. Wu and H. Ji, <br />
 <em>Annual Conference on Neural Information Processing Systems (NeurIPS), </em>Dec 2021</span></li>
 
 
 
-<li><span><strong>Encoding spatial distribution of convolutional features for texture representation</strong>[<a href="https://csyhquan.github.io/manuscript/21-nips-Encoding%20spatial%20distribution%20of%20convolutional%20features%20for%20texture%20representation%20.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-nips-Encoding%20spatial%20distribution%20of%20convolutional%20features%20for%20texture%20representation%20(SUPP).pdf">supp</a>][<a href="https://github.com/csfengli/FENet" ><font color="#F75000">github</font></a>]</span><br />
+<li><span><strong>Encoding spatial distribution of convolutional features for texture representation</strong>[<a href="https://csyhquan.github.io/manuscript/21-nips-Encoding%20spatial%20distribution%20of%20convolutional%20features%20for%20texture%20representation.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-nips-Encoding%20spatial%20distribution%20of%20convolutional%20features%20for%20texture%20representation%20(SUPP).pdf">supp</a>][<a href="https://github.com/csfengli/FENet" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Xu, F. Li, Z. Chen and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, <br />
 <em>Annual Conference on Neural Information Processing Systems (NeurIPS), </em>Dec 2021</span></li>
 
