@@ -55,7 +55,7 @@ title: Publications
 <li><span><strong>Multi-view 3D shape recognition via correspondence-aware deep learning</strong> [<a href="https://csyhquan.github.io/manuscript/21-tip-Multi-View%203D%20Shape%20Recognition%20via%20Correspondence-Aware%20Deep%20Learning.pdf
 ">manuscript</a>]</span><br />
 <span> Y. Xu, C. Zheng, R. Xu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> and H. Ling, <br />
-<em>IEEE Transactions on Image Processing (TIP), </em>30: 5299–5312, May 2021</span></li>
+<em>IEEE Transactions on Image Processing (TIP), </em>30: 5299–5312, June 2021</span></li>
 
 <li><span><strong>Image quality assessment using kernel sparse coding</strong> [<a href="https://csyhquan.github.io/manuscript/21-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>][<a href="https://csyhquan.github.io/code/TMM-kernel/TMM-KSC_IQA-FinalCode.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/JoanneZZH/KSC-IQA" ><font color="#F75000">github</font></a>] </span><br />
 <span> Z. Zhou, J. Li, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> and R. Xu, <br />
@@ -68,20 +68,22 @@ title: Publications
 
 <li><span><strong>Factorized tensor dictionary learning for visual tensor data completion</strong>  [<a href="https://csyhquan.github.io/manuscript/21-tmm-Factorized%20Tensor%20Dictionary%20Learning%20for%20Visual%20Tensor%20Data%20Completion.PDF">manuscript</a>][<a href="https://csyhquan.github.io/code/tensor.rar"><font color="#F75000">code</font></a>]</span><br />
 <span>R. Xu, Y. Xu and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, <br />
-<em>IEEE Transactions on Multimedia (TMM), </em>23: 1225–1238, 2021</span></li>
+<em>IEEE Transactions on Multimedia (TMM), </em>23: 1225–1238, Apr 2021</span></li>
 
 
 <li><span><strong>Attentive deep network for blind motion deblurring on dynamic scenes</strong> [<a href="https://csyhquan.github.io/manuscript/21-cviu-Attentive%20Deep%20Network%20for%20Blind%20Motion%20Deblurring%20on%20Dynamic%20Scenes.pdf">manuscript</a>]</span><br />
 <span> Y. Xu, Y. Zhu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> and H. Ji, <br />
 <em>Computer Vision and Image Understanding (CVIU), </em>205, Apr 2021</span></li>
 
-<li><span><strong>Structure-texture image decomposition using discriminative patch recurrence</strong> [<a href="https://csyhquan.github.io/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence%20(SUPP).pdf">supp</a>][<a href="https://csyhquan.github.io/code/isotropy.rar" ><font color="#F75000">code</font></a>][<a href="https://github.com/RuotaoXu/IsoDecompose" ><font color="#F75000">github</font></a>]</span><br />
-<span> R. Xu, Y. Xu, and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, <br />
-<em>IEEE Transactions on Image Processing (TIP), </em>30: 1542-1555, 2021</span></li>
 
 <li><span><strong>Image denoising using complex-valued deep CNN</strong> [<a href="https://csyhquan.github.io/manuscript/21-pr-Image%20Denoising%20Using%20Complex-Valued%20Deep%20CNN.pdf">manuscript</a>][<a href="https://github.com/AlanLin1995/ComplexNet_denoise" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, Y. Chen, Y. Shao, H. Teng, Y. Xu✉, and H. Ji, <br />
 <em>Pattern Recognition (PR), </em>111, Mar 2021</span></li>
+
+
+<li><span><strong>Structure-texture image decomposition using discriminative patch recurrence</strong> [<a href="https://csyhquan.github.io/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-tip-Structure-Texture%20Image%20Decomposition%20Using%20Discriminative%20Patch%20Recurrence%20(SUPP).pdf">supp</a>][<a href="https://csyhquan.github.io/code/isotropy.rar" ><font color="#F75000">code</font></a>][<a href="https://github.com/RuotaoXu/IsoDecompose" ><font color="#F75000">github</font></a>]</span><br />
+<span> R. Xu, Y. Xu, and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, <br />
+<em>IEEE Transactions on Image Processing (TIP), </em>30: 1542-1555, Jan 2021</span></li>
 
 
 </ul>
@@ -109,6 +111,8 @@ title: Publications
 <li><span><strong>Self2Self with dropout: Learning self-supervised denoising from single image</strong>  [<a href="https://csyhquan.github.io/manuscript/20-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/20-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image%20(SUPP).pdf">supp</a>][<a href="https://csyhquan.github.io/code/Self2Self/Self2Self.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/scut-mingqinchen/self2self"><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, M. Chen, T. Pang and H. Ji,<br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2020</span></li><!--Seattle(virtual），Jun-->
+
+
 <li><span><strong>Variational-EM-based deep learning for noise-blind image deblurring</strong>  [<a href="https://csyhquan.github.io/manuscript/20-cvpr-Variational-EM-based%20Deep%20Learning%20for%20Noise-blind%20Image%20Deblurring.pdf">manuscript</a>]</span><br />
 <span> Y. Nan, Y. Quan and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>Jun 2020</span></li><!--Seattle(virtual），Jun-->
@@ -130,7 +134,7 @@ title: Publications
 
 <li><span><strong>Weakly-supervised sparse coding with geometric prior for interactive texture segmentation</strong> [<a href="https://csyhquan.github.io/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/20-spl-Weakly-Supervised%20Sparse%20Coding%20with%20Geometric%20Prior%20for%20Interactive%20Texture%20Segmentation%20(SUPP).pdf">supp</a>][<a href="https://github.com/csyanhuang/texSeg"><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, H. Teng, T. Liu and Y. Huang✉,<br />
-<em> IEEE Signal Processing Letters (SPL), </em>27: 116-120, Dec 2019</span></li> 
+<em> IEEE Signal Processing Letters (SPL), </em>27: 116-120, Jan 2020</span></li> 
 
 
  <li><span><strong>Barzilai-Borwein-based adaptive learning rate for deep learning</strong> [<a href="https://csyhquan.github.io/manuscript/19-pr-Barzilai%E2%80%93Borwein-based%20adaptive%20learning%20rate%20for%20deep%20learning.pdf">manuscript</a>][<a href="https://github.com/sherrycattt/bb_dl.pytorch"><font color="#F75000">github</font></a>]</span><br />
