@@ -4,12 +4,18 @@ title:
 ---
 <!--后续对p加属性，左右间距 -->
 <t1>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<strong>一七年访新国大</strong></p>
-<!--<div class="text" style=" text-align:center;">展翅越洋访师朋，朝夕比划论行文。</div>  有用，自动居中，后面有时间改一下，然后加个左距离-->
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;展翅越洋访师朋，朝夕比划论行文。</p>
+<!-- <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<strong>一七年访新国大</strong></p> -->
+<p><div class="text" style=" text-align:center;"><strong>一七年访新国大</strong></div></p>
+
+<p><div class="text" style=" text-align:center;">展翅越洋访师朋，朝夕比划论行文。</div></p>
+<p><div class="text" style=" text-align:center;">云云言世须词简，语语触怀悟理深。</div> </p> 
+<p><div class="text" style=" text-align:center;">欢聚才相惜每秒，离愁已是占几分。</div> </p> 
+<p><div class="text" style=" text-align:center;">来年铁鸟应飞迅，再到狮城争早春。</div> </p>  
+<!-- 有用，自动居中，后面有时间改一下，然后加个左距离 -->
+<!-- <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;展翅越洋访师朋，朝夕比划论行文。</p>
 <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;云云言世须词简，语语触怀悟理深。</p>
 <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;欢聚才相惜每秒，离愁已是占几分。</p>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;来年铁鸟应飞迅，再到狮城争早春。</p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;来年铁鸟应飞迅，再到狮城争早春。</p> -->
 
 <br>
 <br>
