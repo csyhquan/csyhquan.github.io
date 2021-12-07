@@ -44,7 +44,7 @@ title:
 <p><div class="text" style=" text-align:center;">防墙百砌易翻遍，漏洞千重难补帮。</div> </p> 
 <p><div class="text" style=" text-align:center;">木马鞍前飞魅影，金山顶上渡陈仓。</div> </p> 
 <p><div class="text" style=" text-align:center;">夜阑此后无破晓，直至谁人识我妆。</div> </p>  
-<p><div class="text" style=" text-align:center;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;写于一三年信息安全班同学聚会</div> </p>  
+<p><div class="text" style=" text-align:center;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;写于一三年信息安全班同学聚会</div> </p>  
 
 
 
