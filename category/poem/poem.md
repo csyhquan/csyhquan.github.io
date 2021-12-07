@@ -89,7 +89,7 @@ title:
 <p><div class="text" style=" text-align:center;">&emsp;&emsp;天沉断翼，蓦黯云河溢。晨露碎，城烟沥。一出风雨秀，几段潇</div></p>
 <p><div class="text" style=" text-align:center;">湘意。来时路，点滴淡却辕蹄迹。&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</div> </p> 
 <p><div class="text" style=" text-align:center;">&emsp;&emsp;零泪频频寄，泓汛迟迟起。泥塘淖，花扉闭。珠摇稠瓣坠，玉滚</div></p>
-<p><div class="text" style=" text-align:center;">疏竹细。停不住，人间已落糊图里。&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</div> </p> 
+<p><div class="text" style=" text-align:center;">疏竹细。停不住，人间已落糊图里。&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</div> </p> 
 
 
 <br>
