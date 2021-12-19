@@ -38,7 +38,7 @@ title: Publications
 
 
 
-<li><span><strong>Encoding spatial distribution of convolutional features for texture representation</strong>[<a href="https://csyhquan.github.io/manuscript/21-nips-Encoding%20spatial%20distribution%20of%20convolutional%20features%20for%20texture%20representation.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-nips-Encoding%20spatial%20distribution%20of%20convolutional%20features%20for%20texture%20representation%20(SUPP).pdf">supp</a>][<a href="https://github.com/csfengli/FENet" ><font color="#F75000">github</font></a>]</span><br />
+<li><span><strong>Encoding spatial distribution of convolutional features for texture representation</strong> [<a href="https://csyhquan.github.io/manuscript/21-nips-Encoding%20spatial%20distribution%20of%20convolutional%20features%20for%20texture%20representation.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-nips-Encoding%20spatial%20distribution%20of%20convolutional%20features%20for%20texture%20representation%20(SUPP).pdf">supp</a>][<a href="https://github.com/csfengli/FENet" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Xu, F. Li, Z. Chen, J. Liang and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, <br />
 <em>Annual Conference on Neural Information Processing Systems (NeurIPS), </em>Dec 2021</span></li>
 
