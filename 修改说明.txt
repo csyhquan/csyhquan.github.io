@@ -8,7 +8,7 @@ Award，Profession experience, interest与上面类似分别对应。
 
 Publication和Teaching，contact页面的代码分别在category目录下的c.md和d.md,e_contact.md中。
 
-在_includes目录下的sider-icon-links.html修改tags的链接地址
+在_includes目录下的sider-icon-links.html修改tags的链接地址,准确的说Personal下面的内容都在此修改，如后续在中文主页上增加google主页，就直接在上面复制一份就可以了
 
 修改sidebar的宽度： 修改_sass/hydeout/_variables.scss中的$sidebar-width一项。
 
