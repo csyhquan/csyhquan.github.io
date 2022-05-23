@@ -8,11 +8,15 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Unsupervised phase retrieval using deep approximate MMSE estimation</strong> [<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%Phase%Retrieval%Using%Deep%Approximate%MMSE%Estimation.pdf">manuscript</a>]</span><br />
-<span> M. Chen, P. Lin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, T Pang and H. Ji, <br />
+<li><span><strong>Nonblind image deconvolution via leveraging model uncertainty in an untrained deep neural network</strong> [<a href="https://csyhquan.github.io/manuscript/22-Nonblind%Image%Deconvolution%via%Leveraging%Model%Uncertainty%in%An%Untrained%Deep%Neural%Network.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-Nonblind%Image%Deconvolution%via%Leveraging%Model%Uncertainty%in%An%Untrained%Deep%Neural%Network%(SUPP).pdf">supp</a>]</span><br />
+<span> M. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, T Pang and H. Ji, <br />
 <em>IEEE Transaction on Signal Processing (TSP), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
-<li><span><strong>Unsupervised phase retrieval using deep approximate MMSE estimation</strong> [<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%Phase%Retrieval%Using%Deep%Approximate%MMSE%Estimation.pdf">manuscript</a>]</span><br />
+<li><span><strong>Deep blind image quality assessment using dual-order statistics</strong> [<a href="https://csyhquan.github.io/manuscript/22-icme-Deep%Blind%Image%Quality%Assessment%Using%Dual-Order%Statistics.pdf">manuscript</a>]</span><br />
+<span> Z. Zhou, Y. Xu, Y. Quan and R. Xu, <br />
+<em>IEEE International Conference on Multimedia and Expo (ICME), </em>xx(x): xxx–xxx, xxx xxx</span></li>
+
+<li><span><strong>Unsupervised phase retrieval using deep approximate MMSE estimation</strong> [<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%Phase%Retrieval%Using%Deep%Approximate%MMSE%Estimation.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%Phase%Retrieval%Using%Deep%Approximate%MMSE%Estimation%(SUPP).pdf">supp</a>]</span><br />
 <span> M. Chen, P. Lin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, T Pang and H. Ji, <br />
 <em>IEEE Transaction on Signal Processing (TSP), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
