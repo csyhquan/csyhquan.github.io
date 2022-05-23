@@ -8,7 +8,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Nonblind image deconvolution via leveraging model uncertainty in an untrained deep neural network</strong> [<a href="https://csyhquan.github.io/manuscript/22-Nonblind%Image%Deconvolution%via%Leveraging%Model%Uncertainty%in%An%Untrained%Deep%Neural%Network.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-Nonblind%Image%Deconvolution%via%Leveraging%Model%Uncertainty%in%An%Untrained%Deep%Neural%Network%(SUPP).pdf">supp</a>]</span><br />
+<li><span><strong>Nonblind image deconvolution via leveraging model uncertainty in an untrained deep neural network</strong> [<a href="https://csyhquan.github.io/manuscript/22-Nonblind%Image%Deconvolution%via%Leveraging%Model%Uncertainty%in%An%Untrained%Deep%Neural%Network.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-Nonblind%Image%Deconvolution%via%Leveraging%Model%Uncertainty%in%An%Untrained%Deep%Neural%Network%(SUPP).pdf">supp</a>][<a href="https://github.com/scut-mingqinchen/Model_Uncertainty_NID" ><font color="#F75000">github</font></a>]</span><br />
 <span> M. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, T Pang and H. Ji, <br />
 <em>International Journal of Computer Vision (IJCV), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
