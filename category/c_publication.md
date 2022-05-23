@@ -252,13 +252,13 @@ title: Publications
 
 <li><span><strong>Dynamic texture recognition via orthogonal tensor dictionary learning</strong> [<a href="https://csyhquan.github.io/manuscript/15-iccv-Dynamic%20Texture%20Recognition%20via%20Orthogonal%20Tensor%20Dictionary%20Learning.pdf">manuscript</a>]</span><br />
 <span>Y. Quan, Y. Huang and H. Ji,<br />
-<em> IEEE International Conference on Computer Vision (ICCV), </em>Dec 2015</span></li><!--Santiago, Dec, -->
+<em> IEEE International Conference on Computer Vision (ICCV), </em>2015</span></li><!--Santiago, Dec, -->
 <li><span><strong>Classifying dynamic textures via spatiotemporal fractal analysis</strong> [<a href="https://csyhquan.github.io/manuscript/15-pr-Classifying%20dynamic%20textures%20via%20spatiotemporal%20fractal%20analysis.pdf">manuscript</a>] </span><br />
 <span>Y. Xu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, Z. Zhang, H. Ling and H. Ji,<br />
 <em> Pattern Recognition (PR),</em> 48(10): 3239-3248, 2015</span></li>
 <li><span><strong>Structured sparse coding for classification via reweighted l<sub>2,1</sub> minimization</strong> [<a href="https://csyhquan.github.io/manuscript/15-cccv-Structured%20Sparse%20Coding%20for%20Classification%20via%20Reweighted%20l12%20minimization.pdf">manuscript</a>]</span><br />
 <span>Y. Xu, Y. Sun, Y. Quan and Y. Luo,<br />
-<em> The Chinese Conference on Computer Vision (CCCV), </em>Sep 2015</span></li><!--Xi'an, Sep, -->
+<em> The Chinese Conference on Computer Vision (CCCV), </em>2015</span></li><!--Xi'an, Sep, -->
 <li><span><strong>Fractal analysis for reduced reference image quality assessment</strong> [<a href="https://csyhquan.github.io/manuscript/15-tip-Fractal%20Analysis%20for%20Reduced%20Reference%20Image%20Quality%20Assessment.pdf">manuscript</a>] </span><br />
 <span> Y. Xu✉, D. Liu, Y. Quan and P. Callet,<br />
 <em> IEEE Transactions on Image Processing (TIP),</em> 24(7): 2089-2109, 2015</span></li>
@@ -300,7 +300,7 @@ title: Publications
 <em>  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>2014</span></li><!--Columbus, Jun -->
 <li><span><strong>A distinct and compact texture descriptor</strong> [<a href="https://csyhquan.github.io/manuscript/14-ivc-A%20distinct%20and%20compact%20texture%20descriptor.pdf">manuscript</a>][<a href="https://csyhquan.github.io/code/14-ivc-A%20distinct%20and%20compact%20texture%20descriptor/pfs_v1.rar"><font color="#F75000">code</font></a>]</span><br />
 <span> Y. Quan, Y. Xu and Y. Sun,<br />
-<em> Image and Vision Computing (IVC),</em> 32(4): 250-259, Apr 2014</span></li>
+<em> Image and Vision Computing (IVC),</em> 32(4): 250-259, 2014</span></li>
 </ul>
 </t1>
 </details>
