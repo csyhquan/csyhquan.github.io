@@ -8,6 +8,10 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
+<li><span><strong>High-quality self-supervised snapshot hyperspectral imaging</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior%20(SUPP).pdf">supp</a>]</span><br />
+<span> Y. Quan, X. Qin, M. Chen and Y. Huang, <br />
+<em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), </em>xx(x): xxx–xxx, xxx xxx</span></li>
+
 <li><span><strong>Unsupervised deep background matting using deep matte prior</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior%20(SUPP).pdf">supp</a>]</span><br />
 <span> Y. Xu, B. Liu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> and H. Ji, <br />
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
