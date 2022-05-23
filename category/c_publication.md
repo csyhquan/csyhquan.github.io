@@ -28,14 +28,25 @@ title: Publications
 <span> Y. Xu, B. Liu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> and H. Ji, <br />
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
-<li><span><strong>Recurrent exposure generation for low-light face detection</strong> [<a href="https://csyhquan.github.io/manuscript/22-tmm-Recurrent%20Exposure%20Generation%20for%20Low-Light%20Face%20Detection.pdf">manuscript</a>]</span><br />
-<span> J. Liang, J. Wang, Y. Quan, T. Chen, J. Liu, H. Ling and Y. Xu, <br />
-<em>IEEE Transactions on Multimedia (TMM), </em>xx(x): xxx–xxx, xxx xxx</span></li>
-
-
 <li><span><strong>Nonblind image deblurring via deep learning in complex field</strong> [<a href="https://csyhquan.github.io/manuscript/22-tnnls-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tnnls-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field%20(SUPP).pdf">supp</a>]</span><br />
 <span> Y. Quan, P. Lin, Y. Xu✉, Y. Nan and H. Ji, <br />
 <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>33(9), 2022</span></li>
+
+
+
+</ul>
+</t1>
+</details>
+
+<details open="">
+<summary><t-half><span><strong>2022</strong></span></t-half></summary>
+<t1>
+<ul style="background-color: #f2f2f2;">
+
+
+<li><span><strong>Recurrent exposure generation for low-light face detection</strong> [<a href="https://csyhquan.github.io/manuscript/22-tmm-Recurrent%20Exposure%20Generation%20for%20Low-Light%20Face%20Detection.pdf">manuscript</a>]</span><br />
+<span> J. Liang, J. Wang, Y. Quan, T. Chen, J. Liu, H. Ling and Y. Xu, <br />
+<em>IEEE Transactions on Multimedia (TMM), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
 
 </ul>
