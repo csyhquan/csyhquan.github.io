@@ -16,14 +16,6 @@ title: Publications
 <span> Z. Zhou, Y. Xu, Y. Quan and R. Xu, <br />
 <em>IEEE International Conference on Multimedia and Expo (ICME), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
-<li><span><strong>Unsupervised phase retrieval using deep approximate MMSE estimation</strong> [<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%Phase%Retrieval%Using%Deep%Approximate%MMSE%Estimation.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%Phase%Retrieval%Using%Deep%Approximate%MMSE%Estimation%(SUPP).pdf">supp</a>]</span><br />
-<span> M. Chen, P. Lin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, T Pang and H. Ji, <br />
-<em>IEEE Transaction on Signal Processing (TSP), </em>xx(x): xxx–xxx, xxx xxx</span></li>
-
-<li><span><strong>High-quality self-supervised snapshot hyperspectral imaging</strong> [<a href="https://csyhquan.github.io/manuscript/22-icassp-High-Quality%20Self-Ssupervised%20Snapshot%20Hyperspectral%20Imaging.pdf">manuscript</a>]</span><br />
-<span> Y. Quan, X. Qin, M. Chen and Y. Huang, <br />
-<em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), </em>xx(x): xxx–xxx, xxx xxx</span></li>
-
 <li><span><strong>Unsupervised deep background matting using deep matte prior</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior%20(SUPP).pdf">supp</a>]</span><br />
 <span> Y. Xu, B. Liu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> and H. Ji, <br />
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
@@ -43,6 +35,13 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
+<li><span><strong>Unsupervised phase retrieval using deep approximate MMSE estimation</strong> [<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%Phase%Retrieval%Using%Deep%Approximate%MMSE%Estimation.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%Phase%Retrieval%Using%Deep%Approximate%MMSE%Estimation%(SUPP).pdf">supp</a>]</span><br />
+<span> M. Chen, P. Lin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, T Pang and H. Ji, <br />
+<em>IEEE Transaction on Signal Processing (TSP), </em>70: 2239–2252, 2022</span></li>
+
+<li><span><strong>High-quality self-supervised snapshot hyperspectral imaging</strong> [<a href="https://csyhquan.github.io/manuscript/22-icassp-High-Quality%20Self-Ssupervised%20Snapshot%20Hyperspectral%20Imaging.pdf">manuscript</a>]</span><br />
+<span> Y. Quan, X. Qin, M. Chen and Y. Huang, <br />
+<em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), </em>2022</span></li>
 
 <li><span><strong>Recurrent exposure generation for low-light face detection</strong> [<a href="https://csyhquan.github.io/manuscript/22-tmm-Recurrent%20Exposure%20Generation%20for%20Low-Light%20Face%20Detection.pdf">manuscript</a>]</span><br />
 <span> J. Liang, J. Wang, Y. Quan, T. Chen, J. Liu, H. Ling and Y. Xu, <br />
