@@ -13,7 +13,7 @@ title: Publications
 <em>International Journal of Computer Vision (IJCV), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
 <li><span><strong>Deep blind image quality assessment using dual-order statistics</strong> [<a href="https://csyhquan.github.io/manuscript/22-icme-Deep%Blind%Image%Quality%Assessment%Using%Dual-Order%Statistics.pdf">manuscript</a>]</span><br />
-<span> Z. Zhou, Y. Xu, Y. Quan and R. Xu, <br />
+<span> Z. Zhou, Y. Xu, Y. Quan and R. Xu✉, <br />
 <em>IEEE International Conference on Multimedia and Expo (ICME), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
 <li><span><strong>Unsupervised deep background matting using deep matte prior</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior%20(SUPP).pdf">supp</a>]</span><br />
