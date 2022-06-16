@@ -8,15 +8,21 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Nonblind image deconvolution via leveraging model uncertainty in an untrained deep neural network</strong> [<a href="https://csyhquan.github.io/manuscript/22-Nonblind%Image%Deconvolution%via%Leveraging%Model%Uncertainty%in%An%Untrained%Deep%Neural%Network.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-Nonblind%Image%Deconvolution%via%Leveraging%Model%Uncertainty%in%An%Untrained%Deep%Neural%Network%(SUPP).pdf">supp</a>][<a href="https://github.com/scut-mingqinchen/Model_Uncertainty_NID" ><font color="#F75000">github</font></a>]</span><br />
+<li><span><strong>Nonblind image deconvolution via leveraging model uncertainty in an untrained deep neural network</strong> [<a href="https://csyhquan.github.io/manuscript/22-Nonblind%20Image%20Deconvolution%20via%20Leveraging%20Model%20Uncertainty%20in%20An%20Untrained%20Deep%20Neural%20Network.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-Nonblind%20Image%20Deconvolution%20via%20Leveraging%20Model%20Uncertainty%20in%20An%20Untrained%20Deep%20Neural%20Network%20(SUPP).pdf">supp</a>][<a href="https://github.com/scut-mingqinchen/Model_Uncertainty_NID" ><font color="#F75000">github</font></a>]</span><br />
 <span> M. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, T. Pang and H. Ji, <br />
 <em>International Journal of Computer Vision (IJCV), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
-<li><span><strong>Deep blind image quality assessment using dual-order statistics</strong> [<a href="https://csyhquan.github.io/manuscript/22-icme-Deep%Blind%Image%Quality%Assessment%Using%Dual-Order%Statistics.pdf">manuscript</a>]</span><br />
+
+<li><span><strong>Self-supervised low-light image enhancement using discrepant untrained network priors</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors%20(SUPP).pdf">supp</a>][<a href="https://github.com/scut-mingqinchen/Model_Uncertainty_NID" ><font color="#F75000">github</font></a>]</span><br />
+<span> J. Liang, Y. Xu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, B. Shi and H. Ji, <br />
+<em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
+
+
+<li><span><strong>Deep blind image quality assessment using dual-order statistics</strong> [<a href="https://csyhquan.github.io/manuscript/22-icme-Deep%20Blind%20Image%20Quality%20Assessment%20Using%20Dual-Order%20Statistics.pdf">manuscript</a>]</span><br />
 <span> Z. Zhou, Y. Xu, Y. Quan and R. Xu✉, <br />
 <em>IEEE International Conference on Multimedia and Expo (ICME), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
-<li><span><strong>Unsupervised deep background matting using deep matte prior</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior%20(SUPP).pdf">supp</a>]</span><br />
+<li><span><strong>Unsupervised deep background matting using deep matte prior</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior%20(SUPP).pdf">supp</a>][<a href="https://gitee.com/liubaoling/deep-matte-prior" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Xu, B. Liu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> and H. Ji, <br />
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
@@ -35,15 +41,16 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Unsupervised phase retrieval using deep approximate MMSE estimation</strong> [<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%Phase%Retrieval%Using%Deep%Approximate%MMSE%Estimation.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%Phase%Retrieval%Using%Deep%Approximate%MMSE%Estimation%(SUPP).pdf">supp</a>]</span><br />
+<li><span><strong>Unsupervised phase retrieval using deep approximate MMSE estimation</strong> [<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%20Phase%20Retrieval%20Using%20Deep%20Approximate%20MMSE%20Estimation.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%20Phase%20Retrieval%20Using%20Deep%20Approximate%20MMSE%20Estimation%20(SUPP).pdf">supp</a>]</span><br />
 <span> M. Chen, P. Lin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, T. Pang and H. Ji, <br />
 <em>IEEE Transaction on Signal Processing (TSP), </em>70: 2239–2252, 2022</span></li>
+
 
 <li><span><strong>High-quality self-supervised snapshot hyperspectral imaging</strong> [<a href="https://csyhquan.github.io/manuscript/22-icassp-High-Quality%20Self-Ssupervised%20Snapshot%20Hyperspectral%20Imaging.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, X. Qin, M. Chen and Y. Huang, <br />
 <em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), </em>2022</span></li>
 
-<li><span><strong>Recurrent exposure generation for low-light face detection</strong> [<a href="https://csyhquan.github.io/manuscript/22-tmm-Recurrent%20Exposure%20Generation%20for%20Low-Light%20Face%20Detection.pdf">manuscript</a>]</span><br />
+<li><span><strong>Recurrent exposure generation for low-light face detection</strong> [<a href="https://csyhquan.github.io/manuscript/22-tmm-Recurrent%20Exposure%20Generation%20for%20Low-Light%20Face%20Detection.pdf">manuscript</a>][<a href="https://github.com/sherrycattt/REGDet" ><font color="#F75000">github</font></a>]</span><br />
 <span> J. Liang, J. Wang, Y. Quan, T. Chen, J. Liu, H. Ling and Y. Xu, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>24: 1609–1621, 2022</span></li>
 
@@ -77,7 +84,7 @@ title: Publications
 
 
 
-<li><span><strong>Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</strong> [<a href="https://csyhquan.github.io/manuscript/21-cvpr-Recorrupted-to-Recorrupted%20Unsupervised%20Deep%20Learning%20for%20Image%20Denoising.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-cvpr-Recorrupted-to-Recorrupted%20Unsupervised%20Deep%20Learning%20for%20Image%20Denoising%20(SUPP).pdf">supp</a>]</span><br />
+<li><span><strong>Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</strong> [<a href="https://csyhquan.github.io/manuscript/21-cvpr-Recorrupted-to-Recorrupted%20Unsupervised%20Deep%20Learning%20for%20Image%20Denoising.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-cvpr-Recorrupted-to-Recorrupted%20Unsupervised%20Deep%20Learning%20for%20Image%20Denoising%20(SUPP).pdf">supp</a>][<a href="https://github.com/PangTongyao/Recorrupted-to-Recorrupted-Unsupervised-Deep-Learning-for-Image-Denoising" ><font color="#F75000">github</font></a>]</span><br />
 <span> T. Pang, H. Zheng, Y. Quan and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>2021</span></li>
 
