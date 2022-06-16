@@ -9,25 +9,25 @@ title: Publications
 <ul style="background-color: #f2f2f2;">
 
 <li><span><strong>Nonblind image deconvolution via leveraging model uncertainty in an untrained deep neural network</strong> [<a href="https://csyhquan.github.io/manuscript/22-Nonblind%20Image%20Deconvolution%20via%20Leveraging%20Model%20Uncertainty%20in%20An%20Untrained%20Deep%20Neural%20Network.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-Nonblind%20Image%20Deconvolution%20via%20Leveraging%20Model%20Uncertainty%20in%20An%20Untrained%20Deep%20Neural%20Network%20(SUPP).pdf">supp</a>][<a href="https://github.com/scut-mingqinchen/Model_Uncertainty_NID" ><font color="#F75000">github</font></a>]</span><br />
-<span> M. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, T. Pang and H. Ji, <br />
+<span> M. Chen Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> T. Pang and H. Ji, <br />
 <em>International Journal of Computer Vision (IJCV), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
 
 <li><span><strong>Self-supervised low-light image enhancement using discrepant untrained network priors</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors%20(SUPP).pdf">supp</a>]</span><br />
-<span> J. Liang, Y. Xu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, B. Shi and H. Ji, <br />
+<span> J. Liang Y. Xu Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> B. Shi and H. Ji, <br />
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
 
 <li><span><strong>Deep blind image quality assessment using dual-order statistics</strong> [<a href="https://csyhquan.github.io/manuscript/22-icme-Deep%20Blind%20Image%20Quality%20Assessment%20Using%20Dual-Order%20Statistics.pdf">manuscript</a>]</span><br />
-<span> Z. Zhou, Y. Xu, Y. Quan and R. Xu✉, <br />
+<span> Z. Zhou Y. Xu Y. Quan and R. Xu✉, <br />
 <em>IEEE International Conference on Multimedia and Expo (ICME), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
 <li><span><strong>Unsupervised deep background matting using deep matte prior</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior%20(SUPP).pdf">supp</a>][<a href="https://gitee.com/liubaoling/deep-matte-prior" ><font color="#F75000">github</font></a>]</span><br />
-<span> Y. Xu, B. Liu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> and H. Ji, <br />
+<span> Y. Xu B. Liu Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> and H. Ji, <br />
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
 <li><span><strong>Nonblind image deblurring via deep learning in complex field</strong> [<a href="https://csyhquan.github.io/manuscript/22-tnnls-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tnnls-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field%20(SUPP).pdf">supp</a>]</span><br />
-<span> Y. Quan, P. Lin, Y. Xu✉, Y. Nan and H. Ji, <br />
+<span> Y. Quan P. Lin Y. Xu✉ Y. Nan and H. Ji, <br />
 <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>33(9), 2022</span></li>
 
 
@@ -42,16 +42,16 @@ title: Publications
 <ul style="background-color: #f2f2f2;">
 
 <li><span><strong>Unsupervised phase retrieval using deep approximate MMSE estimation</strong> [<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%20Phase%20Retrieval%20Using%20Deep%20Approximate%20MMSE%20Estimation.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%20Phase%20Retrieval%20Using%20Deep%20Approximate%20MMSE%20Estimation%20(SUPP).pdf">supp</a>]</span><br />
-<span> M. Chen, P. Lin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, T. Pang and H. Ji, <br />
+<span> M. Chen P. Lin Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> T. Pang and H. Ji, <br />
 <em>IEEE Transaction on Signal Processing (TSP), </em>70: 2239–2252, 2022</span></li>
 
 
 <li><span><strong>High-quality self-supervised snapshot hyperspectral imaging</strong> [<a href="https://csyhquan.github.io/manuscript/22-icassp-High-Quality%20Self-Ssupervised%20Snapshot%20Hyperspectral%20Imaging.pdf">manuscript</a>]</span><br />
-<span> Y. Quan, X. Qin, M. Chen and Y. Huang, <br />
+<span> Y. Quan X. Qin M. Chen and Y. Huang, <br />
 <em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), </em>2022</span></li>
 
 <li><span><strong>Recurrent exposure generation for low-light face detection</strong> [<a href="https://csyhquan.github.io/manuscript/22-tmm-Recurrent%20Exposure%20Generation%20for%20Low-Light%20Face%20Detection.pdf">manuscript</a>][<a href="https://github.com/sherrycattt/REGDet" ><font color="#F75000">github</font></a>]</span><br />
-<span> J. Liang, J. Wang, Y. Quan, T. Chen, J. Liu, H. Ling and Y. Xu, <br />
+<span> J. Liang J. Wang Y. Quan T. Chen J. Liu H. Ling and Y. Xu, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>24: 1609–1621, 2022</span></li>
 
 
@@ -67,40 +67,40 @@ title: Publications
 
 
 <li><span><strong>Gaussian kernel mixture network for single image defocus deblurring</strong> [<a href="https://csyhquan.github.io/manuscript/21-nips-Gaussian%20kernel%20mixture%20network%20for%20single%20image%20defocus%20deblurring.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-nips-Gaussian%20kernel%20mixture%20network%20for%20single%20image%20defocus%20deblurring%20(SUPP).pdf">supp</a>][<a href="https://github.com/csZcWu/GKMNet" ><font color="#F75000">github</font></a>]</span><br />
-<span> Y. Quan, Z. Wu and H. Ji, <br />
+<span> Y. Quan Z. Wu and H. Ji, <br />
 <em>Annual Conference on Neural Information Processing Systems (NeurIPS), </em>2021</span></li>
 
 
 
 <li><span><strong>Encoding spatial distribution of convolutional features for texture representation</strong> [<a href="https://csyhquan.github.io/manuscript/21-nips-Encoding%20spatial%20distribution%20of%20convolutional%20features%20for%20texture%20representation.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-nips-Encoding%20spatial%20distribution%20of%20convolutional%20features%20for%20texture%20representation%20(SUPP).pdf">supp</a>][<a href="https://github.com/csfengli/FENet" ><font color="#F75000">github</font></a>]</span><br />
-<span> Y. Xu, F. Li, Z. Chen, J. Liang and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, <br />
+<span> Y. Xu F. Li Z. Chen J. Liang and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, <br />
 <em>Annual Conference on Neural Information Processing Systems (NeurIPS), </em>2021</span></li>
 
 
 
 <li><span><strong>Deep texture recognition via exploiting cross-layer statistical self-similarity</strong> [<a href="https://csyhquan.github.io/manuscript/21-cvpr-Deep%20Texture%20Recognition%20via%20Exploiting%20Cross-Layer%20Statistical%20Self-Similarity.pdf">manuscript</a>]</span><br />
-<span> Z. Chen, F. Li, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, Y. Xu and H. Ji, <br />
+<span> Z. Chen F. Li Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> Y. Xu and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>2021</span></li>
 
 
 
 <li><span><strong>Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</strong> [<a href="https://csyhquan.github.io/manuscript/21-cvpr-Recorrupted-to-Recorrupted%20Unsupervised%20Deep%20Learning%20for%20Image%20Denoising.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-cvpr-Recorrupted-to-Recorrupted%20Unsupervised%20Deep%20Learning%20for%20Image%20Denoising%20(SUPP).pdf">supp</a>][<a href="https://github.com/PangTongyao/Recorrupted-to-Recorrupted-Unsupervised-Deep-Learning-for-Image-Denoising" ><font color="#F75000">github</font></a>]</span><br />
-<span> T. Pang, H. Zheng, Y. Quan and H. Ji, <br />
+<span> T. Pang H. Zheng Y. Quan and H. Ji, <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>2021</span></li>
 
 
 
 <li><span><strong>Multi-view 3D shape recognition via correspondence-aware deep learning</strong> [<a href="https://csyhquan.github.io/manuscript/21-tip-Multi-View%203D%20Shape%20Recognition%20via%20Correspondence-Aware%20Deep%20Learning.pdf
 ">manuscript</a>]</span><br />
-<span> Y. Xu, C. Zheng, R. Xu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> and H. Ling, <br />
+<span> Y. Xu C. Zheng R. Xu Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> and H. Ling, <br />
 <em>IEEE Transactions on Image Processing (TIP), </em>30: 5299–5312, 2021</span></li>
 
 <li><span><strong>Image quality assessment using kernel sparse coding</strong> [<a href="https://csyhquan.github.io/manuscript/21-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/21-tmm-Image%20Quality%20Assessment%20Using%20Kernel%20Sparse%20Coding%20(SUPP).pdf">supp</a>][<a href="https://csyhquan.github.io/code/TMM-kernel/TMM-KSC_IQA-FinalCode.rar"><font color="#F75000">code</font></a>][<a href="https://github.com/JoanneZZH/KSC-IQA" ><font color="#F75000">github</font></a>] </span><br />
-<span> Z. Zhou, J. Li, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> and R. Xu, <br />
+<span> Z. Zhou J. Li Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> and R. Xu, <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>23: 1592–1604, 2021</span></li>
 
 <li><span><strong>Watermarking deep neural networks in image processing</strong>  [<a href="https://csyhquan.github.io/manuscript/21-tnnls-Watermarking%20Deep%20Neural%20Networks%20in%20Image%20Processing.pdf">manuscript</a>][<a href="https://github.com/painfulloop/Watermark-DnCNN.git" ><font color="#F75000">github</font></a>]</span><br />
-<span> Y. Quan, H. Teng, Y. Chen and H. Ji✉, <br />
+<span> Y. Quan H. Teng Y. Chen and H. Ji✉, <br />
 <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>32(5): 1852–1865, 2021</span></li>
 
 
