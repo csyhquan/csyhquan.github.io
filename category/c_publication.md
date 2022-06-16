@@ -13,7 +13,7 @@ title: Publications
 <em>International Journal of Computer Vision (IJCV), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
 
-<li><span><strong>Self-supervised low-light image enhancement using discrepant untrained network priors</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors%20(SUPP).pdf">supp</a>][<a href="https://github.com/scut-mingqinchen/Model_Uncertainty_NID" ><font color="#F75000">github</font></a>]</span><br />
+<li><span><strong>Self-supervised low-light image enhancement using discrepant untrained network priors</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors%20(SUPP).pdf">supp</a>]</span><br />
 <span> J. Liang, Y. Xu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, B. Shi and H. Ji, <br />
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
