@@ -39,58 +39,6 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </table>
 </td>
 
-<td style="background-color: #fff;">
-<table width="370">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/2019级硕士秦坤坤.jpg" alt="" height="136" align="left" /></p>
-
-<p class="ex1"><g0><span><strong> &ensp; Kunkun Qin</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(秦坤坤)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-
-
-
-<td style="background-color: #fff;">
-<table width="370">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/陈铭钦.jpg" alt="" height="136" align="left" /></p>
-
-<p class="ex1"><g0><span><strong> &ensp; Mingqin Chen</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(陈铭钦)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-
-
-</tr>
-</tbody>
-</table>
-
-
-
-<!-------------------------------------------Second--------------------------------------------------------->
-
-<table width="70%" border="0">
-<tbody>
-<tr>
-
-
-
-
 
 
 <td style="background-color: #fff;">
@@ -130,34 +78,22 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </td>
 
 
+
+
 </tr>
 </tbody>
 </table>
 
 
-<!-------------------------------------------thrid--------------------------------------------------------->
+
+<!-------------------------------------------Second--------------------------------------------------------->
+
+
 <table width="70%" border="0">
 <tbody>
 <tr>
 
 
-
-<td style="background-color: #fff;">
-<table width="370">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/陈卓杰.jpg" alt="" height="136" align="left" /></p>
-
-<p class="ex1"><g0><span><strong> &ensp; Zhuojie Chen</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(陈卓杰)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
 
 
 <td style="background-color: #fff;">
@@ -214,6 +150,23 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </table>
 </td>
 
+
+<td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/陈志乐.jpg" alt="" height="136" align="left" /></p>
+
+<p class="ex1"><g0><span><strong> &ensp; Zhile Chen</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(陈志乐)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2021-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
 <!-- <td style="background-color: #fff;">
 <table width="340">
 <tbody>
@@ -242,9 +195,9 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </table>
 
 
+<!-------------------------------------------thrid--------------------------------------------------------->
 
 
-<!-------------------------------------------four--------------------------------------------------------->
 
 
 <table width="70%" border="0">
@@ -299,7 +252,7 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </tbody>
 </table>
 <br/>
-
+<!-------------------------------------------four--------------------------------------------------------->
 
 
 
