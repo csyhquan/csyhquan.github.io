@@ -252,22 +252,7 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <tr>
 
 
-<td style="background-color: #fff;">
-<table width="370">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/陈卓杰.jpg" alt="" height="136" align="left" /></p>
 
-<p class="ex1"><g0><span><strong> &ensp; Zhuojie Chen</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(陈卓杰)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
 
 
 
@@ -332,9 +317,27 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/陈卓杰.jpg" alt="" height="136" align="left" /></p>
+
+<p class="ex1"><g0><span><strong> &ensp; Zhuojie Chen (陈卓杰)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;&nbsp;M.Sc., 2020-2022</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
+<td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
 <p class="ex2"><img src="https://csyhquan.github.io/images/刘宝铃.jpg" height="136" alt="" align="left" /></p>
-<p class="ex1"><g0><span><strong> &ensp; Baoling Liu</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(刘宝铃)</span></g1></p>
+<p class="ex1"><g0><span><strong> &ensp; Baoling Liu (刘宝铃)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;&nbsp;Co-supervised M.Sc., 2020-2022</span></g1></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Master Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
 </td>
@@ -352,8 +355,8 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <td style="background-color: #f9f9f9;">
 <p class="ex2"><img src="https://csyhquan.github.io/images/陈铭钦.jpg" alt="" height="136" align="left" /></p>
 
-<p class="ex1"><g0><span><strong> &ensp; Mingqin Chen</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(陈铭钦)</span></g1></p>
+<p class="ex1"><g0><span><strong> &ensp; Mingqin Chen (陈铭钦)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;&nbsp;M.Sc., 2019-2022</span></g1></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
 </td>
@@ -383,8 +386,8 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <td style="background-color: #f9f9f9;">
 <p class="ex2"><img src="https://csyhquan.github.io/images/2019级硕士秦坤坤.jpg" alt="" height="136" align="left" /></p>
 
-<p class="ex1"><g0><span><strong> &ensp; Kunkun Qin</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(秦坤坤)</span></g1></p>
+<p class="ex1"><g0><span><strong> &ensp; Kunkun Qin (秦坤坤)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;&nbsp;M.Sc., 2019-2022</span></g1></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
 </td>
