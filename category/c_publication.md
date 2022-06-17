@@ -22,7 +22,7 @@ title: Publications
 <span> Z. Zhou Y. Xu Y. Quan, and R. Xu✉ <br />
 <em>IEEE International Conference on Multimedia and Expo (ICME), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
-<li><span><strong>Unsupervised deep background matting using deep matte prior</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior%20(SUPP).pdf">supp</a>][<a href="https://gitee.com/liubaoling/deep-matte-prior" ><font color="#F75000">github</font></a>]</span><br />
+<li><span><strong>Unsupervised deep background matting using deep matte prior</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior%20(SUPP).pdf">supp</a>][<a href="https://github.com/lbl680/deep-matte-prior" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Xu B. Liu Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
