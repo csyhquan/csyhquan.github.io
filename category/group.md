@@ -214,12 +214,12 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/陈志乐.jpg" alt="" height="136" align="left" /></p>
+<p class="ex2"><img src="https://csyhquan.github.io/images/万希.jpg" alt="" height="136" align="left" /></p>
 
-<p class="ex1"><g0><span><strong> &ensp; Zhile Chen</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(陈志乐)</span></g1></p>
+<p class="ex1"><g0><span><strong> &ensp; Xi Wan</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(万希)</span></g1></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2021-Present</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2022-Present</span></g1></p>
 </td>
 </tr>
 </tbody>
