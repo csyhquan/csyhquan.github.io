@@ -226,7 +226,25 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </table>
 </td>
 
+
 <td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/谭笑衡.jpg" alt="" height="136" align="left" /></p>
+
+<p class="ex1"><g0><span><strong> &ensp; Xiaoheng Tan</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(谭笑衡)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2022-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+<!-- <td style="background-color: #fff;">
 <table width="340">
 <tbody>
 <tr>
@@ -235,7 +253,7 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </tr>
 </tbody>
 </table>
-</td>
+</td> -->
 
 <td style="background-color: #fff;">
 <table width="340">
