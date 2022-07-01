@@ -43,7 +43,7 @@ title: Publications
 
 <li><span><strong>Unsupervised phase retrieval using deep approximate MMSE estimation</strong> [<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%20Phase%20Retrieval%20Using%20Deep%20Approximate%20MMSE%20Estimation.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%20Phase%20Retrieval%20Using%20Deep%20Approximate%20MMSE%20Estimation%20(SUPP).pdf">supp</a>]</span><br />
 <span> M. Chen P. Lin Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> T. Pang, and H. Ji <br />
-<em>IEEE Transaction on Signal Processing (TSP), </em>70: 2239–2252, 2022</span></li>
+<em>IEEE Transactions on Signal Processing (TSP), </em>70: 2239–2252, 2022</span></li>
 
 
 <li><span><strong>High-quality self-supervised snapshot hyperspectral imaging</strong> [<a href="https://csyhquan.github.io/manuscript/22-icassp-High-Quality%20Self-Ssupervised%20Snapshot%20Hyperspectral%20Imaging.pdf">manuscript</a>]</span><br />
