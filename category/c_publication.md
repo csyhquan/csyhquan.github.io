@@ -8,9 +8,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Nonblind image deconvolution via leveraging model uncertainty in an untrained deep neural network</strong> [<a href="https://csyhquan.github.io/manuscript/22-Nonblind%20Image%20Deconvolution%20via%20Leveraging%20Model%20Uncertainty%20in%20An%20Untrained%20Deep%20Neural%20Network.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-Nonblind%20Image%20Deconvolution%20via%20Leveraging%20Model%20Uncertainty%20in%20An%20Untrained%20Deep%20Neural%20Network%20(SUPP).pdf">supp</a>][<a href="https://github.com/scut-mingqinchen/Model_Uncertainty_NID" ><font color="#F75000">github</font></a>]</span><br />
-<span> M. Chen Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> T. Pang, and H. Ji <br />
-<em>International Journal of Computer Vision (IJCV), </em>130: 1770–1789, 2022</span></li>
+
 
 
 <li><span><strong>Self-supervised low-light image enhancement using discrepant untrained network priors</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors%20(SUPP).pdf">supp</a>]</span><br />
@@ -22,9 +20,7 @@ title: Publications
 <span> Z. Zhou Y. Xu Y. Quan, and R. Xu✉ <br />
 <em>IEEE International Conference on Multimedia and Expo (ICME), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
-<li><span><strong>Unsupervised deep background matting using deep matte prior</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior%20(SUPP).pdf">supp</a>][<a href="https://github.com/lbl680/deep-matte-prior" ><font color="#F75000">github</font></a>]</span><br />
-<span> Y. Xu B. Liu Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
-<em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>32(7): 4324–4337, 2022</span></li>
+
 
 <li><span><strong>Nonblind image deblurring via deep learning in complex field</strong> [<a href="https://csyhquan.github.io/manuscript/22-tnnls-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tnnls-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field%20(SUPP).pdf">supp</a>]</span><br />
 <span> Y. Quan P. Lin Y. Xu✉ Y. Nan, and H. Ji <br />
@@ -40,6 +36,16 @@ title: Publications
 <summary><t-half><span><strong>2022</strong></span></t-half></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
+
+<li><span><strong>Nonblind image deconvolution via leveraging model uncertainty in an untrained deep neural network</strong> [<a href="https://csyhquan.github.io/manuscript/22-Nonblind%20Image%20Deconvolution%20via%20Leveraging%20Model%20Uncertainty%20in%20An%20Untrained%20Deep%20Neural%20Network.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-Nonblind%20Image%20Deconvolution%20via%20Leveraging%20Model%20Uncertainty%20in%20An%20Untrained%20Deep%20Neural%20Network%20(SUPP).pdf">supp</a>][<a href="https://github.com/scut-mingqinchen/Model_Uncertainty_NID" ><font color="#F75000">github</font></a>]</span><br />
+<span> M. Chen Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> T. Pang, and H. Ji <br />
+<em>International Journal of Computer Vision (IJCV), </em>130: 1770–1789, 2022</span></li>
+
+
+<li><span><strong>Unsupervised deep background matting using deep matte prior</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior%20(SUPP).pdf">supp</a>][<a href="https://github.com/lbl680/deep-matte-prior" ><font color="#F75000">github</font></a>]</span><br />
+<span> Y. Xu B. Liu Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
+<em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>32(7): 4324–4337, 2022</span></li>
+
 
 <li><span><strong>Unsupervised phase retrieval using deep approximate MMSE estimation</strong> [<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%20Phase%20Retrieval%20Using%20Deep%20Approximate%20MMSE%20Estimation.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%20Phase%20Retrieval%20Using%20Deep%20Approximate%20MMSE%20Estimation%20(SUPP).pdf">supp</a>]</span><br />
 <span> M. Chen P. Lin Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> T. Pang, and H. Ji <br />
