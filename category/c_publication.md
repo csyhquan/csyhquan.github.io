@@ -54,7 +54,7 @@ title: Publications
 <em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), </em>2022</span></li>
 
 <li><span><strong>Recurrent exposure generation for low-light face detection</strong> [<a href="https://csyhquan.github.io/manuscript/22-tmm-Recurrent%20Exposure%20Generation%20for%20Low-Light%20Face%20Detection.pdf">manuscript</a>][<a href="https://github.com/sherrycattt/REGDet" ><font color="#F75000">github</font></a>]</span><br />
-<span> J. Liang, J. Wang, Y. Quan, T. Chen, J. Liu, H. Ling, and Y. Xu <br />
+<span> J. Liang, J. Wang, Y. Quan, T. Chen, J. Liu, H. Ling, and Y. Xu✉ <br />
 <em>IEEE Transactions on Multimedia (TMM), </em>24: 1609–1621, 2022</span></li>
 
 
