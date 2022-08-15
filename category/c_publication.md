@@ -16,6 +16,10 @@ title: Publications
 <span> Y. Quan, X. Qin, T. Pang, and H. Ji <br />
 <em>European Conference on Computer Vision (ECCV), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
+<li><span><strong>No-Reference Image Quality Assessment Using Dynamic Complex-Valued Neural Model</strong> [<a href="https://csyhquan.github.io/manuscript/22-mm-No-Reference%20Image%20Quality%20Assessment%20Using%20Dynamic%20Complex-Valued%20Neural%20Model.pdf">manuscript</a>]</span><br />
+<span> Z. Zhou, Y. Xu, R. Xu✉, and Y. Quan <br />
+<em>ACM Multimedia (MM), </em>xx(x): xxx–xxx, xxx xxx</span></li>
+
 <li><span><strong>Self-supervised low-light image enhancement using discrepant untrained network priors</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors%20(SUPP).pdf">supp</a>]</span><br />
 <span> J. Liang, Y. Xu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, B. Shi, and H. Ji <br />
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
