@@ -9,7 +9,7 @@ title: Publications
 <ul style="background-color: #f2f2f2;">
 
 <li><span><strong>A dataset-free deep learning method for Low-Dose CT image reconstruction</strong></span><br />
-<span> Q. Ding, H. Ji, Y. Quan and X. Zhang <br />
+<span> Q. Ding, H. Ji, Y. Quan, and X. Zhang <br />
 <em>Inverse Problems (IP), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
 <li><span><strong>Self-supervised low-light image enhancement using discrepant untrained network priors</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors%20(SUPP).pdf">supp</a>]</span><br />
