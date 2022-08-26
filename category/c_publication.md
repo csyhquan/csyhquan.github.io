@@ -8,7 +8,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>A dataset-free deep learning method for Low-Dose CT image reconstruction</strong></span><br />
+<li><span><strong>A dataset-free deep learning method for low-dose CT image reconstruction</strong></span><br />
 <span> Q. Ding, H. Ji, Y. Quan, and X. Zhang <br />
 <em>Inverse Problems (IP), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
@@ -54,15 +54,14 @@ title: Publications
 <em>International Journal of Computer Vision (IJCV), </em>130: 1770–1789, 2022</span></li>
 
 
-<li><span><strong>Unsupervised deep background matting using deep matte prior</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior%20(SUPP).pdf">supp</a>][<a href="https://github.com/lbl680/deep-matte-prior" ><font color="#F75000">github</font></a>]</span><br />
-<span> Y. Xu, B. Liu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
-<em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>32(7): 4324–4337, 2022</span></li>
-
-
 <li><span><strong>Unsupervised phase retrieval using deep approximate MMSE estimation</strong> [<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%20Phase%20Retrieval%20Using%20Deep%20Approximate%20MMSE%20Estimation.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%20Phase%20Retrieval%20Using%20Deep%20Approximate%20MMSE%20Estimation%20(SUPP).pdf">supp</a>]</span><br />
 <span> M. Chen, P. Lin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, T. Pang, and H. Ji <br />
 <em>IEEE Transactions on Signal Processing (TSP), </em>70: 2239–2252, 2022</span></li>
 
+
+<li><span><strong>Unsupervised deep background matting using deep matte prior</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Unsupervised%20Deep%20Background%20Matting%20Using%20Deep%20Matte%20Prior%20(SUPP).pdf">supp</a>][<a href="https://github.com/lbl680/deep-matte-prior" ><font color="#F75000">github</font></a>]</span><br />
+<span> Y. Xu, B. Liu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
+<em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>32(7): 4324–4337, 2022</span></li>
 
 
 <li><span><strong>High-quality self-supervised snapshot hyperspectral imaging</strong> [<a href="https://csyhquan.github.io/manuscript/22-icassp-High-Quality%20Self-Ssupervised%20Snapshot%20Hyperspectral%20Imaging.pdf">manuscript</a>]</span><br />
