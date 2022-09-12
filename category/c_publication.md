@@ -127,7 +127,7 @@ title: Publications
 <em>IEEE Transactions on Multimedia (TMM), </em>23: 1225–1238, 2021</span></li>
 
 
-<li><span><strong>Attentive deep network for blind motion deblurring on dynamic scenes</strong> [<a href="https://csyhquan.github.io/manuscript/21-cviu-Attentive%20Deep%20Network%20for%20Blind%20Motion%20Deblurring%20on%20Dynamic%20Scenes.pdf">manuscript</a>]</span><br />
+<li><span><strong>Attentive deep network for blind motion deblurring on dynamic scenes</strong> [<a href="https://csyhquan.github.io/manuscript/21-cviu-Attentive%20Deep%20Network%20for%20Blind%20Motion%20Deblurring%20on%20Dynamic%20Scenes.pdf">manuscript</a>][<a href="https://github.com/zhuyeye/Attentive-Deblurring" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Xu, Y. Zhu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
 <em>Computer Vision and Image Understanding (CVIU), </em>205, 2021</span></li>
 
