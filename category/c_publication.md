@@ -13,11 +13,11 @@ title: Publications
 <em>Inverse Problems (IP), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
 <li><span><strong>Dual-domain self-supervised learning and model adaption for deep compressive imaging</strong></span><br />
-<span> Y. Quan, X. Qin, T. Pang, and H. Ji <br />
+<span> Y. Quan, X. Qin✉, T. Pang, and H. Ji <br />
 <em>European Conference on Computer Vision (ECCV), </em>2022</span></li>
 
 <li><span><strong>Learning deep non-blind deconvolution without ground truth images</strong></span><br />
-<span> Y. Quan, Z. Chen, H. Zheng, and H. Ji <br />
+<span> Y. Quan, Z. Chen✉, H. Zheng, and H. Ji <br />
 <em>European Conference on Computer Vision (ECCV), </em>2022</span></li>
 
 <li><span><strong>Self-supervised low-light image enhancement using discrepant untrained network priors</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors%20(SUPP).pdf">supp</a>]</span><br />
@@ -65,7 +65,7 @@ title: Publications
 
 
 <li><span><strong>High-quality self-supervised snapshot hyperspectral imaging</strong> [<a href="https://csyhquan.github.io/manuscript/22-icassp-High-Quality%20Self-Ssupervised%20Snapshot%20Hyperspectral%20Imaging.pdf">manuscript</a>]</span><br />
-<span> Y. Quan, X. Qin, M. Chen, and Y. Huang <br />
+<span> Y. Quan, X. Qin, M. Chen, and Y. Huang✉ <br />
 <em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), </em>2022</span></li>
 
 <li><span><strong>Recurrent exposure generation for low-light face detection</strong> [<a href="https://csyhquan.github.io/manuscript/22-tmm-Recurrent%20Exposure%20Generation%20for%20Low-Light%20Face%20Detection.pdf">manuscript</a>][<a href="https://github.com/sherrycattt/REGDet" ><font color="#F75000">github</font></a>]</span><br />
