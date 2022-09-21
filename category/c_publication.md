@@ -8,9 +8,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>A dataset-free deep learning method for low-dose CT image reconstruction</strong></span><br />
-<span> Q. Ding, H. Ji, Y. Quan, and X. Zhang <br />
-<em>Inverse Problems (IP), </em>xx(x): xxx–xxx, xxx xxx</span></li>
+
 
 <li><span><strong>Dual-domain self-supervised learning and model adaption for deep compressive imaging</strong></span><br />
 <span> Y. Quan, X. Qin✉, T. Pang, and H. Ji <br />
@@ -39,7 +37,9 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-
+<li><span><strong>A dataset-free deep learning method for low-dose CT image reconstruction</strong></span><br />
+<span> Q. Ding, H. Ji, Y. Quan, and X. Zhang <br />
+<em>Inverse Problems (IP), </em>38, 104003, 2022</span></li>
 
 <li><span><strong>No-reference image quality assessment using dynamic complex-valued neural model</strong> [<a href="https://csyhquan.github.io/manuscript/22-mm-No-Reference%20Image%20Quality%20Assessment%20Using%20Dynamic%20Complex-Valued%20Neural%20Model.pdf">manuscript</a>]</span><br />
 <span> Z. Zhou, Y. Xu, R. Xu✉, and Y. Quan <br />
