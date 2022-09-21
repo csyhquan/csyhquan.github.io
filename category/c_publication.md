@@ -37,7 +37,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>A dataset-free deep learning method for low-dose CT image reconstruction</strong></span><br />
+<li><span><strong>A dataset-free deep learning method for low-dose CT image reconstruction</strong>[<a href="https://csyhquan.github.io/manuscript/22-ip-A%20Dataset-free%20Deep%20Learning%20Method%20for%20Low-Dose%20CT%20Image%20Reconstruction.pdf">manuscript</a>]</span><br />
 <span> Q. Ding, H. Ji, Y. Quan, and X. Zhang <br />
 <em>Inverse Problems (IP), </em>38, 104003, 2022</span></li>
 
