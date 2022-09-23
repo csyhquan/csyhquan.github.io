@@ -8,7 +8,9 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-
+<li><span><strong>Self-supervised blind image deconvolution via deep generative ensemble learning</strong></span><br />
+<span> M. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, Y. Xu and H. Ji <br />
+<em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
 <li><span><strong>Dual-domain self-supervised learning and model adaption for deep compressive imaging</strong></span><br />
 <span> Y. Quan, X. Qin✉, T. Pang, and H. Ji <br />
