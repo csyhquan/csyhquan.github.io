@@ -16,7 +16,7 @@ title: Publications
 <span> Y. Quan, X. Qin✉, T. Pang, and H. Ji <br />
 <em>European Conference on Computer Vision (ECCV), </em>2022</span></li>
 
-<li><span><strong>Learning deep non-blind deconvolution without ground truth images</strong></span><br />
+<li><span><strong>Learning deep non-blind image deconvolution without ground truths</strong></span><br />
 <span> Y. Quan, Z. Chen✉, H. Zheng, and H. Ji <br />
 <em>European Conference on Computer Vision (ECCV), </em>2022</span></li>
 
