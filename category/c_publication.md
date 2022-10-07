@@ -25,9 +25,7 @@ title: Publications
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
 
-<li><span><strong>Nonblind image deblurring via deep learning in complex field</strong> [<a href="https://csyhquan.github.io/manuscript/22-tnnls-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tnnls-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field%20(SUPP).pdf">supp</a>]</span><br />
-<span> Y. Quan, P. Lin, Y. Xu✉, Y. Nan, and H. Ji <br />
-<em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>33(9), 2022</span></li>
+
 
 
 </ul>
@@ -38,6 +36,10 @@ title: Publications
 <summary><t-half><span><strong>2022</strong></span></t-half></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
+
+<li><span><strong>Nonblind image deblurring via deep learning in complex field</strong> [<a href="https://csyhquan.github.io/manuscript/22-tnnls-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tnnls-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field%20(SUPP).pdf">supp</a>]</span><br />
+<span> Y. Quan, P. Lin, Y. Xu✉, Y. Nan, and H. Ji <br />
+<em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>33(10): 5387-5400, 2022</span></li>
 
 <li><span><strong>A dataset-free deep learning method for low-dose CT image reconstruction</strong> [<a href="https://csyhquan.github.io/manuscript/22-ip-A%20Dataset-free%20Deep%20Learning%20Method%20for%20Low-Dose%20CT%20Image%20Reconstruction.pdf">manuscript</a>]</span><br />
 <span> Q. Ding, H. Ji, Y. Quan, and X. Zhang <br />
