@@ -20,7 +20,7 @@ title: Publications
 <span> Y. Quan, Z. Chen✉, H. Zheng, and H. Ji <br />
 <em>European Conference on Computer Vision (ECCV), </em>2022</span></li>
 
-<li><span><strong>Self-supervised low-light image enhancement using discrepant untrained network priors</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors%20(SUPP).pdf">supp</a>]</span><br />
+<li><span><strong>Self-supervised low-light image enhancement using discrepant untrained network priors</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors%20(SUPP).pdf">supp</a>][<a href="https://github.com/sherrycattt/discrepant-untrained-nn-priors" ><font color="#F75000">github</font></a>]</span><br />
 <span> J. Liang, Y. Xu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, B. Shi, and H. Ji <br />
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
@@ -58,7 +58,7 @@ title: Publications
 <em>International Journal of Computer Vision (IJCV), </em>130: 1770–1789, 2022</span></li>
 
 
-<li><span><strong>Unsupervised phase retrieval using deep approximate MMSE estimation</strong> [<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%20Phase%20Retrieval%20Using%20Deep%20Approximate%20MMSE%20Estimation.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%20Phase%20Retrieval%20Using%20Deep%20Approximate%20MMSE%20Estimation%20(SUPP).pdf">supp</a>]</span><br />
+<li><span><strong>Unsupervised phase retrieval using deep approximate MMSE estimation</strong> [<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%20Phase%20Retrieval%20Using%20Deep%20Approximate%20MMSE%20Estimation.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tsp-Unsupervised%20Phase%20Retrieval%20Using%20Deep%20Approximate%20MMSE%20Estimation%20(SUPP).pdf">supp</a>][<a href="https://github.com/AlanLin1995/DeepMMSE" ><font color="#F75000">github</font></a>]</span><br />
 <span> M. Chen, P. Lin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, T. Pang, and H. Ji <br />
 <em>IEEE Transactions on Signal Processing (TSP), </em>70: 2239–2252, 2022</span></li>
 
