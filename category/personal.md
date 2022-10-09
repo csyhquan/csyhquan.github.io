@@ -32,6 +32,7 @@ p.ex1 {margin-bottom:0.2cm}
 <tbody>
 <tr>
 <img src="https://csyhquan.github.io/images/Cameraman.jpg" alt="" height="265" class="pimg"/>
+<img src="https://csyhquan.github.io/images/What are they playing.jpg" alt="" height="265" class="pimg"/>
 </tr>
 </tbody>
 </table>
