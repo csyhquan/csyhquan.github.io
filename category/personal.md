@@ -14,6 +14,10 @@ p.ex1 {margin-bottom:0.2cm}
 <table border="0">
 <tbody>
 <tr>
+<td style="text-align : center">The first Guangzhou Elite Project</td>
+<td style="text-align : center">My supervisor and Me (2012.07.28)</td>
+</tr>
+<tr>
 <td height="265">
 <img src="https://csyhquan.github.io/images/The_first_Guangzhou_Elite_Project.jpg" alt="" height="265" class="pimg"/>
 </td>
@@ -21,15 +25,17 @@ p.ex1 {margin-bottom:0.2cm}
 <img src="https://csyhquan.github.io/images/My_supervisor_and_Me.jpg" alt="" height="265" class="pimg"/>
 </td>
 </tr>
-<tr>
-<td style="text-align : center">The first Guangzhou Elite Project</td>
-<td style="text-align : center">My supervisor and Me(2012.07.28)</td>
-</tr>
+
 </tbody>
 </table>
 
 <table border="0">
 <tbody>
+<tr>
+<td style="text-align : center">Pearl River (2020.11.19)</td>
+<td style="text-align : center">Life in SCUT</td>
+<td style="text-align : center">Life in NUS</td>
+</tr>
 <tr>
 <td height="260">
 <img src="https://csyhquan.github.io/images/Pearl_River(2020.11.19).jpg" alt="" height="260" class="pimg"/>
@@ -41,16 +47,16 @@ p.ex1 {margin-bottom:0.2cm}
 <img src="https://csyhquan.github.io/images/personal_2.png" alt="" height="260" class="pimg"/>
 </td>
 </tr>
-<tr>
-<td style="text-align : center">Pearl River(2020.11.19)</td>
-<td style="text-align : center">Life in SCUT</td>
-<td style="text-align : center">Life in NUS</td>
-</tr>
+
 </tbody>
 </table>
 
 <table border="0">
 <tbody>
+<tr>
+<td style="text-align : center;vertical-align:top">Cameraman (2022.06.19)</td>
+<td style="text-align : center;vertical-align:top">What are they playing? (2022.10.2)</td>
+</tr>
 <tr>
 <td height="265">
 <img src="https://csyhquan.github.io/images/Cameraman.jpg" alt="" height="265" class="pimg"/>
@@ -59,10 +65,7 @@ p.ex1 {margin-bottom:0.2cm}
 <img src="https://csyhquan.github.io/images/What_are_they_playing.jpg" alt="" height="265" class="pimg"/>
 </td>
 </tr>
-<tr>
-<td style="text-align : center;vertical-align:top">Cameraman(2022.06.19)</td>
-<td style="text-align : center;vertical-align:top">What are they playing?(2022.10.2)</td>
-</tr>
+
 </tbody>
 </table>
 
