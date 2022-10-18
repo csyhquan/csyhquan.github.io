@@ -31,14 +31,22 @@ p.ex1 {margin-bottom:0.2cm}
 <table border="0">
 <tbody>
 <tr>
-<td>
+<td height="265">
 <img src="https://csyhquan.github.io/images/Cameraman.jpg" alt="" height="265" class="pimg"/>
+
+</td>
+<td height="265">
+<img src="https://csyhquan.github.io/images/What_are_they_playing.jpg" alt="" height="265" class="pimg"/>
+
+</td>
+
+</tr>
+<tr>
+<td>
 Cameraman
 </td>
-<td>
-<img src="https://csyhquan.github.io/images/What_are_they_playing.jpg" alt="" height="265" class="pimg"/>
-What_are_they_playing
-<td>
+<td>What_are_they_playing
+</td>
 </tr>
 </tbody>
 </table>
