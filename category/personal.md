@@ -42,10 +42,10 @@ p.ex1 {margin-bottom:0.2cm}
 
 </tr>
 <tr>
-<td>
+<td style="text-align : center">
 Cameraman
 </td>
-<td>What_are_they_playing
+<td style="text-align : center">What_are_they_playing
 </td>
 </tr>
 </tbody>
