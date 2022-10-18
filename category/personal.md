@@ -60,8 +60,8 @@ p.ex1 {margin-bottom:0.2cm}
 </td>
 </tr>
 <tr>
-<td style="text-align : center">Cameraman(2022.06.19)</td>
-<td style="text-align : center">What are they playing?(2022.10.2)</td>
+<td style="text-align : center;vertical-align:top">Cameraman(2022.06.19)</td>
+<td style="text-align : center;vertical-align:top">What are they playing?(2022.10.2)</td>
 </tr>
 </tbody>
 </table>
