@@ -43,9 +43,9 @@ p.ex1 {margin-bottom:0.2cm}
 </tr>
 <tr>
 <td style="text-align : center">
-Cameraman
+Cameraman(2022.06.19)
 </td>
-<td style="text-align : center">What_are_they_playing
+<td style="text-align : center">What are they playing?(2022.10.2)
 </td>
 </tr>
 </tbody>
