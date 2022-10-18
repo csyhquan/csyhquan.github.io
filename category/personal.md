@@ -27,16 +27,17 @@ p.ex1 {margin-bottom:0.2cm}
 </tr>
 </tbody>
 </table>
+
 <table border="0">
 <tbody>
 <tr>
-<td height="265">
+<td height="260">
 <img src="https://csyhquan.github.io/images/Pearl_River(2020.11.19).jpg" alt="" height="260" class="pimg"/>
 </td>
-<td height="265">
+<td height="260">
 <img src="https://csyhquan.github.io/images/personal_1.png" alt="" height="260" class="pimg"/>
 </td>
-<td height="265">
+<td height="260">
 <img src="https://csyhquan.github.io/images/personal_2.png" alt="" height="260" class="pimg"/>
 </td>
 </tr>
