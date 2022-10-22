@@ -8,15 +8,15 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Self-supervised blind image deconvolution via deep generative ensemble learning</strong></span><br />
+<li><span><strong>Self-supervised blind image deconvolution via deep generative ensemble learning</strong>[<a href="https://csyhquan.github.io/manuscript/22x-Self-Supervised%20Blind%20Image%20Deconvolution%20via%20Deep%20Generative%20Ensemble%20Learning.pdf">manuscript</a>]</span><br />
 <span> M. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, Y. Xu and H. Ji <br />
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
-<li><span><strong>Dual-domain self-supervised learning and model adaption for deep compressive imaging</strong></span><br />
+<li><span><strong>Dual-domain self-supervised learning and model adaption for deep compressive imaging</strong>[<a href="https://csyhquan.github.io/manuscript/22-eccv-Dual-Domain%20Self-Supervised%20Learning%20and%20Model%20Adaption%20for%20Deep%20Compressive%20Imaging.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, X. Qin✉, T. Pang, and H. Ji <br />
 <em>European Conference on Computer Vision (ECCV), </em>2022</span></li>
 
-<li><span><strong>Learning deep non-blind image deconvolution without ground truths</strong></span><br />
+<li><span><strong>Learning deep non-blind image deconvolution without ground truths</strong>[<a href="https://csyhquan.github.io/manuscript/22-eccv-Learning%20Deep%20Non-Blind%20Image%20Deconvolution%20Without%20Ground%20Truths.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, Z. Chen✉, H. Zheng, and H. Ji <br />
 <em>European Conference on Computer Vision (ECCV), </em>2022</span></li>
 
@@ -37,7 +37,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Nonblind image deblurring via deep learning in complex field</strong> [<a href="https://csyhquan.github.io/manuscript/22-tnnls-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tnnls-Non-Blind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field%20(SUPP).pdf">supp</a>]</span><br />
+<li><span><strong>Nonblind image deblurring via deep learning in complex field</strong> [<a href="https://csyhquan.github.io/manuscript/22-tnnls-Nonblind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tnnls-Nonblind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field%20(SUPP).pdf">supp</a>]</span><br />
 <span> Y. Quan, P. Lin, Y. Xu✉, Y. Nan, and H. Ji <br />
 <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>33(10): 5387-5400, 2022</span></li>
 
