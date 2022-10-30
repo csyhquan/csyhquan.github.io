@@ -20,12 +20,6 @@ title: Publications
 <span> Y. Quan, Z. Chen✉, H. Zheng, and H. Ji <br />
 <em>European Conference on Computer Vision (ECCV), </em>2022</span></li>
 
-<li><span><strong>Self-supervised low-light image enhancement using discrepant untrained network priors</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors%20(SUPP).pdf">supp</a>][<a href="https://github.com/sherrycattt/discrepant-untrained-nn-priors" ><font color="#F75000">github</font></a>]</span><br />
-<span> J. Liang, Y. Xu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, B. Shi, and H. Ji <br />
-<em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
-
-
-
 
 
 </ul>
@@ -36,6 +30,10 @@ title: Publications
 <summary><t-half><span><strong>2022</strong></span></t-half></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
+
+<li><span><strong>Self-supervised low-light image enhancement using discrepant untrained network priors</strong> [<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tcsvt-Self-Supervised%20Low-Light%20Image%20Enhancement%20Using%20Discrepant%20Untrained%20Network%20Priors%20(SUPP).pdf">supp</a>][<a href="https://github.com/sherrycattt/discrepant-untrained-nn-priors" ><font color="#F75000">github</font></a>]</span><br />
+<span> J. Liang, Y. Xu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, B. Shi, and H. Ji <br />
+<em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>32(11): 7332-7345, 2022</span></li>
 
 <li><span><strong>Nonblind image deblurring via deep learning in complex field</strong> [<a href="https://csyhquan.github.io/manuscript/22-tnnls-Nonblind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tnnls-Nonblind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field%20(SUPP).pdf">supp</a>]</span><br />
 <span> Y. Quan, P. Lin, Y. Xu✉, Y. Nan, and H. Ji <br />
