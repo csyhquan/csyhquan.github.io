@@ -25,7 +25,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Dual-domain self-supervised learning and model adaption for deep compressive imaging</strong> [<a href="https://csyhquan.github.io/manuscript/22-eccv-Dual-Domain%20Self-Supervised%20Learning%20and%20Model%20Adaption%20for%20Deep%20Compressive%20Imaging.pdf">manuscript</a>]</span><br />
+<li><span><strong>Dual-domain self-supervised learning and model adaption for deep compressive imaging</strong> [<a href="https://csyhquan.github.io/manuscript/22-eccv-Dual-Domain%20Self-Supervised%20Learning%20and%20Model%20Adaption%20for%20Deep%20Compressive%20Imaging.pdf">manuscript</a>][<a href="https://github.com/XinranQin/DualDomainSS" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, X. Qin✉, T. Pang, and H. Ji <br />
 <em>European Conference on Computer Vision (ECCV), </em>2022</span></li>
 
@@ -68,7 +68,7 @@ title: Publications
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>32(7): 4324–4337, 2022</span></li>
 
 
-<li><span><strong>High-quality self-supervised snapshot hyperspectral imaging</strong> [<a href="https://csyhquan.github.io/manuscript/22-ICASSP-HSI.pdf">manuscript</a>]</span><br />
+<li><span><strong>High-quality self-supervised snapshot hyperspectral imaging</strong> [<a href="https://csyhquan.github.io/manuscript/22-ICASSP-HSI.pdf">manuscript</a>][<a href="https://github.com/XinranQin/HQSCI/" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, X. Qin, M. Chen, and Y. Huang✉ <br />
 <em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), </em>2022</span></li>
 
