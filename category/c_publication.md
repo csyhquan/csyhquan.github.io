@@ -19,13 +19,22 @@ title: Publications
 </details>
 
 <details open="">
-<summary><t-half><span><strong>2022</strong></span></t-half></summary>
+<summary><t-half><span><strong>2023</strong></span></t-half></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
 
 <li><span><strong>Unsupervised phase retrieval via teacher-student learning</strong> </span><br />
 <span> Y. Quan, Z. Chen, T. Pang, and H. Ji <br />
 <em>AAAI Conference on Artificial Intelligence (AAAI), </em>2023</span></li>
+
+</ul>
+</t1>
+</details>
+
+<details open="">
+<summary><t-half><span><strong>2022</strong></span></t-half></summary>
+<t1>
+<ul style="background-color: #f2f2f2;">
 
 <li><span><strong>Unsupervised knowledge transfer for nonblind image deconvolution</strong></span><br />
 <span> Z. Chen, X. Yao, Y. Xu, J. Wang, and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> <br />
