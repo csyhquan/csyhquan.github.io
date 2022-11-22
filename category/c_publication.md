@@ -14,8 +14,6 @@ title: Publications
 
 
 
-
-
 </ul>
 </t1>
 </details>
@@ -25,12 +23,12 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Unsupervised Phase Retrieval via Teacher-Student Learning</strong> </span><br />
+<li><span><strong>Unsupervised phase retrieval via teacher-student learning</strong> </span><br />
 <span> Y. Quan, Z. Chen, T. Pang, and H. Ji <br />
 <em>AAAI Conference on Artificial Intelligence (AAAI), </em>2023</span></li>
 
 <li><span><strong>Unsupervised knowledge transfer for nonblind image deconvolution</strong></span><br />
-<span>  Z. Chen, X. Yao, Y. Xu, J. Wang, and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> <br />
+<span> Z. Chen, X. Yao, Y. Xu, J. Wang, and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> <br />
 <em>Pattern Recognition Letters, </em>164: 232–238, 2022</span></li>
 
 <li><span><strong>Dual-domain self-supervised learning and model adaption for deep compressive imaging</strong> [<a href="https://csyhquan.github.io/manuscript/22-eccv-Dual-Domain%20Self-Supervised%20Learning%20and%20Model%20Adaption%20for%20Deep%20Compressive%20Imaging.pdf">manuscript</a>][<a href="https://github.com/XinranQin/DualDomainSS" ><font color="#F75000">github</font></a>]</span><br />
