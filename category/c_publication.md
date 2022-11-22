@@ -36,7 +36,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Unsupervised knowledge transfer for nonblind image deconvolution</strong></span><br />
+<li><span><strong>Unsupervised knowledge transfer for nonblind image deconvolution</strong>[<a href="https://csyhquan.github.io/manuscript/22-prl-Unsupervised%20Knowledge%20Transfer%20for%20Nonblind%20Image%20Deconvolution.pdf">manuscript</a>]</span><br />
 <span> Z. Chen, X. Yao, Y. Xu, J. Wang, and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> <br />
 <em>Pattern Recognition Letters, </em>164: 232–238, 2022</span></li>
 
