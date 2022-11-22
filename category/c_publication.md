@@ -13,17 +13,7 @@ title: Publications
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
 
-
-</ul>
-</t1>
-</details>
-
-<details open="">
-<summary><t-half><span><strong>2023</strong></span></t-half></summary>
-<t1>
-<ul style="background-color: #f2f2f2;">
-
-<li><span><strong>Unsupervised phase retrieval via teacher-student learning</strong> </span><br />
+<li><span><strong>Unsupervised deep learning for phase retrieval via teacher-student distillation</strong> </span><br />
 <span> Y. Quan, Z. Chen, T. Pang, and H. Ji <br />
 <em>AAAI Conference on Artificial Intelligence (AAAI), </em>2023</span></li>
 
