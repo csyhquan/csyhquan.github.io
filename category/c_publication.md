@@ -28,9 +28,6 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Unsupervised knowledge transfer for nonblind image deconvolution</strong>[<a href="https://csyhquan.github.io/manuscript/22-prl-Unsupervised%20Knowledge%20Transfer%20for%20Nonblind%20Image%20Deconvolution.pdf">manuscript</a>]</span><br />
-<span> Z. Chen, X. Yao, Y. Xu, J. Wang, and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> <br />
-<em>Pattern Recognition Letters, </em>164: 232–238, 2022</span></li>
 
 <li><span><strong>Dual-domain self-supervised learning and model adaption for deep compressive imaging</strong> [<a href="https://csyhquan.github.io/manuscript/22-eccv-Dual-Domain%20Self-Supervised%20Learning%20and%20Model%20Adaption%20for%20Deep%20Compressive%20Imaging.pdf">manuscript</a>][<a href="https://github.com/XinranQin/DualDomainSS" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, X. Qin✉, T. Pang, and H. Ji <br />
@@ -47,6 +44,10 @@ title: Publications
 <li><span><strong>Nonblind image deblurring via deep learning in complex field</strong> [<a href="https://csyhquan.github.io/manuscript/22-tnnls-Nonblind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-tnnls-Nonblind%20Image%20Deblurring%20via%20Deep%20Learning%20in%20Complex%20Field%20(SUPP).pdf">supp</a>]</span><br />
 <span> Y. Quan, P. Lin, Y. Xu✉, Y. Nan, and H. Ji <br />
 <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>33(10): 5387-5400, 2022</span></li>
+
+<li><span><strong>Unsupervised knowledge transfer for nonblind image deconvolution</strong>[<a href="https://csyhquan.github.io/manuscript/22-prl-Unsupervised%20Knowledge%20Transfer%20for%20Nonblind%20Image%20Deconvolution.pdf">manuscript</a>]</span><br />
+<span> Z. Chen, X. Yao, Y. Xu, J. Wang, and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> <br />
+<em>Pattern Recognition Letters, </em>164: 232–238, 2022</span></li>
 
 <li><span><strong>A dataset-free deep learning method for low-dose CT image reconstruction</strong> [<a href="https://csyhquan.github.io/manuscript/22-ip-A%20Dataset-free%20Deep%20Learning%20Method%20for%20Low-Dose%20CT%20Image%20Reconstruction.pdf">manuscript</a>]</span><br />
 <span> Q. Ding, H. Ji, Y. Quan, and X. Zhang <br />
