@@ -39,7 +39,22 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </table>
 </td>
 
+<td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/2018级硕士滕寰.jpg" alt="" height="136" align="left" /></p>
 
+<p class="ex1"><g0><span><strong> &ensp; Huan Teng</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(滕寰)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Ph.D. Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2021-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
 
 <td style="background-color: #fff;">
 <table width="370">
@@ -59,6 +74,17 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </td>
 
 
+</tr>
+</tbody>
+</table>
+
+
+<!-------------------------------------------Second--------------------------------------------------------->
+
+
+<table width="70%" border="0">
+<tbody>
+<tr>
 
 <td style="background-color: #fff;">
 <table width="370">
@@ -77,21 +103,6 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </table>
 </td>
 
-
-
-
-</tr>
-</tbody>
-</table>
-
-
-
-<!-------------------------------------------Second--------------------------------------------------------->
-
-
-<table width="70%" border="0">
-<tbody>
-<tr>
 
 
 
@@ -133,22 +144,7 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </td> -->
 
 
-<td style="background-color: #fff;">
-<table width="370">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/2018级硕士滕寰.jpg" alt="" height="136" align="left" /></p>
 
-<p class="ex1"><g0><span><strong> &ensp; Huan Teng</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(滕寰)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Ph.D. Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2021-Present</span></g1></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
 
 
 <td style="background-color: #fff;">
