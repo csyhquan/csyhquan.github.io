@@ -169,7 +169,7 @@ title: Publications
 
 
 <details open="">
-<summary><span><strong><t-half>2019 - 2020</t-half></strong></span></summary>
+<summary><span><strong><t-half>2020</t-half></strong></span></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
 
@@ -215,6 +215,18 @@ title: Publications
 <li><span><strong>Removing reflection from a single image with ghosting effect</strong> [<a href="https://csyhquan.github.io/manuscript/20-tci-Removing%20Reflection%20From%20a%20Single%20Image%20With%20Ghosting%20Effect.pdf">manuscript</a>]</span><br />
 <span> Y. Huang, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, Y. Xu, R. Xu, and H. Ji <br />
 <em> IEEE Transactions on Computational Imaging (TCI), </em>6: 34-45, 2020</span></li>
+
+
+</ul>
+</t1>
+</details>
+
+
+<details open="">
+<summary><span><strong><t-half>2019</t-half></strong></span></summary>
+<t1>
+<ul style="background-color: #f2f2f2;">
+
 
  <li><span><strong>Barzilai-Borwein-based adaptive learning rate for deep learning</strong> [<a href="https://csyhquan.github.io/manuscript/19-pr-Barzilai%E2%80%93Borwein-based%20adaptive%20learning%20rate%20for%20deep%20learning.pdf">manuscript</a>][<a href="https://github.com/sherrycattt/bb_dl.pytorch"><font color="#F75000">github</font></a>]</span><br />
 <span> J. Liang, Y. Xu, C. Bao, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
