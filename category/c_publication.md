@@ -12,9 +12,7 @@ title: Publications
 <span> Y. Quan, X. Tan, Y. Huang✉, Y. Xu and H. Ji <br />
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
-<li><span><strong>Self-supervised blind image deconvolution via deep generative ensemble learning</strong> [<a href="https://csyhquan.github.io/manuscript/22x-Self-Supervised%20Blind%20Image%20Deconvolution%20via%20Deep%20Generative%20Ensemble%20Learning.pdf">manuscript</a>]</span><br />
-<span> M. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, Y. Xu and H. Ji <br />
-<em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
+
 
 </ul>
 </t1>
@@ -24,6 +22,11 @@ title: Publications
 <summary><t-half><span><strong>2023</strong></span></t-half></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
+
+<li><span><strong>Self-supervised blind image deconvolution via deep generative ensemble learning</strong> [<a href="https://csyhquan.github.io/manuscript/22x-Self-Supervised%20Blind%20Image%20Deconvolution%20via%20Deep%20Generative%20Ensemble%20Learning.pdf">manuscript</a>]</span><br />
+<span> M. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, Y. Xu and H. Ji <br />
+<em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>33(2): 634-647, 2023</span></li>
+
 <li><span><strong>Unsupervised deep learning for phase retrieval via teacher-student distillation</strong> </span><br />
 <span> Y. Quan, Z. Chen✉, T. Pang, and H. Ji <br />
 <em>AAAI Conference on Artificial Intelligence (AAAI), </em>Oral, 2023</span></li>
