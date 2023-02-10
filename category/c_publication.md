@@ -24,7 +24,7 @@ title: Publications
 <ul style="background-color: #f2f2f2;">
 
 
-<li><span><strong>Unsupervised deep learning for phase retrieval via teacher-student distillation</strong> </span><br />
+<li><span><strong>Unsupervised deep learning for phase retrieval via teacher-student distillation</strong> [<a href="https://csyhquan.github.io/manuscript/pr-distillation_v13.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, Z. Chen✉, T. Pang, and H. Ji <br />
 <em>AAAI Conference on Artificial Intelligence (AAAI), </em>Oral, 2023</span></li>
 
