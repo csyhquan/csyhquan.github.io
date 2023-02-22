@@ -91,7 +91,7 @@ title: Publications
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>32(7): 4324–4337, 2022</span></li>
 
 
-<li><span><strong>High-quality self-supervised snapshot hyperspectral imaging</strong> [<a href="https://csyhquan.github.io/manuscript/22-High-quality%20self-supervised%20snapshot%20hyperspectral%20imaging.pdf">manuscript</a>][<a href="https://github.com/XinranQin/HQSCI/" ><font color="#F75000">github</font></a>]</span><br />
+<li><span><strong>High-quality self-supervised snapshot hyperspectral imaging</strong> [<a href="https://csyhquan.github.io/manuscript/22-High-quality%20Self-supervised%20Snapshot%20Hyperspectral%20Imaging.pdf">manuscript</a>][<a href="https://github.com/XinranQin/HQSCI/" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, X. Qin, M. Chen, and Y. Huang✉ <br />
 <em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), </em>2022</span></li>
 
