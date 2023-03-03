@@ -23,6 +23,13 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
+<li><span><strong>Ground-truth free meta-learning for deep compressive sampling</strong> </span><br />
+<span> X. Qin, Y. Quan, T. Pang, and H. Ji <br />
+<em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>2023</span></li>
+
+<li><span><strong>Neumann network with recursive kernels for single image defocus deblurring</strong> </span><br />
+<span> Y. Quan, Z. Wu, and H. Ji <br />
+<em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>2023</span></li>
 
 <li><span><strong>Unsupervised deep learning for phase retrieval via teacher-student distillation</strong> </span><br />
 <span> Y. Quan, Z. Chen✉, T. Pang, and H. Ji <br />
