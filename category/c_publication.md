@@ -31,7 +31,7 @@ title: Publications
 <span> Y. Quan, Z. Wu, and H. Ji <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>2023</span></li>
 
-<li><span><strong>Unsupervised deep learning for phase retrieval via teacher-student distillation</strong> </span><br />
+<li><span><strong>Unsupervised deep learning for phase retrieval via teacher-student distillation</strong> [<a href="https://csyhquan.github.io/manuscript/23-aaai-Unsupervised%20Deep%20Learning%20for%20Phase%20Retrieval%20via%20Teacher-Student%20Distillation.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, Z. Chen✉, T. Pang, and H. Ji <br />
 <em>AAAI Conference on Artificial Intelligence (AAAI), </em>Oral, 2023</span></li>
 
