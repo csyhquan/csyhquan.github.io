@@ -8,7 +8,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Image desnowing via deep invertible separation</strong> </span><br />
+<li><span><strong>Image desnowing via deep invertible separation</strong> [<a href="https://csyhquan.github.io/manuscript/23-tcsvt-Image%20Desnowing%20via%20Deep%20Invertible%20Separation.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, X. Tan, Y. Huang✉, Y. Xu and H. Ji <br />
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
 
@@ -23,11 +23,11 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Ground-truth free meta-learning for deep compressive sampling</strong> </span><br />
+<li><span><strong>Ground-truth free meta-learning for deep compressive sampling</strong> [<a href="https://csyhquan.github.io/manuscript/23-cvpr-Ground-Truth%20Free%20Meta-Learning%20for%20Deep%20Compressive%20Sampling.pdf">manuscript</a>]</span><br />
 <span> X. Qin, Y. Quan, T. Pang, and H. Ji <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>2023</span></li>
 
-<li><span><strong>Neumann network with recursive kernels for single image defocus deblurring</strong> </span><br />
+<li><span><strong>Neumann network with recursive kernels for single image defocus deblurring</strong> [<a href="https://csyhquan.github.io/manuscript/23-cvpr-Neumann%20Network%20with%20Recursive%20Kernels%20for%20Single%20Image%20Defocus%20Deblurring.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, Z. Wu, and H. Ji <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>2023</span></li>
 
