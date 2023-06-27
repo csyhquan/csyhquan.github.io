@@ -24,7 +24,7 @@ title: Publications
 <ul style="background-color: #f2f2f2;">
 
 <li><span><strong>Ground-truth free meta-learning for deep compressive sampling</strong> [<a href="https://csyhquan.github.io/manuscript/23-cvpr-Ground-Truth%20Free%20Meta-Learning%20for%20Deep%20Compressive%20Sampling.pdf">manuscript</a>]</span><br />
-<span> X. Qin, Y. Quan, T. Pang, and H. Ji <br />
+<span> X. Qin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, T. Pang, and H. Ji <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>2023</span></li>
 
 <li><span><strong>Neumann network with recursive kernels for single image defocus deblurring</strong> [<a href="https://csyhquan.github.io/manuscript/23-cvpr-Neumann%20Network%20with%20Recursive%20Kernels%20for%20Single%20Image%20Defocus%20Deblurring.pdf">manuscript</a>]</span><br />
