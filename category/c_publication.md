@@ -10,7 +10,7 @@ title: Publications
 
 <li><span><strong>Image desnowing via deep invertible separation</strong> [<a href="https://csyhquan.github.io/manuscript/23-tcsvt-Image%20Desnowing%20via%20Deep%20Invertible%20Separation.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, X. Tan, Y. Huang✉, Y. Xu and H. Ji <br />
-<em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>xx(x): xxx–xxx, xxx xxx</span></li>
+<em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>33(7): 3133-3144, 2023</span></li>
 
 
 
