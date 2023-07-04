@@ -8,9 +8,6 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Image desnowing via deep invertible separation</strong> [<a href="https://csyhquan.github.io/manuscript/23-tcsvt-Image%20Desnowing%20via%20Deep%20Invertible%20Separation.pdf">manuscript</a>]</span><br />
-<span> Y. Quan, X. Tan, Y. Huang✉, Y. Xu and H. Ji <br />
-<em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>33(7): 3133-3144, 2023</span></li>
 
 
 
@@ -22,6 +19,10 @@ title: Publications
 <summary><t-half><span><strong>2023</strong></span></t-half></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
+
+<li><span><strong>Image desnowing via deep invertible separation</strong> [<a href="https://csyhquan.github.io/manuscript/23-tcsvt-Image%20Desnowing%20via%20Deep%20Invertible%20Separation.pdf">manuscript</a>]</span><br />
+<span> Y. Quan, X. Tan, Y. Huang✉, Y. Xu and H. Ji <br />
+<em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>33(7): 3133-3144, 2023</span></li>
 
 <li><span><strong>Ground-truth free meta-learning for deep compressive sampling</strong> [<a href="https://csyhquan.github.io/manuscript/23-cvpr-Ground-Truth%20Free%20Meta-Learning%20for%20Deep%20Compressive%20Sampling.pdf">manuscript</a>]</span><br />
 <span> X. Qin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, T. Pang, and H. Ji <br />
