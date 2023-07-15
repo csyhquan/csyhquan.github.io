@@ -28,7 +28,7 @@ title: Publications
 <span> X. Qin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, T. Pang, and H. Ji <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>2023</span></li>
 
-<li><span><strong>Neumann network with recursive kernels for single image defocus deblurring</strong> [<a href="https://csyhquan.github.io/manuscript/23-cvpr-Neumann%20Network%20with%20Recursive%20Kernels%20for%20Single%20Image%20Defocus%20Deblurring.pdf">manuscript</a>]</span><br />
+<li><span><strong>Neumann network with recursive kernels for single image defocus deblurring</strong> [<a href="https://csyhquan.github.io/manuscript/23-cvpr-Neumann%20Network%20with%20Recursive%20Kernels%20for%20Single%20Image%20Defocus%20Deblurring.pdf">manuscript</a>][<a href="https://github.com/csZcWu/NRKNet" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, Z. Wu, and H. Ji <br />
 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), </em>2023</span></li>
 
