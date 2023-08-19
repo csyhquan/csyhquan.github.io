@@ -20,8 +20,28 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
+<li><span><strong>Single image defocus deblurring via implicit neural inverse kernels</strong> </span><br />
+<span> Y. Quan, X. Yao, and H. Ji <br />
+<em>International Conference on Computer Vision (ICCV), </em>2023</span></li>
+
+<li><span><strong>Fingerprinting deep image restoration models</strong> </span><br />
+<span> Y. Quan, H. Teng, R. Xu✉, J. Huang, and H. Ji <br />
+<em>International Conference on Computer Vision (ICCV), </em>2023</span></li>
+
+<li><span><strong>Deep Video Demoiréing via Compact Invertible Dyadic Decomposition</strong> </span><br />
+<span> Y. Quan, H. Huang, S. He, and R. Xu✉ <br />
+<em>International Conference on Computer Vision (ICCV), </em>2023</span></li>
+
+<li><span><strong>Diffuse3D: Wide-Angle 3D Photography via Bilateral Diffusion</strong> </span><br />
+<span> Y Jiang, Y Zhou, Y Liang, W Liu, J Jiao, Y Quan, and S He✉ <br />
+<em>International Conference on Computer Vision (ICCV), </em>2023</span></li>
+
+<li><span><strong>Video Noise Removal Using Progressive Decomposition With Conditional Invertibility</strong> </span><br />
+<span> H. Huang, Y. Quan, Z. Lei, J. Hu, and Y. Huang✉ <br />
+<em>IEEE International Conference on Multimedia and Expo (ICME), </em>2023</span></li>
+
 <li><span><strong>Image desnowing via deep invertible separation</strong> [<a href="https://csyhquan.github.io/manuscript/23-tcsvt-Image%20Desnowing%20via%20Deep%20Invertible%20Separation.pdf">manuscript</a>]</span><br />
-<span> Y. Quan, X. Tan, Y. Huang✉, Y. Xu and H. Ji <br />
+<span> Y. Quan, X. Tan, Y. Huang✉, Y. Xu, and H. Ji <br />
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>33(7): 3133-3144, 2023</span></li>
 
 <li><span><strong>Ground-truth free meta-learning for deep compressive sampling</strong> [<a href="https://csyhquan.github.io/manuscript/23-cvpr-Ground-Truth%20Free%20Meta-Learning%20for%20Deep%20Compressive%20Sampling.pdf">manuscript</a>]</span><br />
@@ -37,7 +57,7 @@ title: Publications
 <em>AAAI Conference on Artificial Intelligence (AAAI), </em>Oral, 2023</span></li>
 
 <li><span><strong>Self-supervised blind image deconvolution via deep generative ensemble learning</strong> [<a href="https://csyhquan.github.io/manuscript/23-Self-Supervised%20Blind%20Image%20Deconvolution%20via%20Deep%20Generative%20Ensemble%20Learning.pdf">manuscript</a>]</span><br />
-<span> M. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, Y. Xu and H. Ji <br />
+<span> M. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, Y. Xu, and H. Ji <br />
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>33(2): 634-647, 2023</span></li>
 
 
