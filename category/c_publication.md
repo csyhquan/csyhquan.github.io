@@ -28,15 +28,15 @@ title: Publications
 <span> Y. Quan, H. Teng, R. Xu✉, J. Huang, and H. Ji <br />
 <em>International Conference on Computer Vision (ICCV), </em>2023</span></li>
 
-<li><span><strong>Deep Video Demoiréing via Compact Invertible Dyadic Decomposition</strong> </span><br />
+<li><span><strong>Deep video demoiréing via compact invertible dyadic decomposition</strong> </span><br />
 <span> Y. Quan, H. Huang, S. He, and R. Xu✉ <br />
 <em>International Conference on Computer Vision (ICCV), </em>2023</span></li>
 
-<li><span><strong>Diffuse3D: Wide-Angle 3D Photography via Bilateral Diffusion</strong> </span><br />
+<li><span><strong>Diffuse3D: Wide-Angle 3D photography via bilateral diffusion</strong> </span><br />
 <span> Y Jiang, Y Zhou, Y Liang, W Liu, J Jiao, Y Quan, and S He✉ <br />
 <em>International Conference on Computer Vision (ICCV), </em>2023</span></li>
 
-<li><span><strong>Video Noise Removal Using Progressive Decomposition With Conditional Invertibility</strong> </span><br />
+<li><span><strong>Video noise removal using progressive decomposition with conditional invertibility</strong> </span><br />
 <span> H. Huang, Y. Quan, Z. Lei, J. Hu, and Y. Huang✉ <br />
 <em>IEEE International Conference on Multimedia and Expo (ICME), </em>2023</span></li>
 
