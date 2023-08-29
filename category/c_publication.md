@@ -88,7 +88,7 @@ title: Publications
 <span> Y. Quan, P. Lin, Y. Xu✉, Y. Nan, and H. Ji <br />
 <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), </em>33(10): 5387-5400, 2022</span></li>
 
-<li><span><strong>Unsupervised knowledge transfer for nonblind image deconvolution</strong>[<a href="https://csyhquan.github.io/manuscript/22-prl-Unsupervised%20Knowledge%20Transfer%20for%20Nonblind%20Image%20Deconvolution.pdf">manuscript</a>]</span><br />
+<li><span><strong>Unsupervised knowledge transfer for nonblind image deconvolution</strong> [<a href="https://csyhquan.github.io/manuscript/22-prl-Unsupervised%20Knowledge%20Transfer%20for%20Nonblind%20Image%20Deconvolution.pdf">manuscript</a>]</span><br />
 <span> Z. Chen, X. Yao, Y. Xu, J. Wang, and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> <br />
 <em>Pattern Recognition Letters, </em>164: 232–238, 2022</span></li>
 
