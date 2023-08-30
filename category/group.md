@@ -278,6 +278,70 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <tbody>
 <tr>
 
+<td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/2021级硕士吴梓聪.jpg" alt="" height="136" align="left" /></p>
+
+<p class="ex1"><g0><span><strong> &ensp; Zicong Wu (吴梓聪)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2020-2023</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Algorithm Engineer</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;ArcSoft</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
+
+<td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/秦欣然.jpg" alt="" height="136" align="left" /></p>
+
+<p class="ex1"><g0><span><strong> &ensp; Xinran Qin (秦欣然)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2020-2023</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;PhD Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Sun Yat-sen University</span></g1></p>
+</td>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
+<td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/黄浩然.jpg" alt="" height="136" align="left" /></p>
+
+<p class="ex1"><g0><span><strong> &ensp; Haoran Huang (黄浩然)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;M.Sc., 2020-2023</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;***</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Guangzhou NSB</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
+</tr>
+</tbody>
+</table>
+
+<table width="70%" border="0"><!----postdoctor&doctor--->
+<tbody>
+<tr>
+
 
 
 <td style="background-color: #fff;">
@@ -676,6 +740,23 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <table width="70%" border="0"> 
 <tbody>
 <tr>
+
+<td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/2019级co-surprised_phd周子涵.jpg" alt="" height="136" align="left" /></p>
+
+<p class="ex1"><g0><span><strong> &ensp; Zihan Zhou (周子涵)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D., 2019-2023</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Assistant Professor</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;South China University of Technology</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
 
 
 <td style="background-color: #fff;">
