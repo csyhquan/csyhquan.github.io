@@ -22,22 +22,6 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 
 
 
-<td style="background-color: #fff;">
-<table width="370">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/2019级co-surprised_phd周子涵.jpg" alt="" height="136" align="left" /></p>
-
-<p class="ex1"><g0><span><strong> &ensp; Zihan Zhou</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(周子涵)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Ph.D. Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2019-Present</span></g1></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
 
 <td style="background-color: #fff;">
 <table width="370">
@@ -56,17 +40,36 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </table>
 </td>
 
+
 <td style="background-color: #fff;">
 <table width="370">
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/黄浩然.jpg" alt="" height="136" align="left" /></p>
+<p class="ex2"><img src="https://csyhquan.github.io/images/陈志乐.jpg" alt="" height="136" align="left" /></p>
 
-<p class="ex1"><g0><span><strong> &ensp; Haoran Huang</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(黄浩然)</span></g1></p>
+<p class="ex1"><g0><span><strong> &ensp; Zhile Chen</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(陈志乐)</span></g1></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2021-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
+<td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/卢新昌.jpg" alt="" height="136" align="left" /></p>
+
+<p class="ex1"><g0><span><strong> &ensp; Xinchang Lu</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(卢新昌)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2021-Present</span></g1></p>
 </td>
 </tr>
 </tbody>
@@ -86,23 +89,6 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <tbody>
 <tr>
 
-<td style="background-color: #fff;">
-<table width="370">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/秦欣然.jpg" alt="" height="136" align="left" /></p>
-
-<p class="ex1"><g0><span><strong> &ensp; Xinran Qin</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(秦欣然)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-
 
 
 
@@ -112,17 +98,57 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/2021级硕士吴梓聪.jpg" alt="" height="136" align="left" /></p>
+<p class="ex2"><img src="https://csyhquan.github.io/images/万希.jpg" alt="" height="136" align="left" /></p>
 
-<p class="ex1"><g0><span><strong> &ensp; Zicong Wu</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(吴梓聪)</span></g1></p>
+<p class="ex1"><g0><span><strong> &ensp; Xi Wan</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(万希)</span></g1></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2020-Present</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2022-Present</span></g1></p>
 </td>
 </tr>
 </tbody>
 </table>
 </td>
+
+
+
+<td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/谭笑衡.jpg" alt="" height="136" align="left" /></p>
+
+<p class="ex1"><g0><span><strong> &ensp; Xiaoheng Tan</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(谭笑衡)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2022-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
+
+<td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/刘康杰.jpg" alt="" height="136" align="left" /></p>
+
+<p class="ex1"><g0><span><strong> &ensp; Kangjie Liu</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(刘康杰)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2022-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
 
 
 
@@ -147,22 +173,7 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 
 
 
-<td style="background-color: #fff;">
-<table width="370">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/陈志乐.jpg" alt="" height="136" align="left" /></p>
 
-<p class="ex1"><g0><span><strong> &ensp; Zhile Chen</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(陈志乐)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2021-Present</span></g1></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
 <!-- <td style="background-color: #fff;">
 <table width="340">
 <tbody>
@@ -210,12 +221,12 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/万希.jpg" alt="" height="136" align="left" /></p>
+<p class="ex2"><img src="https://csyhquan.github.io/images/何旭怡.jpg" alt="" height="136" align="left" /></p>
 
-<p class="ex1"><g0><span><strong> &ensp; Xi Wan</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(万希)</span></g1></p>
+<p class="ex1"><g0><span><strong> &ensp; Xuyi He</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(何旭怡)</span></g1></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2022-Present</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2023-Present</span></g1></p>
 </td>
 </tr>
 </tbody>
@@ -228,12 +239,31 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <tbody>
 <tr>
 <td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/谭笑衡.jpg" alt="" height="136" align="left" /></p>
+<p class="ex2"><img src="https://csyhquan.github.io/images/姚鑫.jpg" alt="" height="136" align="left" /></p>
 
-<p class="ex1"><g0><span><strong> &ensp; Xiaoheng Tan</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(谭笑衡)</span></g1></p>
+<p class="ex1"><g0><span><strong> &ensp; Xin Yao</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(姚鑫)</span></g1></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2022-Present</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2023-Present</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
+
+<td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/郑天详.jpg" alt="" height="136" align="left" /></p>
+
+<p class="ex1"><g0><span><strong> &ensp; Tianxiang Zheng</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;(郑天详)</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2023-Present</span></g1></p>
 </td>
 </tr>
 </tbody>
