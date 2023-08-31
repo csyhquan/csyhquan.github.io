@@ -50,7 +50,7 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 
 <p class="ex1"><g0><span><strong> &ensp; Zhile Chen</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(陈志乐)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Ph.D. Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2021-Present</span></g1></p>
 </td>
 </tr>
