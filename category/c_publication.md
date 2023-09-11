@@ -28,7 +28,7 @@ title: Publications
 <span> Y. Quan, H. Teng, R. Xu✉, J. Huang, and H. Ji <br />
 <em>International Conference on Computer Vision (ICCV), </em>2023</span></li>
 
-<li><span><strong>Deep video demoiréing via compact invertible dyadic decomposition</strong> </span><br />
+<li><span><strong>Deep video demoiréing via compact invertible dyadic decomposition</strong> [<a href="https://csyhquan.github.io/manuscript/23-iccv-Deep%20Video%20Demoiréing%20via%20Compact%20Invertible%20Dyadic%20Decomposition.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/23-iccv-Deep%20Video%20Demoiréing%20via%20Compact%20Invertible%20Dyadic%20Decomposition%20(SUPP).pdf">supp</a>]</span><br />
 <span> Y. Quan, H. Huang, S. He, and R. Xu✉ <br />
 <em>International Conference on Computer Vision (ICCV), </em>2023</span></li>
 
