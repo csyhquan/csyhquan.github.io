@@ -116,7 +116,7 @@ title: Publications
 <span> Z. Zhou, Y. Xu, Y. Quan, and R. Xu✉ <br />
 <em>IEEE International Conference on Multimedia and Expo (ICME), </em>2022</span></li>
 
-<li><span><strong>Nonblind image deconvolution via leveraging model uncertainty in an untrained deep neural network</strong> [<a href="https://csyhquan.github.io/manuscript/22-Nonblind%20Image%20Deconvolution%20via%20Leveraging%20Model%20Uncertainty%20in%20An%20Untrained%20Deep%20Neural%20Network.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-Nonblind%20Image%20Deconvolution%20via%20Leveraging%20Model%20Uncertainty%20in%20An%20Untrained%20Deep%20Neural%20Network%20(SUPP).pdf">supp</a>][<a href="https://github.com/scut-mingqinchen/Model_Uncertainty_NID" ><font color="#F75000">github</font></a>]</span><br />
+<li><span><strong>Nonblind image deconvolution via leveraging model uncertainty in an untrained deep neural network</strong> [<a href="https://csyhquan.github.io/manuscript/22-ijcv-Nonblind%20Image%20Deconvolution%20via%20Leveraging%20Model%20Uncertainty%20in%20An%20Untrained%20Deep%20Neural%20Network.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/22-ijcv-Nonblind%20Image%20Deconvolution%20via%20Leveraging%20Model%20Uncertainty%20in%20An%20Untrained%20Deep%20Neural%20Network%20(SUPP).pdf">supp</a>][<a href="https://github.com/scut-mingqinchen/Model_Uncertainty_NID" ><font color="#F75000">github</font></a>]</span><br />
 <span> M. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, T. Pang, and H. Ji <br />
 <em>International Journal of Computer Vision (IJCV), </em>130: 1770–1789, 2022</span></li>
 
