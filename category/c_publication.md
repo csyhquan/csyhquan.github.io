@@ -44,7 +44,7 @@ title: Publications
 <span> Y. Quan, H. Huang, S. He, and R. Xu✉ <br />
 <em>International Conference on Computer Vision (ICCV), </em>2023</span></li> -->
 
-<li><span><strong>Diffuse3D: Wide-Angle 3D photography via bilateral diffusion</strong> [<a href="https://csyhquan.github.io/manuscript/23-iccv-Diffuse3D%20Wide-Angle%203D%20Photography%20via%20Bilateral%20Diffusion.pdf">manuscript</a>]</span><br />
+<li><span><strong>Diffuse3D: Wide-angle 3D photography via bilateral diffusion</strong> [<a href="https://csyhquan.github.io/manuscript/23-iccv-Diffuse3D%20Wide-Angle%203D%20Photography%20via%20Bilateral%20Diffusion.pdf">manuscript</a>]</span><br />
 <span> Y. Jiang, Y. Zhou, Y. Liang, W. Liu, J. Jiao, Y. Quan, and S. He✉ <br />
 <em>International Conference on Computer Vision (ICCV), </em>2023</span></li>
 
