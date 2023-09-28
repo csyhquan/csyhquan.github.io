@@ -8,7 +8,9 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-
+<li><span><strong>Enhancing texture representation with deep tracing pattern encoding</strong> </span><br />
+<span> Z. Chen, Y. Quan, R. Xu, L. Jin, Y. Xu, <br />
+<em>Pattern Recognition (PR), </em>2024</span></li>
 
 
 </ul>
