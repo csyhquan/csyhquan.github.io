@@ -288,10 +288,14 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </table>
 <br/>
 <!-------------------------------------------four--------------------------------------------------------->
-
 <table width="70%" border="0">
 <tbody>
 <tr>
+
+
+
+
+
 
 <td style="background-color: #fff;">
 <table width="370">
@@ -311,7 +315,13 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </td>
 
 
-<td style="background-color: #fff;">
+
+
+
+
+
+
+<!-- <td style="background-color: #fff;">
 <table width="340">
 <tbody>
 <tr>
@@ -320,13 +330,18 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </tr>
 </tbody>
 </table>
-</td>
+</td> -->
+
 
 
 </tr>
 </tbody>
 </table>
 <br/>
+
+
+
+
 
 <!-------------------------------------------former--------------------------------------------------------->
 <summary><t0><span><strong>Alumni</strong></span></t0></summary>
