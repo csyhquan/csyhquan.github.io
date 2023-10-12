@@ -22,7 +22,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Single image defocus deblurring via implicit neural inverse kernels</strong> [<a href="https://csyhquan.github.io/manuscript/23-iccv-Single%20Image%20Defocus%20Deblurring%20via%20Implicit%20Neural%20Inverse%20Kernels.pdf">manuscript</a>][<a href="https://github.com/xinyao240/INIKNet" ><font color="#F75000">github</font></a>]</span><br />
+<li><span><strong>Single image defocus deblurring via implicit neural inverse kernels</strong> [<a href="https://csyhquan.github.io/manuscript/23-iccv-Single%20Image%20Defocus%20Deblurring%20via%20Implicit%20Neural%20Inverse%20Kernels.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/23-iccv-Single%20Image%20Defocus%20Deblurring%20via%20Implicit%20Neural%20Inverse%20Kernels%20(SUPP).pdf">supp</a>][<a href="https://github.com/xinyao240/INIKNet" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, X. Yao, and H. Ji <br />
 <em>International Conference on Computer Vision (ICCV), </em>2023</span></li>
 
@@ -30,7 +30,7 @@ title: Publications
 <span> Y. Quan, X. Yao, and H. Ji <br />
 <em>International Conference on Computer Vision (ICCV), </em>2023</span></li> -->
 
-<li><span><strong>Fingerprinting deep image restoration models</strong> [<a href="https://csyhquan.github.io/manuscript/23-iccv-Fingerprinting%20Deep%20Image%20Restoration%20Models.pdf">manuscript</a>][<a href="https://github.com/painfulloop/Fingerprinting_IR_DNNs" ><font color="#F75000">github</font></a>]</span><br />
+<li><span><strong>Fingerprinting deep image restoration models</strong> [<a href="https://csyhquan.github.io/manuscript/23-iccv-Fingerprinting%20Deep%20Image%20Restoration%20Models.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/23-iccv-Fingerprinting%20Deep%20Image%20Restoration%20Models%20(SUPP).pdf">supp</a>][<a href="https://github.com/painfulloop/Fingerprinting_IR_DNNs" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, H. Teng, R. Xu✉, J. Huang, and H. Ji <br />
 <em>International Conference on Computer Vision (ICCV), </em>2023</span></li>
 
@@ -38,7 +38,7 @@ title: Publications
 <span> Y. Quan, H. Teng, R. Xu✉, J. Huang, and H. Ji <br />
 <em>International Conference on Computer Vision (ICCV), </em>2023</span></li> -->
 
-<li><span><strong>Deep video demoiréing via compact invertible dyadic decomposition</strong> [<a href="https://csyhquan.github.io/manuscript/23-iccv-Deep%20Video%20Demoiréing%20via%20Compact%20Invertible%20Dyadic%20Decomposition.pdf">manuscript</a>][<a href="https://github.com/HerryHuang1/CIDNet" ><font color="#F75000">github</font></a>]</span><br />
+<li><span><strong>Deep video demoiréing via compact invertible dyadic decomposition</strong> [<a href="https://csyhquan.github.io/manuscript/23-iccv-Deep%20Video%20Demoiréing%20via%20Compact%20Invertible%20Dyadic%20Decomposition.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/23-iccv-Deep%20Video%20Demoiréing%20via%20Compact%20Invertible%20Dyadic%20Decomposition%20(SUPP).pdf">supp</a>][<a href="https://github.com/HerryHuang1/CIDNet" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, H. Huang, S. He, and R. Xu✉ <br />
 <em>International Conference on Computer Vision (ICCV), </em>2023</span></li>
 
