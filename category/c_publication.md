@@ -54,7 +54,7 @@ title: Publications
 <span> H. Huang, Y. Quan, Z. Lei, J. Hu, and Y. Huang✉ <br />
 <em>IEEE International Conference on Multimedia and Expo (ICME), </em>2023</span></li>
 
-<li><span><strong>Image desnowing via deep invertible separation</strong> [<a href="https://csyhquan.github.io/manuscript/23-tcsvt-Image%20Desnowing%20via%20Deep%20Invertible%20Separation.pdf">manuscript</a>]</span><br />
+<li><span><strong>Image desnowing via deep invertible separation</strong> [<a href="https://csyhquan.github.io/manuscript/23-tcsvt-Image%20Desnowing%20via%20Deep%20Invertible%20Separation.pdf">manuscript</a>][<a href="https://github.com/csxhtan/InvDSNet" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, X. Tan, Y. Huang✉, Y. Xu, and H. Ji <br />
 <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), </em>33(7): 3133-3144, 2023</span></li>
 
