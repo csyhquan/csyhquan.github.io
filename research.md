@@ -27,7 +27,6 @@ sidebar_link: true
 
 
 <!--2-1-->
-<details>
 <summary><li type="disc"><strong><t1><font color="#004D86"><a href="https://csyhquan.github.io/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image denoising via sequential ensemble learning</a></font></t1></strong></li></summary>
 
 
