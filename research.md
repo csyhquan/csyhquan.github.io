@@ -14,7 +14,7 @@ sidebar_link: true
 <summary><t-half><strong>Image Denoising</strong></t-half></summary>
 <ul>
 
-<details>
+<details open="">
 <summary><strong><t1><font color="#004D86">Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</font></t1></strong></summary>
 
 <table width="100%" border="1" bordercolor="#e5e5e5">
@@ -59,7 +59,7 @@ sidebar_link: true
 
 
 <!--1-1-->
-<details open="">
+<details>
 <summary><strong><t1><font color="#004D86">Self2Self: Self-Supervised Image Denoising</font></t1></strong></summary>
 
 <table width="100%" border="1" bordercolor="#e5e5e5">
