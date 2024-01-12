@@ -21,6 +21,9 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
+   <img src="https://csyhquan.github.io/images/r_im3.png" alt="" height="130" class="pimg"/>
+  <a>&nbsp;</a>
+  <img src="https://csyhquan.github.io/images/im_2_1_2.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://csyhquan.github.io/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image denoising via sequential ensemble learning</a></strong>, TIP, 2020.</li>
@@ -40,6 +43,9 @@ sidebar_link: true
 <tbody>
 <tr>
  <th>
+   <img src="https://csyhquan.github.io/images/r_im3.png" alt="" height="130" class="pimg"/>
+  <a>&nbsp;</a>
+  <img src="https://csyhquan.github.io/images/im_2_1_2.png" alt="" height="130" class="pimg"/>
 <ul>
 <t2>
 <li type="disc"><strong><a href="https://csyhquan.github.io/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image denoising via sequential ensemble learning</a></strong>, TIP, 2020.</li>
