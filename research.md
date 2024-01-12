@@ -11,25 +11,11 @@ sidebar_link: true
 <script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script><!--引入Jquery，用于放大图片-->
 
 <details open="">
-<summary><t-half><strong>Image Denoising</strong></t-half></summary>
+<summary><t-half><strong>Deep Learning for Image Denoising</strong></t-half></summary>
 <ul>
 
 <details open="">
 <summary><strong><t1><font color="#004D86">Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</font></t1></strong></summary>
-
-<table width="100%" border="1" bordercolor="#e5e5e5">
-<tbody>
-<tr>
- <th>
-<ul>
-<t2>
-<li type="disc"><strong><a href="https://csyhquan.github.io/manuscript/21-cvpr-Recorrupted-to-Recorrupted%20Unsupervised%20Deep%20Learning%20for%20Image%20Denoising.pdf">Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</a></strong>, CVPR, 2021.</li>
-</t2>
-</ul>
- </th>
-</tr>
-</tbody>
-</table>
 </details>
 
 
