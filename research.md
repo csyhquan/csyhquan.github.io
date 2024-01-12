@@ -14,11 +14,11 @@ sidebar_link: true
 <summary><t-half><strong>Image Denoising</strong></t-half></summary>
 <ul>
 
-<details open="">
+<details>
 <summary><strong><t1><font color="#004D86">Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</font></t1></strong></summary>
 </details>
 
-<details open="">
+<details>
 <summary><strong><t1><font color="#004D86">Image denoising using complex-valued deep CNN</font></t1></strong></summary>
 </details>
 
