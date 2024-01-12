@@ -9,6 +9,60 @@ sidebar_link: true
 </p>
 -->
 <script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script><!--引入Jquery，用于放大图片-->
+
+<details open="">
+<summary><t-half><strong>Image denoising</strong></t-half></summary>
+<ul>
+<!--1-1-->
+<details open="">
+<summary><strong><t1><font color="#004D86">Self2Self: Self-Supervised Image Denoising</font></t1></strong></summary>
+
+<table width="100%" border="1" bordercolor="#e5e5e5">
+<tbody>
+<tr>
+ <th>
+  <img src="https://csyhquan.github.io/images/teaser_1.gif" alt="" height="130" class="pimg"/>
+  <a>&nbsp;</a>
+  <img src="https://csyhquan.github.io/images/r_im2.png" alt="" height="130" class="pimg"/>
+  <ul>
+  <t2>
+  	<li type="disc"><strong><a href="https://csyhquan.github.io/manuscript/20-cvpr-Self2Self%20With%20Dropout%20Learning%20Self-Supervised%20Denoising%20From%20Single%20Image.pdf">Self2Self with dropout: Learning self-supervised denoising from single image</a></strong>, CVPR, 2020.</li>
+  	<li type="disc"><strong><a href="https://csyhquan.github.io/manuscript/20-eccv-Self-supervised%20Bayesian%20Deep%20Learning%20for%20Image%20Recovery%20with%20Applications%20to%20Compressive%20Sensing.pdf">Self-supervised Bayesian deep learning for image recovery with applications to compressed sensing</a></strong>, ECCV, 2020.</li>
+  </t2>
+  </ul>
+ </th>
+</tr>
+
+</tbody>
+</table>
+</details>
+
+<!--2-1-->
+<details>
+<summary><strong><t1><font color="#004D86">Image Denoising via Sequential Ensemble Learning</font></t1></strong></summary>
+
+<table width="100%" border="1" bordercolor="#e5e5e5">
+<tbody>
+<tr>
+ <th>
+  <img src="https://csyhquan.github.io/images/r_im3.png" alt="" height="130" class="pimg"/>
+  <a>&nbsp;</a>
+  <img src="https://csyhquan.github.io/images/im_2_1_2.png" alt="" height="130" class="pimg"/>
+<ul>
+<t2>
+<li type="disc"><strong><a href="https://csyhquan.github.io/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image denoising via sequential ensemble learning</a></strong>, TIP, 2020.</li>
+</t2>
+</ul>
+ </th>
+</tr>
+</tbody>
+</table>
+</details>
+
+</ul>
+</details>
+
+
 <details open="">
 <summary><t-half><strong>Unsupervised Deep Learning for Computational Photography and Imaging</strong></t-half></summary>
 <ul>
