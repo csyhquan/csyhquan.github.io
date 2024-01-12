@@ -23,7 +23,7 @@ sidebar_link: true
 </details>
 
 <!--1-1-->
-<details open="">
+<details>
 <summary><strong><t1><font color="#004D86">Self2Self: Self-Supervised Image Denoising</font></t1></strong></summary>
 
 <table width="100%" border="1" bordercolor="#e5e5e5">
