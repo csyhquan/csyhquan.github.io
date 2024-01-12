@@ -14,9 +14,9 @@ sidebar_link: true
 <summary><t-half><strong>Deep Learning for Image Denoising</strong></t-half></summary>
 <ul>
 
-<details open="">
-<summary><strong><t1><font color="#004D86">Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</font></t1></strong></summary>
-</details>
+
+<summary><li type="disc"><strong><t1><font color="#004D86">Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</font></t1></strong></li></summary>
+
 
 
 <details>
