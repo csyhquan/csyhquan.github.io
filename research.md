@@ -14,6 +14,46 @@ sidebar_link: true
 <summary><t-half><strong>Image Denoising</strong></t-half></summary>
 <ul>
 
+<details open="">
+<summary><strong><t1><font color="#004D86">Recorrupted-to-Recorrupted: Unsupervised deep learning for image denoising</font></t1></strong></summary>
+
+<table width="100%" border="1" bordercolor="#e5e5e5">
+<tbody>
+<tr>
+ <th>
+<ul>
+<t2>
+<li type="disc"><strong><a href="https://csyhquan.github.io/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image denoising via sequential ensemble learning</a></strong>, TIP, 2020.</li>
+</t2>
+</ul>
+ </th>
+</tr>
+</tbody>
+</table>
+</details>
+
+
+<details>
+<summary><strong><t1><font color="#004D86">Image denoising using complex-valued deep CNN</font></t1></strong></summary>
+
+<table width="100%" border="1" bordercolor="#e5e5e5">
+<tbody>
+<tr>
+ <th>
+   <img src="https://csyhquan.github.io/images/r_im3.png" alt="" height="130" class="pimg"/>
+  <a>&nbsp;</a>
+  <img src="https://csyhquan.github.io/images/im_2_1_2.png" alt="" height="130" class="pimg"/>
+<ul>
+<t2>
+<li type="disc"><strong><a href="https://csyhquan.github.io/manuscript/20-tip-Image%20Denoising%20via%20Sequential%20Ensemble%20Learning.pdf">Image denoising via sequential ensemble learning</a></strong>, TIP, 2020.</li>
+</t2>
+</ul>
+ </th>
+</tr>
+</tbody>
+</table>
+</details>
+
 
 <!--1-1-->
 <details>
