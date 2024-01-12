@@ -11,7 +11,7 @@ sidebar_link: true
 <script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script><!--引入Jquery，用于放大图片-->
 
 <details open="">
-<summary><t-half><strong>Image denoising</strong></t-half></summary>
+<summary><t-half><strong>Image Denoising</strong></t-half></summary>
 <ul>
 <!--1-1-->
 <details open="">
