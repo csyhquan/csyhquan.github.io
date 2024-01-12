@@ -32,7 +32,8 @@ sidebar_link: true
 <!--2-1-->
 <summary><li type="disc"><strong><t1><font color="#004D86">Image Denoising via Sequential Ensemble Learning</font></t1></strong></li></summary>
 
-
+</ul>
+</details>
 
 <details open="">
 <summary><t-half><strong>Unsupervised Deep Learning for Computational Photography and Imaging</strong></t-half></summary>
