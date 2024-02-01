@@ -8,10 +8,30 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
+<li><span><strong>Siamese cooperative learning for unsupervised image reconstruction from incomplete measurements</strong> </span><br />
+<span> Y. Quan, X. Qin✉, T. Pang, and H. Ji, <br />
+<em> IEEE Transactions on Patter Analysis and Machine Intelligence (TPAMI), </em>2024</span></li>
+
+</ul>
+</t1>
+</details>
+
+<details open="">
+<summary><t-half><span><strong>2024</strong></span></t-half></summary>
+<t1>
+<ul style="background-color: #f2f2f2;">
+
 <li><span><strong>Enhancing texture representation with deep tracing pattern encoding</strong> </span><br />
 <span> Z. Chen, Y. Quan, R. Xu✉, L. Jin, and Y. Xu, <br />
 <em>Pattern Recognition (PR), </em>146, 2024</span></li>
 
+<li><span><strong>Wavelet analysis model inspired convolutional neural networks for image denoising</strong> </span><br />
+<span> R. Xu, Y. Xu, X. Yang, H. Huang, Z. Lei and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, <br />
+<em>Applied Mathematical Modelling (AMM), </em>125: 798-811, 2024</span></li>
+
+<li><span><strong>Image smoothing via multiscale global perception</strong> </span><br />
+<span> X. He, Y. Quan, R. Xu✉ and Y. Xu, <br />
+<em>IEEE Signal Processing Letters (SPL), </em>31: 411-415, 2024</span></li>
 
 </ul>
 </t1>
