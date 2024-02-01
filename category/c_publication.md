@@ -9,7 +9,7 @@ title: Publications
 <ul style="background-color: #f2f2f2;">
 
 <li><span><strong>Siamese cooperative learning for unsupervised image reconstruction from incomplete measurements</strong> </span><br />
-<span> Y. Quan, X. Qin✉, T. Pang, and H. Ji, <br />
+<span> Y. Quan, X. Qin✉, T. Pang, and H. Ji <br />
 <em> IEEE Transactions on Patter Analysis and Machine Intelligence (TPAMI), </em>2024</span></li>
 
 </ul>
@@ -21,16 +21,16 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Enhancing texture representation with deep tracing pattern encoding</strong> </span><br />
-<span> Z. Chen, Y. Quan, R. Xu✉, L. Jin, and Y. Xu, <br />
+<li><span><strong>Enhancing texture representation with deep tracing pattern encoding</strong> [<a href="https://csyhquan.github.io/manuscript/24-pr-Enhancing%20Texture%20Representation%20with%20Deep%20Tracing%20Pattern%20Encoding.pdf">manuscript</a>]</span><br />
+<span> Z. Chen, Y. Quan, R. Xu✉, L. Jin, and Y. Xu <br />
 <em>Pattern Recognition (PR), </em>146, 2024</span></li>
 
-<li><span><strong>Wavelet analysis model inspired convolutional neural networks for image denoising</strong> </span><br />
-<span> R. Xu, Y. Xu, X. Yang, H. Huang, Z. Lei and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, <br />
+<li><span><strong>Wavelet analysis model inspired convolutional neural networks for image denoising</strong> [<a href="https://csyhquan.github.io/manuscript/24-amm-Wavelet%20Analysis%20Model%20Inspired%20Convolutional%20Neural%20Networks%20for%20Image%20Denoising.pdf">manuscript</a>]</span><br />
+<span> R. Xu, Y. Xu, X. Yang, H. Huang, Z. Lei and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> <br />
 <em>Applied Mathematical Modelling (AMM), </em>125: 798-811, 2024</span></li>
 
-<li><span><strong>Image smoothing via multiscale global perception</strong> </span><br />
-<span> X. He, Y. Quan, R. Xu✉ and Y. Xu, <br />
+<li><span><strong>Image smoothing via multiscale global perception</strong> [<a href="https://csyhquan.github.io/manuscript/24-spl-Image%20Smoothing%20via%20Multiscale%20Global%20Perception.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/24-spl-Image%20Smoothing%20via%20Multiscale%20Global%20Perception%20(SUPP).pdf">supp</a>]</span><br />
+<span> X. He, Y. Quan, R. Xu✉ and Y. Xu <br />
 <em>IEEE Signal Processing Letters (SPL), </em>31: 411-415, 2024</span></li>
 
 </ul>
