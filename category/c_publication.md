@@ -8,7 +8,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Siamese cooperative learning for unsupervised image reconstruction from incomplete measurements</strong> </span><br />
+<li><span><strong>Siamese cooperative learning for unsupervised image reconstruction from incomplete measurements</strong> [<a href="https://csyhquan.github.io/manuscript/24-tpami-Siamese%20Cooperative%20Learning%20for%20Unsupervised%20Image%20Reconstruction%20from%20Incomplete%20Measurements.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, X. Qin✉, T. Pang, and H. Ji <br />
 <em> IEEE Transactions on Patter Analysis and Machine Intelligence (TPAMI), </em>2024</span></li>
 
