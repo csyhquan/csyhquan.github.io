@@ -26,11 +26,11 @@ title: Publications
 <em>Pattern Recognition (PR), </em>146, 2024</span></li>
 
 <li><span><strong>Wavelet analysis model inspired convolutional neural networks for image denoising</strong> [<a href="https://csyhquan.github.io/manuscript/24-amm-Wavelet%20Analysis%20Model%20Inspired%20Convolutional%20Neural%20Networks%20for%20Image%20Denoising.pdf">manuscript</a>]</span><br />
-<span> R. Xu, Y. Xu, X. Yang, H. Huang, Z. Lei and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> <br />
+<span> R. Xu, Y. Xu, X. Yang, H. Huang, Z. Lei, and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> <br />
 <em>Applied Mathematical Modelling (AMM), </em>125: 798-811, 2024</span></li>
 
 <li><span><strong>Image smoothing via multiscale global perception</strong> [<a href="https://csyhquan.github.io/manuscript/24-spl-Image%20Smoothing%20via%20Multiscale%20Global%20Perception.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/24-spl-Image%20Smoothing%20via%20Multiscale%20Global%20Perception%20(SUPP).pdf">supp</a>]</span><br />
-<span> X. He, Y. Quan, R. Xu✉ and Y. Xu <br />
+<span> X. He, Y. Quan, R. Xu✉, and Y. Xu <br />
 <em>IEEE Signal Processing Letters (SPL), </em>31: 411-415, 2024</span></li>
 
 </ul>
