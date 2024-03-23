@@ -8,21 +8,21 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Text-guided portrait image matting</strong> </span><br />
-<span> Y. Xu, X. Yao, B. Liu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
-<em> IEEE Transactions on Artificial Intelligence, </em>2024</span></li>
-
 <li><span><strong>Unsupervised deep unrolling network for phase unwrapping</strong> </span><br />
 <span> Z. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
 <em> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), </em>2024</span></li>
 
-<li><span><strong>Enhanced Deep Unrolling Networks for Snapshot Compressive Hyperspectral Imaging</strong> </span><br />
-<span> X. Qin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
-<em> Neural Networks, </em>2024</span></li>
-
 <li><span><strong>Siamese cooperative learning for unsupervised image reconstruction from incomplete measurements</strong> [<a href="https://csyhquan.github.io/manuscript/24-tpami-Siamese%20Cooperative%20Learning%20for%20Unsupervised%20Image%20Reconstruction%20from%20Incomplete%20Measurements.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, X. Qin✉, T. Pang, and H. Ji <br />
 <em> IEEE Transactions on Patter Analysis and Machine Intelligence (TPAMI), </em>2024</span></li>
+
+<li><span><strong>Enhanced Deep Unrolling Networks for Snapshot Compressive Hyperspectral Imaging</strong> </span><br />
+<span> X. Qin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
+<em> Neural Networks (NN), </em>2024</span></li>
+
+<li><span><strong>Text-guided portrait image matting</strong> </span><br />
+<span> Y. Xu, X. Yao, B. Liu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
+<em> IEEE Transactions on Artificial Intelligence (TAI), </em>2024</span></li>
 
 </ul>
 </t1>
