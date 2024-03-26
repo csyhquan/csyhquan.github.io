@@ -18,7 +18,7 @@ title: Publications
 
 <li><span><strong>Enhanced Deep Unrolling Networks for Snapshot Compressive Hyperspectral Imaging</strong> </span><br />
 <span> X. Qin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
-<em> Neural Networks (NN), </em>2024</span></li>
+<em> Neural Networks (NN), </em>174, 2024</span></li>
 
 <li><span><strong>Text-guided portrait image matting</strong> </span><br />
 <span> Y. Xu, X. Yao, B. Liu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
