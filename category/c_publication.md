@@ -16,9 +16,7 @@ title: Publications
 <span> Y. Quan, X. Qin✉, T. Pang, and H. Ji <br />
 <em> IEEE Transactions on Patter Analysis and Machine Intelligence (TPAMI), </em>2024</span></li>
 
-<li><span><strong>Enhanced Deep Unrolling Networks for Snapshot Compressive Hyperspectral Imaging</strong> </span><br />
-<span> X. Qin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
-<em> Neural Networks (NN), </em>174, 2024</span></li>
+
 
 <li><span><strong>Text-guided portrait image matting</strong> </span><br />
 <span> Y. Xu, X. Yao, B. Liu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
@@ -32,6 +30,10 @@ title: Publications
 <summary><t-half><span><strong>2024</strong></span></t-half></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
+
+<li><span><strong>Enhanced Deep Unrolling Networks for Snapshot Compressive Hyperspectral Imaging</strong> </span><br />
+<span> X. Qin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
+<em> Neural Networks (NN), </em>174, 2024</span></li>
 
 <li><span><strong>Enhancing texture representation with deep tracing pattern encoding</strong> [<a href="https://csyhquan.github.io/manuscript/24-pr-Enhancing%20Texture%20Representation%20with%20Deep%20Tracing%20Pattern%20Encoding.pdf">manuscript</a>]</span><br />
 <span> Z. Chen, Y. Quan, R. Xu✉, L. Jin, and Y. Xu <br />
