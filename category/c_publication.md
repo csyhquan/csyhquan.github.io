@@ -8,7 +8,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Unsupervised deep unrolling network for phase unwrapping</strong> </span><br />
+<li><span><strong>Unsupervised deep unrolling network for phase unwrapping</strong> [<a href="https://csyhquan.github.io/manuscript/24-cvpr-Unsupervised%20Deep%20Unrolling%20Networks%20for%20Phase%20Unwrapping.pdf">manuscript</a>]</span><br />
 <span> Z. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
 <em> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), </em>2024</span></li>
 
@@ -18,7 +18,7 @@ title: Publications
 
 
 
-<li><span><strong>Text-guided portrait image matting</strong> </span><br />
+<li><span><strong>Text-guided portrait image matting</strong> [<a href="https://csyhquan.github.io/manuscript/24-tai-Text-Guided%20Portrait%20Image%20Matting.pdf">manuscript</a>]</span><br />
 <span> Y. Xu, X. Yao, B. Liu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
 <em> IEEE Transactions on Artificial Intelligence (TAI), </em>2024</span></li>
 
@@ -31,7 +31,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Enhanced Deep Unrolling Networks for Snapshot Compressive Hyperspectral Imaging</strong> </span><br />
+<li><span><strong>Enhanced Deep Unrolling Networks for Snapshot Compressive Hyperspectral Imaging</strong> [<a href="https://csyhquan.github.io/manuscript/24-nn-Enhanced%20Deep%20Unrolling%20Networks%20for%20Snapshot%20Compressive%20Hyperspectral%20Imaging.pdf">manuscript</a>]</span><br />
 <span> X. Qin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
 <em> Neural Networks (NN), </em>174, 2024</span></li>
 
