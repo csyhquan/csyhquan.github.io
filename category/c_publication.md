@@ -12,9 +12,7 @@ title: Publications
 <span> Z. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
 <em> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), </em>2024</span></li>
 
-<li><span><strong>Siamese cooperative learning for unsupervised image reconstruction from incomplete measurements</strong> [<a href="https://csyhquan.github.io/manuscript/24-tpami-Siamese%20Cooperative%20Learning%20for%20Unsupervised%20Image%20Reconstruction%20from%20Incomplete%20Measurements.pdf">manuscript</a>]</span><br />
-<span> Y. Quan, X. Qin✉, T. Pang, and H. Ji <br />
-<em> IEEE Transactions on Patter Analysis and Machine Intelligence (TPAMI), </em>2024</span></li>
+
 
 
 
@@ -30,6 +28,10 @@ title: Publications
 <summary><t-half><span><strong>2024</strong></span></t-half></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
+
+<li><span><strong>Siamese cooperative learning for unsupervised image reconstruction from incomplete measurements</strong> [<a href="https://csyhquan.github.io/manuscript/24-tpami-Siamese%20Cooperative%20Learning%20for%20Unsupervised%20Image%20Reconstruction%20from%20Incomplete%20Measurements.pdf">manuscript</a>]</span><br />
+<span> Y. Quan, X. Qin✉, T. Pang, and H. Ji <br />
+<em> IEEE Transactions on Patter Analysis and Machine Intelligence (TPAMI), </em>2024</span></li>
 
 <li><span><strong>Enhanced Deep Unrolling Networks for Snapshot Compressive Hyperspectral Imaging</strong> [<a href="https://csyhquan.github.io/manuscript/24-nn-Enhanced%20Deep%20Unrolling%20Networks%20for%20Snapshot%20Compressive%20Hyperspectral%20Imaging.pdf">manuscript</a>]</span><br />
 <span> X. Qin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
