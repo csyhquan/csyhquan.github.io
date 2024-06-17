@@ -8,9 +8,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Unsupervised deep unrolling networks for phase unwrapping</strong> [<a href="https://csyhquan.github.io/manuscript/24-cvpr-Unsupervised%20Deep%20Unrolling%20Networks%20for%20Phase%20Unwrapping.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/24-cvpr-Unsupervised%20Deep%20Unrolling%20Networks%20for%20Phase%20Unwrapping%20(SUPP).pdf">supp</a>]</span><br />
-<span> Z. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
-<em> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), </em>2024</span></li>
+
 
 
 
@@ -28,6 +26,10 @@ title: Publications
 <summary><t-half><span><strong>2024</strong></span></t-half></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
+
+<li><span><strong>Unsupervised deep unrolling networks for phase unwrapping</strong> [<a href="https://csyhquan.github.io/manuscript/24-cvpr-Unsupervised%20Deep%20Unrolling%20Networks%20for%20Phase%20Unwrapping.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/24-cvpr-Unsupervised%20Deep%20Unrolling%20Networks%20for%20Phase%20Unwrapping%20(SUPP).pdf">supp</a>]</span><br />
+<span> Z. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
+<em> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), </em>2024</span></li>
 
 <li><span><strong>Siamese cooperative learning for unsupervised image reconstruction from incomplete measurements</strong> [<a href="https://csyhquan.github.io/manuscript/24-tpami-Siamese%20Cooperative%20Learning%20for%20Unsupervised%20Image%20Reconstruction%20from%20Incomplete%20Measurements.pdf">manuscript</a>][<a href="https://github.com/XinranQin/SIAMNet" ><font color="#F75000">github</font></a>]</span><br />
 <span> Y. Quan, X. Qin✉, T. Pang, and H. Ji <br />
