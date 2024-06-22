@@ -354,7 +354,7 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <td style="background-color: #f9f9f9;">
 <p class="ex2"><img src="https://csyhquan.github.io/images/谢凯歌.jpg" alt="" height="136" align="left" /></p>
 
-<p class="ex1"><g0><span><strong> &ensp; Xinchang Lu (谢凯歌)</strong></span></g0></p>
+<p class="ex1"><g0><span><strong> &ensp; Kaige Xie (谢凯歌)</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;Co-supervised M.Sc., 2021-2024</span></g1></p>
 <p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Development Engineer</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Ant Group OceanBase</span></g1></p>
