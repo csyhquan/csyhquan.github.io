@@ -59,22 +59,7 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 </td>
 
 
-<td style="background-color: #fff;">
-<table width="370">
-<tbody>
-<tr>
-<td style="background-color: #f9f9f9;">
-<p class="ex2"><img src="https://csyhquan.github.io/images/卢新昌.jpg" alt="" height="136" align="left" /></p>
 
-<p class="ex1"><g0><span><strong> &ensp; Xinchang Lu</strong></span></g0></p>
-<p class="ex1"><g1><span>&ensp; &nbsp;(卢新昌)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Master Student</span></g1></p>
-<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2021-Present</span></g1></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
 
 
 </tr>
@@ -307,7 +292,7 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 
 <p class="ex1"><g0><span><strong> &ensp; Juan Chen</strong></span></g0></p>
 <p class="ex1"><g1><span>&ensp; &nbsp;(陈娟)</span></g1></p>
-<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Co-supervised Master Student</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Master Student</span></g1></p>
 <p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;2023-Present</span></g1></p>
 </td>
 </tr>
@@ -371,6 +356,43 @@ u.ex1{   /*用于添加下划线的CSS，直接用<u></u>会和p以及g等冲突
 <table width="70%" border="0"><!----postdoctor&doctor--->
 <tbody>
 <tr>
+
+
+<td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/卢新昌.jpg" alt="" height="136" align="left" /></p>
+
+<p class="ex1"><g0><span><strong> &ensp; Xinchang Lu (卢新昌)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;Co-supervised M.Sc., 2021-2024</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Algorithm Engineer</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Sophia AI Lab</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+
+<td style="background-color: #fff;">
+<table width="370">
+<tbody>
+<tr>
+<td style="background-color: #f9f9f9;">
+<p class="ex2"><img src="https://csyhquan.github.io/images/谢凯歌.jpg" alt="" height="136" align="left" /></p>
+
+<p class="ex1"><g0><span><strong> &ensp; Xinchang Lu (谢凯歌)</strong></span></g0></p>
+<p class="ex1"><g1><span>&ensp; &nbsp;Co-supervised M.Sc., 2021-2024</span></g1></p>
+<p class="ex1"><g1><span>&ensp;&nbsp;&nbsp;Development Engineer</span></g1></p>
+<p class="ex1"><g1><span> &ensp;&nbsp;&nbsp;Ant Group OceanBase</span></g1></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
 
 <td style="background-color: #fff;">
 <table width="370">
