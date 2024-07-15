@@ -8,13 +8,9 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Unsupervised deep unrolling networks for phase unwrapping</strong> [<a href="https://csyhquan.github.io/manuscript/24-cvpr-Unsupervised%20Deep%20Unrolling%20Networks%20for%20Phase%20Unwrapping.pdf">manuscript</a>]</span><br />
-<span> Z. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
-<em> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), </em>2024</span></li>
 
-<li><span><strong>Siamese cooperative learning for unsupervised image reconstruction from incomplete measurements</strong> [<a href="https://csyhquan.github.io/manuscript/24-tpami-Siamese%20Cooperative%20Learning%20for%20Unsupervised%20Image%20Reconstruction%20from%20Incomplete%20Measurements.pdf">manuscript</a>]</span><br />
-<span> Y. Quan, X. Qin✉, T. Pang, and H. Ji <br />
-<em> IEEE Transactions on Patter Analysis and Machine Intelligence (TPAMI), </em>2024</span></li>
+
+
 
 
 
@@ -31,6 +27,14 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
+<li><span><strong>Unsupervised deep unrolling networks for phase unwrapping</strong> [<a href="https://csyhquan.github.io/manuscript/24-cvpr-Unsupervised%20Deep%20Unrolling%20Networks%20for%20Phase%20Unwrapping.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/24-cvpr-Unsupervised%20Deep%20Unrolling%20Networks%20for%20Phase%20Unwrapping%20(SUPP).pdf">supp</a>]</span><br />
+<span> Z. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
+<em> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), </em>2024</span></li>
+
+<li><span><strong>Siamese cooperative learning for unsupervised image reconstruction from incomplete measurements</strong> [<a href="https://csyhquan.github.io/manuscript/24-tpami-Siamese%20Cooperative%20Learning%20for%20Unsupervised%20Image%20Reconstruction%20from%20Incomplete%20Measurements.pdf">manuscript</a>][<a href="https://github.com/XinranQin/SIAMNet" ><font color="#F75000">github</font></a>]</span><br />
+<span> Y. Quan, X. Qin✉, T. Pang, and H. Ji <br />
+<em> IEEE Transactions on Patter Analysis and Machine Intelligence (TPAMI), </em>46(7): 4866-4879, 2024</span></li>
+
 <li><span><strong>Enhanced Deep Unrolling Networks for Snapshot Compressive Hyperspectral Imaging</strong> [<a href="https://csyhquan.github.io/manuscript/24-nn-Enhanced%20Deep%20Unrolling%20Networks%20for%20Snapshot%20Compressive%20Hyperspectral%20Imaging.pdf">manuscript</a>]</span><br />
 <span> X. Qin, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
 <em> Neural Networks (NN), </em>174, 2024</span></li>
@@ -43,7 +47,7 @@ title: Publications
 <span> R. Xu, Y. Xu, X. Yang, H. Huang, Z. Lei, and Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a> <br />
 <em>Applied Mathematical Modelling (AMM), </em>125: 798-811, 2024</span></li>
 
-<li><span><strong>Image smoothing via multiscale global perception</strong> [<a href="https://csyhquan.github.io/manuscript/24-spl-Image%20Smoothing%20via%20Multiscale%20Global%20Perception.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/24-spl-Image%20Smoothing%20via%20Multiscale%20Global%20Perception%20(SUPP).pdf">supp</a>]</span><br />
+<li><span><strong>Image smoothing via multiscale global perception</strong> [<a href="https://csyhquan.github.io/manuscript/24-spl-Image%20Smoothing%20via%20Multiscale%20Global%20Perception.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/24-spl-Image%20Smoothing%20via%20Multiscale%20Global%20Perception%20(SUPP).pdf">supp</a>][<a href="https://github.com/csxyhe/MGPNet" ><font color="#F75000">github</font></a>]</span><br />
 <span> X. He, Y. Quan, R. Xu✉, and Y. Xu <br />
 <em>IEEE Signal Processing Letters (SPL), </em>31: 411-415, 2024</span></li>
 
