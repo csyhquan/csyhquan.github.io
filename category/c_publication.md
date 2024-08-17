@@ -8,7 +8,7 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Dual-Path deep unsupervised learning for multi-focus image fusion</strong> </span><br />
+<li><span><strong>Dual-path deep unsupervised learning for multi-focus image fusion</strong> </span><br />
 <span> Y. Quan, X. Wan, T. Zheng, Y. Huang✉, and H. Ji <br />
 <em> IEEE Transactions on Multimedia (TMM), </em>2024</span></li>
 
