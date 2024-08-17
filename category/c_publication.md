@@ -8,15 +8,15 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<li><span><strong>Dual-Path deep unsupervised learning for multi-Focus image fusion</strong> </span><br />
+<li><span><strong>Dual-Path deep unsupervised learning for multi-focus image fusion</strong> </span><br />
 <span> Y. Quan, X. Wan, T. Zheng, Y. Huang✉, and H. Ji <br />
 <em> IEEE Transactions on Multimedia (TMM), </em>2024</span></li>
 
-<li><span><strong>Enhancing underwater images via asymmetric multi-Scale invertible networks</strong> </span><br />
+<li><span><strong>Enhancing underwater images via asymmetric multi-scale invertible networks</strong> </span><br />
 <span> Y. Qaun, X. Tan, Y. Huang✉, Y. Xu, and H. Ji <br />
 <em> ACM Multimedia (MM), </em>2024</span></li>
 
-<li><span><strong>Highly efficient no-reference 4K video quality assessment with full-Pixel covering sampling and training strategy</strong> </span><br />
+<li><span><strong>Highly efficient no-reference 4K video quality assessment with full-pixel covering sampling and training strategy</strong> </span><br />
 <span> X. Tan, J. Zhang, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, J. Li✉, Y, Wu, and Z. Bian <br />
 <em> ACM Multimedia (MM), </em>2024</span></li>
 
