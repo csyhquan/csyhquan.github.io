@@ -8,11 +8,21 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
+<li><span><strong>Dual-Path deep unsupervised learning for multi-Focus image fusion</strong> </span><br />
+<span> Y. Quan, X. Wan, T. Zheng, Y. Huang✉, and H. Ji <br />
+<em> IEEE Transactions on Multimedia (TMM), </em>2024</span></li>
 
+<li><span><strong>Enhancing underwater images via asymmetric multi-Scale invertible networks</strong> </span><br />
+<span> Y. Qaun, X. Tan, Y. Huang✉, Y. Xu, and H. Ji <br />
+<em> ACM Multimedia (MM), </em>2024</span></li>
 
+<li><span><strong>Highly efficient no-reference 4K video quality assessment with full-Pixel covering sampling and training strategy</strong> </span><br />
+<span> X. Tan, J. Zhang, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, J. Li✉, Y, Wu, and Z. Bian <br />
+<em> ACM Multimedia (MM), </em>2024</span></li>
 
-
-
+<li><span><strong>3D Snapshot: Invertible embedding of 3D neural representations in a single image</strong> </span><br />
+<span> Y. Lu, B. Deng, Z. Zhong, T. Zhang, Y. Quan, H. Cai, and S. He <br />
+<em> IEEE Transactions on Patter Analysis and Machine Intelligence (TPAMI), </em>2024</span></li>
 
 <li><span><strong>Text-guided portrait image matting</strong> [<a href="https://csyhquan.github.io/manuscript/24-tai-Text-Guided%20Portrait%20Image%20Matting.pdf">manuscript</a>]</span><br />
 <span> Y. Xu, X. Yao, B. Liu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
