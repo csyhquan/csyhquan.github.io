@@ -8,6 +8,10 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
+<li><span><strong>Deep single image defocus deblurring via gaussian kernel mixture learning</strong> </span><br />
+<span> Y. Quan, Z. Wu, R. Xu✉, and H. Ji <br />
+<em> IEEE Transactions on Patter Analysis and Machine Intelligence (TPAMI), </em>2024</span></li>
+
 <li><span><strong>Dual-path deep unsupervised learning for multi-focus image fusion</strong> </span><br />
 <span> Y. Quan, X. Wan, T. Zheng, Y. Huang✉, and H. Ji <br />
 <em> IEEE Transactions on Multimedia (TMM), </em>2024</span></li>
