@@ -17,7 +17,7 @@ title: Publications
 <em> Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurlPS), </em>2024</span></li>
 
 <li><span><strong>Phase unwrapping via fully exploiting global and local spatial dependencies</strong> </span><br />
-<span> Y. Quan, X. Yao, Z. Chen, and H. Ji <br />
+<span> Y. Quan, X. Yao, Z. Chen✉, and H. Ji <br />
 <em> Optics and Laser Technology, </em>2024</span></li>
 
 <li><span><strong>Deep single image defocus deblurring via gaussian kernel mixture learning</strong> </span><br />
