@@ -8,6 +8,18 @@ title: Publications
 <t1>
 <ul style="background-color: #f2f2f2;">
 
+<li><span><strong>Cross-scale self-supervised blind image deblurring via implicit neural representation</strong> </span><br />
+<span> T. Zhang, Y. Quan, and H. Ji <br />
+<em> Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurlPS), </em>2024</span></li>
+
+<li><span><strong>Pseudo-Siamese directional transformers for Self-supervised real-world denoising</strong> </span><br />
+<span> Y. Quan, T. Zheng, and H. Ji <br />
+<em> Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurlPS), </em>2024</span></li>
+
+<li><span><strong>Phase unwrapping via fully exploiting global and local spatial dependencies</strong> </span><br />
+<span> Y. Quan, X. Yao, Z. Chen, and H. Ji <br />
+<em> Optics and Laser Technology, </em>2024</span></li>
+
 <li><span><strong>Deep single image defocus deblurring via gaussian kernel mixture learning</strong> </span><br />
 <span> Y. Quan, Z. Wu, R. Xu✉, and H. Ji <br />
 <em> IEEE Transactions on Patter Analysis and Machine Intelligence (TPAMI), </em>2024</span></li>
