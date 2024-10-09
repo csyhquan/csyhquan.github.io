@@ -16,19 +16,19 @@ title: Publications
 <span> Y. Quan, T. Zheng, and H. Ji <br />
 <em> Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurlPS), </em>2024</span></li>
 
-<li><span><strong>Phase unwrapping via fully exploiting global and local spatial dependencies</strong> </span><br />
+<li><span><strong>Phase unwrapping via fully exploiting global and local spatial dependencies</strong> [<a href="https://csyhquan.github.io/manuscript/24-Phase%20unwrapping%20via%20fully%20exploiting%20global%20and%20local%20spatial%20dependencies.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/24-Phase%20unwrapping%20via%20fully%20exploiting%20global%20and%20local%20spatial%20dependencies%20(SUPP).pdf">supp</a>]</span><br />
 <span> Y. Quan, X. Yao, Z. Chen✉, and H. Ji <br />
 <em> Optics and Laser Technology, </em>2024</span></li>
 
-<li><span><strong>Deep single image defocus deblurring via gaussian kernel mixture learning</strong> </span><br />
+<li><span><strong>Deep single image defocus deblurring via gaussian kernel mixture learning</strong> [<a href="https://csyhquan.github.io/manuscript/24-tpami-Deep%20single%20image%20defocus%20deblurring%20via%20gaussian%20kernel%20mixture%20learning.pdf">manuscript</a>]</span><br />
 <span> Y. Quan, Z. Wu, R. Xu✉, and H. Ji <br />
 <em> IEEE Transactions on Patter Analysis and Machine Intelligence (TPAMI), </em>2024</span></li>
 
-<li><span><strong>Dual-path deep unsupervised learning for multi-focus image fusion</strong> </span><br />
+<li><span><strong>Dual-path deep unsupervised learning for multi-focus image fusion</strong> [<a href="https://csyhquan.github.io/manuscript/24-tmm-Dual-path%20deep%20unsupervised%20learning%20for%20multi-focus%20image%20fusion.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/24-tmm-Dual-path%20deep%20unsupervised%20learning%20for%20multi-focus%20image%20fusion%20(SUPP).pdf">supp</a>]</span><br />
 <span> Y. Quan, X. Wan, T. Zheng, Y. Huang✉, and H. Ji <br />
 <em> IEEE Transactions on Multimedia (TMM), </em>2024</span></li>
 
-<li><span><strong>Enhancing underwater images via asymmetric multi-scale invertible networks</strong> </span><br />
+<li><span><strong>Enhancing underwater images via asymmetric multi-scale invertible networks</strong> [<a href="https://csyhquan.github.io/manuscript/24-mm-Enhancing%20underwater%20images%20via%20asymmetric%20multi-scale%20invertible%20networks%20(SUPP).pdf">supp</a>]</span><br />
 <span> Y. Qaun, X. Tan, Y. Huang✉, Y. Xu, and H. Ji <br />
 <em> ACM Multimedia (MM), </em>2024</span></li>
 
@@ -40,9 +40,6 @@ title: Publications
 <span> Y. Lu, B. Deng, Z. Zhong, T. Zhang, Y. Quan, H. Cai, and S. He <br />
 <em> IEEE Transactions on Patter Analysis and Machine Intelligence (TPAMI), </em>2024</span></li>
 
-<li><span><strong>Text-guided portrait image matting</strong> [<a href="https://csyhquan.github.io/manuscript/24-tai-Text-Guided%20Portrait%20Image%20Matting.pdf">manuscript</a>]</span><br />
-<span> Y. Xu, X. Yao, B. Liu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
-<em> IEEE Transactions on Artificial Intelligence (TAI), </em>2024</span></li>
 
 </ul>
 </t1>
@@ -52,6 +49,10 @@ title: Publications
 <summary><t-half><span><strong>2024</strong></span></t-half></summary>
 <t1>
 <ul style="background-color: #f2f2f2;">
+
+<li><span><strong>Text-guided portrait image matting</strong> [<a href="https://csyhquan.github.io/manuscript/24-tai-Text-Guided%20Portrait%20Image%20Matting.pdf">manuscript</a>]</span><br />
+<span> Y. Xu, X. Yao, B. Liu, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
+<em> IEEE Transactions on Artificial Intelligence (TAI), </em>5(8): 4149-4162, 2024</span></li>
 
 <li><span><strong>Unsupervised deep unrolling networks for phase unwrapping</strong> [<a href="https://csyhquan.github.io/manuscript/24-cvpr-Unsupervised%20Deep%20Unrolling%20Networks%20for%20Phase%20Unwrapping.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/24-cvpr-Unsupervised%20Deep%20Unrolling%20Networks%20for%20Phase%20Unwrapping%20(SUPP).pdf">supp</a>][<a href="https://github.com/chenzhile1999/Unsupervised-PU" ><font color="#F75000">github</font></a>]</span><br />
 <span> Z. Chen, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, and H. Ji <br />
