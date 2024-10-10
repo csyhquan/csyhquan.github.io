@@ -28,11 +28,11 @@ title: Publications
 <span> Y. Quan, X. Wan, T. Zheng, Y. Huang✉, and H. Ji <br />
 <em> IEEE Transactions on Multimedia (TMM), </em>2024</span></li>
 
-<li><span><strong>Enhancing underwater images via asymmetric multi-scale invertible networks</strong> [<a href="https://csyhquan.github.io/manuscript/24-mm-Enhancing%20underwater%20images%20via%20asymmetric%20multi-scale%20invertible%20networks%20(SUPP).pdf">supp</a>]</span><br />
+<li><span><strong>Enhancing underwater images via asymmetric multi-scale invertible networks</strong> [<a href="https://csyhquan.github.io/manuscript/24-mm-Enhancing%20underwater%20images%20via%20asymmetric%20multi-scale%20invertible%20networks.pdf">manuscript</a>][<a href="https://csyhquan.github.io/manuscript/24-mm-Enhancing%20underwater%20images%20via%20asymmetric%20multi-scale%20invertible%20networks%20(SUPP).pdf">supp</a>]</span><br />
 <span> Y. Qaun, X. Tan, Y. Huang✉, Y. Xu, and H. Ji <br />
 <em> ACM Multimedia (MM), </em>2024</span></li>
 
-<li><span><strong>Highly efficient no-reference 4K video quality assessment with full-pixel covering sampling and training strategy</strong> </span><br />
+<li><span><strong>Highly efficient no-reference 4K video quality assessment with full-pixel covering sampling and training strategy</strong> [<a href="https://csyhquan.github.io/manuscript/24-mm-Highly%20efficient%20no-reference%204K%20video%20quality%20assessment%20with%20full-pixel%20covering%20sampling%20and%20training%20strategy.pdf">manuscript</a>]</span><br />
 <span> X. Tan, J. Zhang, Y. Quan<a href="mailto:csyhquan@scut.edu.cn">✉</a>, J. Li✉, Y, Wu, and Z. Bian <br />
 <em> ACM Multimedia (MM), </em>2024</span></li>
 
